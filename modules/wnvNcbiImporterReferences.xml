@@ -1,0 +1,11 @@
+<ncbiImporter>
+  <sequenceFormat>GENBANK_XML</sequenceFormat>
+  <specificPrimaryAccessions>
+
+    <!-- Master reference -->  
+	<primaryAccession>NC_009942 </primaryAccession>
+
+  </specificPrimaryAccessions>
+  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+  <sourceName>ncbi-refseqs</sourceName>
+</ncbiImporter>

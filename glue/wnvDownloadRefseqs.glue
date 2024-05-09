@@ -1,0 +1,11 @@
+# Clean-up
+delete module wnvNcbiImporterReferences
+
+# Create modules
+create module -f modules/wnvNcbiImporterReferences.xml wnvNcbiImporterReferences
+
+# Download NCBI sequences 
+module wnvNcbiImporterReferences import
+
+# Export sources
+export source ncbi-refseqs

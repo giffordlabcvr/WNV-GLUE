@@ -1,0 +1,5 @@
+# Extension modules
+
+create module -f modules/yfvMaxLikelihoodPlacer.xml
+create module -f modules/yfvMaxLikelihoodGenotyper.xml
+

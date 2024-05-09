@@ -1,0 +1,49 @@
+delete project wnv
+
+create project wnv "A GLUE project for West Nile virus (WNV)" --minVersion 1.1.107
+
+run file glue/wnvSchemaExtensions.glue
+ 
+project wnv
+
+  run file glue/wnvProjectSettings.glue
+  run file glue/wnvModules.glue
+
+  # Define features
+  run file glue/wnvFeatures.glue
+
+  # NCBI refseqs - taxa in the reference phylogeny, plus the  master reference
+  import source sources/ncbi-refseqs
+  import source sources/ncbi-curated
+  
+  # Define references
+  run file glue/wnvReferences.glue
+  
+  # Define feature locations on master references
+  #run file glue/wnvExplicitFeatureLocations.glue
+ 
+  # Link sequence table entries to isolate table
+  run script glue/wnvLoadIsolateData.js 
+  run script glue/wnvLoadIsolateDataCurated.js 
+  
+  # Populate refseq + outgroup metadata from GenBank XML
+  module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-refseqs'"
+  module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
+
+  # Import unconstrained alignment
+  #run file glue/wnvUnconstrainedAlignments.glue
+
+  # Define alignment tree
+  #run file glue/wnvAlignmentTree.glue
+  
+  # inherit feature locations across other references
+  #run script glue/wnvRefseqsInheritFeatureLocations.js
+  #run script glue/wnvValidateRefseqFeatureLocations.js
+
+  # import the reference phylogeny into the alignment tree
+  #run file glue/wnvImportPhylogeny.glue
+  
+  # Validate
+  validate
+
+  exit

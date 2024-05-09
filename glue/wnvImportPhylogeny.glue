@@ -1,0 +1,13 @@
+delete module wnvPhyloImporter
+create module -f modules/wnvPhyloImporter.xml
+
+module wnvPhyloImporter
+
+  import phylogeny AL_WNV_ROOT \
+  --recursive \
+  --anyAlignment \
+  --whereClause "sequence.source.name = 'ncbi-refseqs' and referenceMember = false" \
+  --inputFile trees/wnvReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --fieldName phylogeny
+
+  exit

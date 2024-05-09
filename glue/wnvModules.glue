@@ -1,0 +1,7 @@
+# Basic modules
+create module --fileName modules/wnvGenbankXmlPopulator.xml
+create module --fileName modules/unconstrainedAlignmentImporter.xml
+
+create module -f modules/wnvTabularUtility.xml
+create module -f modules/wnvSideDataImporter.xml
+

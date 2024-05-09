@@ -1,0 +1,101 @@
+  # WNV Master reference
+  
+  reference REF_MASTER_WNV
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 11029
+      exit
+
+    add feature-location 5UTR
+    feature-location 5UTR
+      add segment 1 96
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 97 10398
+      exit
+
+    add feature-location structural_proteins
+    feature-location structural_proteins
+      add segment 119 2452
+      exit
+
+    add feature-location non_structural_proteins
+    feature-location non_structural_proteins
+      add segment 2453 10354
+      exit
+
+    add feature-location ancC
+    feature-location ancC
+      add segment 97 465
+      exit
+
+    add feature-location capsid
+    feature-location capsid
+      add segment 112 411
+      exit
+
+    add feature-location prM
+    feature-location prM
+      add segment 466 966
+      exit
+
+    add feature-location M
+    feature-location M
+      add segment 742 966
+      exit
+
+    add feature-location envelope
+    feature-location envelope
+      add segment 967 2469
+      exit
+
+    add feature-location NS1
+    feature-location NS1
+      add segment 2470 3525
+      exit
+
+    add feature-location NS2A
+    feature-location NS2A
+      add segment 3526 4218
+      exit
+
+    add feature-location NS2B
+    feature-location NS2B
+      add segment 4219 4611
+      exit
+
+    add feature-location NS3
+    feature-location NS3
+      add segment 4612 6468
+      exit
+
+    add feature-location NS4A
+    feature-location NS4A
+      add segment 6469 6846
+      exit
+
+    add feature-location 2K
+    feature-location 2K
+      add segment 6847 6915
+      exit
+
+    add feature-location NS4B
+    feature-location NS4B
+      add segment 6916 7680
+      exit
+
+    #add feature-location NS5
+    #feature-location NS5
+    #  add segment 7637 10351
+    #  exit
+      
+    add feature-location 3UTR
+    feature-location 3UTR
+      add segment 10399 11029
+      exit
+
+  exit 
+

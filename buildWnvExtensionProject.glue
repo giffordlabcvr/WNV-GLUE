@@ -1,0 +1,24 @@
+project wnv
+
+  delete source ncbi-curated
+
+  # Define extension modules
+  run file glue/wnvExtensionModules.glue
+
+  # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
+  import source sources/ncbi-curated
+
+  # Link sequence table entries to isolate table
+  run script glue/wnvLoadIsolateDataCurated.js 
+
+  # Populate refseq + outgroup metadata from GenBank XML
+  module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
+
+  # Run script to determine serotypes via GLUE's MCLA algorithm
+  run script glue/wnvGenotypeCuratedSeqs.js
+
+  # Validate
+  validate
+
+  exit
+

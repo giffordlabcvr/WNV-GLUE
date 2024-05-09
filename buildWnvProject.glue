@@ -1,0 +1,5 @@
+# Build the base project
+run file buildYfvBaseProject.glue
+
+# Build the extension project
+run file buildYfvExtensionProject.glue
