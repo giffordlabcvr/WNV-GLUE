@@ -78,15 +78,16 @@
 			</propertyPopulator>
 		</gbQualifier>
 
-
 		<gbQualifier name="country">
-			<propertyPopulator property="isolate_data.country"/>
+			<propertyPopulator property="isolate_data.country">
+				<matchPattern>([^:]+)</matchPattern>
+				<outputTemplate>${g1}</outputTemplate>
+			</propertyPopulator>
 			<propertyPopulator property="isolate_data.place_sampled">
 				<matchPattern>^.*:(.*)$</matchPattern>
 				<outputTemplate>${g1?trim}</outputTemplate>
 			</propertyPopulator>
 		</gbQualifier>
-
 		
 		<gbQualifier name="collection_date">
 			<propertyPopulator property="isolate_data.collection_month_day">
