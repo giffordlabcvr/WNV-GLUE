@@ -1,0 +1,6 @@
+
+  # Import metadata for RT sequences from tabular
+  module wnvSideDataImporter 
+    populate -f tabular/wnv-side-data.tsv
+    exit
+

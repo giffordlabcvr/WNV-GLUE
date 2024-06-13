@@ -19,12 +19,12 @@
 
     add feature-location structural_proteins
     feature-location structural_proteins
-      add segment 119 2452
+      add segment 97 2469
       exit
 
     add feature-location non_structural_proteins
     feature-location non_structural_proteins
-      add segment 2453 10354
+      add segment 2470 10398
       exit
 
     add feature-location ancC

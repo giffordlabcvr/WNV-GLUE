@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
 <textFilePopulator>
-
     <columnDelimiterRegex>\t</columnDelimiterRegex>
-    
+
     <textFileColumn>
         <identifier>true</identifier>
         <header>sequenceID</header>
@@ -21,6 +19,4 @@
     </textFileColumn>
 
     <skipMissing>true</skipMissing>
-
 </textFilePopulator>
-

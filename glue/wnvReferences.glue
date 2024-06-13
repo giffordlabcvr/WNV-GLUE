@@ -2,5 +2,48 @@
 
 # Master reference
 
-create reference REF_MASTER_WNV ncbi-refseqs NC_009942 
+# Lineage 1A
+create reference REF_MASTER_WNV     ncbi-refseqs NC_009942 
+create reference REF_WNV_1A_KX547428 ncbi-refseqs KX547428
+create reference REF_WNV_1A_HM152773 ncbi-refseqs HM152773
+create reference REF_WNV_1A_KU978766 ncbi-refseqs KU978766
+create reference REF_WNV_1A_KJ501362 ncbi-refseqs KJ501362
+create reference REF_WNV_1A_DQ164202 ncbi-refseqs DQ164202
+create reference REF_WNV_1A_MH643887 ncbi-refseqs MH643887
+create reference REF_WNV_1A_KU978769 ncbi-refseqs KU978769
+create reference REF_WNV_1A_GQ379161 ncbi-refseqs GQ379161
+create reference REF_WNV_1A_JF719069 ncbi-refseqs JF719069
+create reference REF_WNV_1A_GU011992 ncbi-refseqs GU011992
+create reference REF_WNV_1A_KF234080 ncbi-refseqs KF234080
+create reference REF_WNV_1A_MT863559 ncbi-refseqs MT863559
+create reference REF_WNV_1A_KY703854 ncbi-refseqs KY703854
+create reference REF_WNV_1A_JX442279 ncbi-refseqs JX442279
+create reference REF_WNV_1A_JX041629 ncbi-refseqs JX041629
+create reference REF_WNV_1A_JX041630 ncbi-refseqs JX041630
+
+# Lineage 1B
+create reference REF_WNV_1B_JX123030 ncbi-refseqs JX123030
+create reference REF_WNV_1B_JN887352 ncbi-refseqs JN887352
+create reference REF_WNV_1B_GQ851602 ncbi-refseqs GQ851602
+
+# Lineage 2
+create reference REF_WNV_2_KJ883350 ncbi-refseqs KJ883350
+create reference REF_WNV_2_MW142225 ncbi-refseqs MW142225
+create reference REF_WNV_2_KJ934710 ncbi-refseqs KJ934710
+
+# Lineage 3
+create reference REF_WNV_3_AY765264 ncbi-refseqs AY765264
+
+# Lineage 4
+create reference REF_WNV_4_FJ159129 ncbi-refseqs FJ159129
+
+# Lineage 5
+create reference REF_WNV_5_JX041632 ncbi-refseqs JX041632
+create reference REF_WNV_5_KU978770 ncbi-refseqs KU978770
+
+# Lineage 7
+create reference REF_WNV_7_KY703855 ncbi-refseqs KY703855
+
+# Lineage 8
+create reference REF_WNV_8_KY703856 ncbi-refseqs KY703856
 

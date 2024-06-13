@@ -5,3 +5,4 @@ create module --fileName modules/unconstrainedAlignmentImporter.xml
 create module -f modules/wnvTabularUtility.xml
 create module -f modules/wnvSideDataImporter.xml
 
+create module -f modules/wnvCompoundAligner.xml

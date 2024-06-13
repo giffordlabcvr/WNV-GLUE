@@ -3,7 +3,35 @@
   <specificPrimaryAccessions>
 
     <!-- Master reference -->  
-	<primaryAccession>NC_009942 </primaryAccession>
+	<primaryAccession>NC_009942</primaryAccession>
+	<primaryAccession>KX547428</primaryAccession>
+	<primaryAccession>HM152773</primaryAccession>
+	<primaryAccession>KU978766</primaryAccession>
+	<primaryAccession>KJ501362</primaryAccession>
+	<primaryAccession>DQ164202</primaryAccession>
+	<primaryAccession>MH643887</primaryAccession>
+	<primaryAccession>KU978769</primaryAccession>
+	<primaryAccession>GQ379161</primaryAccession>
+	<primaryAccession>JF719069</primaryAccession>
+	<primaryAccession>GU011992</primaryAccession>
+	<primaryAccession>KF234080</primaryAccession>
+	<primaryAccession>MT863559</primaryAccession>
+	<primaryAccession>KY703854</primaryAccession>
+	<primaryAccession>JX442279</primaryAccession>
+	<primaryAccession>JX041629</primaryAccession>
+	<primaryAccession>JX041630</primaryAccession>
+	<primaryAccession>JX123030</primaryAccession>
+	<primaryAccession>JN887352</primaryAccession>
+	<primaryAccession>GQ851602</primaryAccession>
+	<primaryAccession>KJ883350</primaryAccession>
+	<primaryAccession>MW142225</primaryAccession>
+	<primaryAccession>KJ934710</primaryAccession>
+	<primaryAccession>AY765264</primaryAccession>
+	<primaryAccession>FJ159129</primaryAccession>
+	<primaryAccession>JX041632</primaryAccession>
+	<primaryAccession>KU978770</primaryAccession>
+	<primaryAccession>KY703855</primaryAccession>
+	<primaryAccession>KY703856</primaryAccession>
 
   </specificPrimaryAccessions>
   <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>

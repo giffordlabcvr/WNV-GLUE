@@ -1,10 +1,19 @@
 <maxLikelihoodGenotyper>
-	<maxLikelihoodPlacerModuleName>yfvMaxLikelihoodPlacer</maxLikelihoodPlacerModuleName>
+	<maxLikelihoodPlacerModuleName>wnvMaxLikelihoodPlacer</maxLikelihoodPlacerModuleName>
 
 	<cladeCategory>
-		<name>genotype</name>	
-		<displayName>Genotype</displayName>	
-		<whereClause>clade_category = 'genotype'</whereClause>
+		<name>lineage</name>	
+		<displayName>Lineage</displayName>	
+		<whereClause>clade_category = 'lineage'</whereClause>
+		<distanceScalingExponent>-4.5</distanceScalingExponent>
+	    <distanceCutoff>0.06</distanceCutoff>
+		<finalCladeCutoff>65.0</finalCladeCutoff>		
+	</cladeCategory>
+
+	<cladeCategory>
+		<name>clade</name>	
+		<displayName>Clade</displayName>	
+		<whereClause>clade_category = 'clade'</whereClause>
 		<distanceScalingExponent>-4.5</distanceScalingExponent>
 	    <distanceCutoff>0.06</distanceCutoff>
 		<finalCladeCutoff>65.0</finalCladeCutoff>		

@@ -6,43 +6,84 @@
 
     add member --allSequences
 
-    set field displayName "Yellow fever virus"
-  
-	extract child AL_WNV_SouthAmerica1 -r REF_OR119828_Panama_2002
-	demote member AL_WNV_SouthAmerica1 --whereClause "sequence.genotype = 'SouthAmerica1'"
-  
-	extract child AL_WNV_SouthAmerica2 -r REF_JF912181_Brazil_1983
-	demote member AL_WNV_SouthAmerica2 --whereClause "sequence.genotype = 'SouthAmerica2'"
-  
-	extract child AL_WNV_WestAfrica -r REF_AF094612_Trinidad_1979
-	demote member AL_WNV_WestAfrica --whereClause "sequence.genotype = 'WestAfrica'"
+    set field displayName "West Nile virus"
+    set field clade_category "species" 
 
-	extract child AL_WNV_EastAfrica -r REF_AY968064_Angola_1971
-	demote member AL_WNV_EastAfrica --whereClause "sequence.genotype = 'EastAfrica'"
-	
+	extract child AL_WNV_Lineage1 -r REF_MASTER_WNV
+	demote member AL_WNV_Lineage1 --whereClause "sequence.lineage = '1'"
+
+	extract child AL_WNV_Lineage2 -r REF_WNV_2_KJ883350
+	demote member AL_WNV_Lineage2 --whereClause "sequence.lineage = '2'"
+
+	extract child AL_WNV_Lineage3 -r REF_WNV_3_AY765264
+	demote member AL_WNV_Lineage3 --whereClause "sequence.lineage = '3'"
+
+	extract child AL_WNV_Lineage4 -r REF_WNV_4_FJ159129
+	demote member AL_WNV_Lineage4 --whereClause "sequence.lineage = '4'"
+
+	extract child AL_WNV_Lineage5 -r REF_WNV_5_JX041632
+	demote member AL_WNV_Lineage5 --whereClause "sequence.lineage = '5'"
+
+	extract child AL_WNV_Lineage7 -r REF_WNV_7_KY703855
+	demote member AL_WNV_Lineage7 --whereClause "sequence.lineage = '7'"
+
+	extract child AL_WNV_Lineage8 -r REF_WNV_8_KY703856
+	demote member AL_WNV_Lineage8 --whereClause "sequence.lineage = '8'"
+
 	exit
 
-  alignment AL_WNV_SouthAmerica1
-    set field displayName "South America 1"
-    set field clade_category "genotype"
-    exit
 
-  alignment AL_WNV_SouthAmerica2
-    set field displayName "South America 2"
-    set field clade_category "genotype"
-    exit
+  alignment AL_WNV_Lineage1
 
-  alignment AL_WNV_WestAfrica
-    set field displayName "West Africa"
-    set field clade_category "genotype"
-    exit
+    set field displayName "1"
+    set field clade_category "lineage" 
+  
+	extract child AL_WNV_Lineage1A -r REF_MASTER_WNV
+	demote member AL_WNV_Lineage1A --whereClause "sequence.lineage = '1' and sequence.clade = 'A'"
 
-  alignment AL_WNV_EastAfrica
-    set field displayName "East Africa"
-    set field clade_category "genotype"
-    exit
+	extract child AL_WNV_Lineage1B -r REF_WNV_1B_JX123030
+	demote member AL_WNV_Lineage1B --whereClause "sequence.lineage = '1' and sequence.clade = 'B'"
 
-  alignment AL_WNV_ROOT
-	derive segments AL_UNC_WNV_ROOT --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
 	exit
 
+
+  alignment AL_WNV_Lineage2
+    set field displayName "2"
+    set field clade_category "lineage" 
+    exit
+    
+   alignment AL_WNV_Lineage3
+    set field displayName "3"
+    set field clade_category "lineage" 
+    exit
+   
+   alignment AL_WNV_Lineage4
+    set field displayName "4"
+    set field clade_category "lineage" 
+    exit
+   
+   alignment AL_WNV_Lineage5
+    set field displayName "5"
+    set field clade_category "lineage" 
+    exit
+
+   alignment AL_WNV_Lineage7
+    set field displayName "7"
+    set field clade_category "lineage" 
+    exit
+
+   alignment AL_WNV_Lineage8
+    set field displayName "8"
+    set field clade_category "lineage" 
+    exit
+
+  alignment AL_WNV_Lineage1A
+    set field displayName "1A"
+    set field clade_category "clade" 
+    exit
+    
+  alignment AL_WNV_Lineage1B
+    set field displayName "1B"
+    set field clade_category "clade" 
+    exit
+    

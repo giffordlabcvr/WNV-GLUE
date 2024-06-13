@@ -7,22 +7,18 @@
 
 	<figTreeAnnotation>
 		<annotationName>genotype</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.genotype')}</valueFreemarkerTemplate>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.lineage')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 
 	<figTreeAnnotation>
-		<annotationName>isolate</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.isolate_data.isolate')}</valueFreemarkerTemplate>
+		<annotationName>clade</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.clade')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 
 	<figTreeAnnotation>
-		<annotationName>country</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.isolate_data.country')}</valueFreemarkerTemplate>
+		<annotationName>combined</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.lineage')}/${renderNestedProperty('sequence.clade')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 
-	<figTreeAnnotation>
-		<annotationName>collection_year</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.isolate_data.collection_year')}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
 
 </figTreeAnnotationExporter>

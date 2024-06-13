@@ -1,8 +1,6 @@
 
-//Do serotype recognition for all ncbi curated sequences
-
 var ncbiCurated;
-var whereClause = "source.name = 'ncbi-curated' and genotype = null";
+var whereClause = "source.name = 'ncbi-curated' and lineage = null";
 ncbiCurated = glue.tableToObjects(glue.command(["list", "sequence", "sequenceID", "-w", whereClause]));
 //glue.log("INFO", "RESULT WAS ", ncbiCurated);
 
@@ -14,28 +12,39 @@ _.each(ncbiCurated, function(ncbiCurated) {
 	var whereClause = "sequenceID = '" + sequenceID + "'";
 	glue.log("INFO", "ID RESULT WAS ", sequenceID);
 
-	var genotypeResults1;
-	glue.inMode("/module/yfvMaxLikelihoodGenotyper", function() {
-		genotypeResults1 = glue.command(["genotype", "sequence", "-w", whereClause]);
-		//glue.log("INFO", "Genotype 1 RESULT WAS ", genotypeResults1);			
+	var lineageResults;
+	glue.inMode("/module/wnvMaxLikelihoodGenotyper", function() {
+		lineageResults = glue.command(["genotype", "sequence", "-w", whereClause]);
+		glue.log("INFO", "lineage 1 RESULT WAS ", lineageResults);			
 	});
 
-	var genotypeRows = genotypeResults1.genotypeCommandResult.row;
-	var genotypeRow = genotypeRows[0].value;
-	var genotypeResult = genotypeRow[1]
+	var lineageRows = lineageResults.genotypeCommandResult.row;
+	var lineageRow = lineageRows[0].value;
+	var lineageResult = lineageRow[1]
+	var cladeResult = lineageRow[2]
 
-	glue.log("INFO", "Genotype RESULT WAS ", genotypeResult);
+	//glue.log("INFO", "lineage RESULT WAS ", lineageResult);
 
-	if (genotypeResult) {
+	if (lineageResult) {
 
-
-		var genoResultElements = genotypeResult.split('_YFV_');
-		var genotype = genoResultElements[1];
+		//var genoResultElements = lineageResult.split('_');
+		//var lineage = genoResultElements[1];
+		//var clade = genoResultElements[1];
 
 		glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
-			glue.command(["set", "field", "genotype", genotype]);
+			glue.command(["set", "field", "lineage", lineageResult]);
 		});
 	
 	}
+	if (cladeResult) {
 
+		//var genoResultElements = lineageResult.split('_');
+		//var lineage = genoResultElements[1];
+		//var clade = genoResultElements[1];
+
+		glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
+			glue.command(["set", "field", "clade", cladeResult]);
+		});
+	
+	}
 });	

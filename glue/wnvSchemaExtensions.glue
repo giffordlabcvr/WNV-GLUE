@@ -4,7 +4,9 @@ schema-project wnv
 
   table sequence
 
-    create field genotype VARCHAR 50
+    create field lineage VARCHAR 50
+    create field clade VARCHAR 50
+
     create field length INTEGER
     create field pubmed_id INTEGER
     create field gb_create_date DATE

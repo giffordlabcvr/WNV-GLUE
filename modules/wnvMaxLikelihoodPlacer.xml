@@ -5,11 +5,11 @@
 	</raxmlEpaRunner>
 
 	<!-- where the RAxML epa phylogeny will come from -->
-	<phyloAlignmentName>AL_YFV_ROOT</phyloAlignmentName>
+	<phyloAlignmentName>AL_WNV_ROOT</phyloAlignmentName>
 	<phyloFieldName>phylogeny</phyloFieldName>
 
 	<!-- where the alignment will come from -->
-	<alignmentAlignmentName>AL_UNC_YFV_ROOT</alignmentAlignmentName>
+	<alignmentAlignmentName>AL_UNC_WNV_ROOT</alignmentAlignmentName>
 	
 </maxLikelihoodPlacer>
 

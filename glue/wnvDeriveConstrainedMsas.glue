@@ -1,0 +1,7 @@
+
+  
+  # Derive constrained alignments from unconstrained alignments
+  
+  alignment AL_WNV_ROOT 
+	derive segments AL_UNC_WNV_ROOT --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
+	exit

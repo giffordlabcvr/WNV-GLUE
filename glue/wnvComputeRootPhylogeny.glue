@@ -9,7 +9,7 @@
   # Create the phylogeny (without outgroup)
   module wnvNucsRaxmlPhylogenyGenerator
     
-    generate nucleotide phylogeny AL_UNC_WNV_ROOT \
+    generate nucleotide phylogeny AL_WNV_ROOT \
       -a -o trees/wnvReferencePhylogeny.tree \
       NEWICK_BOOTSTRAPS
       

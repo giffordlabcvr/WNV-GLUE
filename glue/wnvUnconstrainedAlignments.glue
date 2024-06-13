@@ -2,7 +2,7 @@ delete alignment AL_UNC_WNV_ROOT
 
 module unconstrainedAlignmentImporter
 
-  import AL_UNC_WNV_ROOT -f alignments/yfv-root.aln.fna
+  import AL_UNC_WNV_ROOT -f alignments/wnv-ref.aln.fas
   
   exit
 

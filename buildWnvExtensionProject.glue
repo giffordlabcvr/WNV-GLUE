@@ -2,9 +2,6 @@ project wnv
 
   delete source ncbi-curated
 
-  # Define extension modules
-  run file glue/wnvExtensionModules.glue
-
   # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
   import source sources/ncbi-curated
 

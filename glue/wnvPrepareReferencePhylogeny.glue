@@ -5,7 +5,7 @@
   create module -f modules/wnvPhyloUtility.xml
 
   module wnvFigTreeAnnotationExporter 
-    export figtree-annotation AL_UNC_YFV_ROOT \
+    export figtree-annotation AL_WNV_ROOT \
     -f trees/wnvReferenceFigtreeAnnotations.tsv
     exit
     
