@@ -11,8 +11,11 @@ project wnv
   # Populate refseq + outgroup metadata from GenBank XML
   module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
 
-  # Run script to determine serotypes via GLUE's MCLA algorithm
+  # Run script to genotype WNV sequences using GLUE's MCLA algorithm
   run script glue/wnvGenotypeCuratedSeqs.js
+
+  # Run script to calculate aa mutations
+  #run script glue/wnvGenerateReplacements.js
 
   # Validate
   validate

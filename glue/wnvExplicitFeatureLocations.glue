@@ -89,9 +89,10 @@
 
     #add feature-location NS5
     #feature-location NS5
-    #  add segment 7637 10351
+    #  add segment 97   7311 --spliceIndex 1
+    #  add segment 7311 7757 --spliceIndex 2
     #  exit
-      
+
     add feature-location 3UTR
     feature-location 3UTR
       add segment 10399 11029

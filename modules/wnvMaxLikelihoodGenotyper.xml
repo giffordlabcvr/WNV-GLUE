@@ -6,8 +6,8 @@
 		<displayName>Lineage</displayName>	
 		<whereClause>clade_category = 'lineage'</whereClause>
 		<distanceScalingExponent>-4.5</distanceScalingExponent>
-	    <distanceCutoff>0.06</distanceCutoff>
-		<finalCladeCutoff>65.0</finalCladeCutoff>		
+	    <distanceCutoff>0.1</distanceCutoff>
+		<finalCladeCutoff>70.0</finalCladeCutoff>		
 	</cladeCategory>
 
 	<cladeCategory>
@@ -15,8 +15,8 @@
 		<displayName>Clade</displayName>	
 		<whereClause>clade_category = 'clade'</whereClause>
 		<distanceScalingExponent>-4.5</distanceScalingExponent>
-	    <distanceCutoff>0.06</distanceCutoff>
-		<finalCladeCutoff>65.0</finalCladeCutoff>		
+	    <distanceCutoff>0.05</distanceCutoff>
+		<finalCladeCutoff>70.0</finalCladeCutoff>		
 	</cladeCategory>
 
 </maxLikelihoodGenotyper>
