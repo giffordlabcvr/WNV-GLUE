@@ -40,7 +40,7 @@ If you have not done so already, install the GLUE software framework by followin
 
 Download the WNV-GLUE repository, navigate into the top-level directory, and start the GLUE command line interpreter.
 
-At the GLUE command prompt, run the 'buildYfvProject.glue' file as follows:
+At the GLUE command prompt, run the 'buildWnvBaseProject.glue' file as follows:
 
 ```
 GLUE Version 1.1.107
