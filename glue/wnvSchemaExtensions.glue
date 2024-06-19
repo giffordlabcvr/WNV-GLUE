@@ -10,6 +10,7 @@ schema-project wnv
 
   table sequence
 
+	# taxonomy
     create field lineage VARCHAR 50
     create field clade VARCHAR 50
 
@@ -17,6 +18,9 @@ schema-project wnv
     create field pubmed_id INTEGER
     create field gb_create_date DATE
     create field gb_update_date DATE
+
+    # true if variations are present in the sequence
+    create field variation_present BOOLEAN
 
     exit
 

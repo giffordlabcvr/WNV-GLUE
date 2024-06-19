@@ -1,0 +1,8 @@
+
+alignment AL_WNV_Lineage1A
+	amino-acid frequency -r REF_MASTER_WNV -f envelope -l 64 64 -w "sequence.m49_country.m49_region like '%africa'"
+	amino-acid frequency -r REF_MASTER_WNV -f envelope -l 64 64 -w "sequence.m49_country.m49_region like '%asia'"
+	amino-acid frequency -r REF_MASTER_WNV -f envelope -l 64 64 -w "sequence.m49_country.m49_region like '%americas'"
+	amino-acid frequency -r REF_MASTER_WNV -f envelope -l 64 64 -w "sequence.m49_country.m49_region like '%europe'"
+	
+	exit
