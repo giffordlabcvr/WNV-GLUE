@@ -1,4 +1,5 @@
 <maxLikelihoodGenotyper>
+
 	<maxLikelihoodPlacerModuleName>wnvMaxLikelihoodPlacer</maxLikelihoodPlacerModuleName>
 
 	<cladeCategory>
@@ -6,7 +7,7 @@
 		<displayName>Lineage</displayName>	
 		<whereClause>clade_category = 'lineage'</whereClause>
 		<distanceScalingExponent>-4.5</distanceScalingExponent>
-	    <distanceCutoff>0.1</distanceCutoff>
+	    <distanceCutoff>0.3</distanceCutoff>
 		<finalCladeCutoff>70.0</finalCladeCutoff>		
 	</cladeCategory>
 
@@ -15,7 +16,7 @@
 		<displayName>Clade</displayName>	
 		<whereClause>clade_category = 'clade'</whereClause>
 		<distanceScalingExponent>-4.5</distanceScalingExponent>
-	    <distanceCutoff>0.05</distanceCutoff>
+	    <distanceCutoff>0.1</distanceCutoff>
 		<finalCladeCutoff>70.0</finalCladeCutoff>		
 	</cladeCategory>
 
