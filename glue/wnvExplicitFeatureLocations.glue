@@ -100,3 +100,164 @@
 
   exit 
 
+
+  reference REF_WNV_2_KJ883350
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 11013
+      exit
+
+    add feature-location 5UTR
+    feature-location 5UTR
+      add segment 1 96
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 97 10401
+      exit
+
+    add feature-location 3UTR
+    feature-location 3UTR
+      add segment 10402 11013
+      exit
+
+  exit 
+
+
+
+  reference REF_WNV_3_AY765264
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10972
+      exit
+
+    add feature-location 5UTR
+    feature-location 5UTR
+      add segment 1 96
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 97 10398
+      exit
+
+    add feature-location 3UTR
+    feature-location 3UTR
+      add segment 10399 10972
+      exit
+
+  exit 
+
+
+
+  reference REF_WNV_4_FJ159129
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10845
+      exit
+
+    add feature-location 5UTR
+    feature-location 5UTR
+      add segment 1 63
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 64 10362
+      exit
+
+    add feature-location 3UTR
+    feature-location 3UTR
+      add segment 10363 10845
+      exit
+
+  exit 
+
+
+
+  reference REF_WNV_5_JX041632
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10900
+      exit
+
+    add feature-location 5UTR
+    feature-location 5UTR
+      add segment 1 96
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 97 10398
+      exit
+
+    add feature-location 3UTR
+    feature-location 3UTR
+      add segment 10399 10900
+      exit
+
+  exit 
+
+
+  reference REF_WNV_7_KY703855
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10302
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 1 10302
+      exit
+
+  exit 
+
+
+
+  reference REF_WNV_8_KY703856
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10302
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 1 10302
+      exit
+
+  exit 
+
+
+
+  reference REF_WNV_1B_JX123030
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10983
+      exit
+
+    add feature-location 5UTR
+    feature-location 5UTR
+      add segment 1 78
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 79 10380
+      exit
+
+    add feature-location 3UTR
+    feature-location 3UTR
+      add segment 10380 10983
+      exit
+
+  exit 
+
+
