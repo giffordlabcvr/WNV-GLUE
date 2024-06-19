@@ -11,12 +11,12 @@
     </textFileColumn>
 
     <textFileColumn>
-        <header>Lineage</header>
+        <header>lineage</header>
         <property>lineage</property>
     </textFileColumn>
 
     <textFileColumn>
-        <header>Clade</header>
+        <header>clade</header>
         <property>clade</property>
     </textFileColumn>
 

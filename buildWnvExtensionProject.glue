@@ -2,7 +2,7 @@ project wnv
 
   delete source ncbi-curated
 
-  # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
+  # Import curated set (all GenBank >=5Kb minus references)
   import source sources/ncbi-curated
 
   # Link sequence table entries to isolate table
@@ -11,8 +11,11 @@ project wnv
   # Populate refseq + outgroup metadata from GenBank XML
   module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
 
-  # Run script to genotype WNV sequences using GLUE's MCLA algorithm
-  run script glue/wnvGenotypeCuratedSeqs.js
+  # Run script to classify WNV sequences using GLUE's MCLA algorithm
+  #run script glue/wnvGenotypeCuratedSeqs.js
+
+  # Import previously generated MLCA classification information
+  run file glue/wnvImportGenotypesCurated.glue
 
   # Run script to calculate aa mutations
   #run script glue/wnvGenerateReplacements.js
