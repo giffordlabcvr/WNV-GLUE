@@ -6,7 +6,7 @@
 	</figTreeAnnotation>
 
 	<figTreeAnnotation>
-		<annotationName>genotype</annotationName>
+		<annotationName>lineage</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.lineage')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 

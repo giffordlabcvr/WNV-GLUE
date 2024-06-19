@@ -21,7 +21,7 @@ project wnv
   run file glue/wnvAlignmentTreeCurated.glue
 
   # Compute alignments for curated sequecnes
-  run file wnvComputeMsasCurated.glue
+  run file glue/wnvComputeMsasCurated.glue
 
   # Run script to calculate aa mutations
   #run script glue/wnvGenerateReplacements.js
