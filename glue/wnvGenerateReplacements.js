@@ -6,8 +6,6 @@ var featuresList = glue.tableToObjects(
 glue.log("INFO", "ID RESULT WAS ", featuresList);
 
 var comparisonRefName = "REF_MASTER_WNV";
-var replacementsSet = {};
-
 
 // get alignment set to process
 var tipAlignments = {};
@@ -19,8 +17,9 @@ var whereClause = "sequence.source.name = 'ncbi-curated'";
 // Iterate through tip alignments
 _.each(_.keys(tipAlignments), function(alignmentName) {
 
-	//glue.log("INFO", "Got alignment name '"+alignmentName);
-
+	// production
+	var replacementsSet = {};
+	
 	_.each(featuresList, function(featureObj) {
 
 		if(featureObj.name == "precursor_polyprotein") {
@@ -255,6 +254,4 @@ function getTipAlignments (tipAlignments) {
 	//glue.log("INFO", "TIP RESULT WAS ", tipAlignments);
 
 }
-
-
 
