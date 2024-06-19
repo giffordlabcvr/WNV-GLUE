@@ -12,6 +12,9 @@ project wnv
   # Module declarations
   run file glue/wnvModules.glue
 
+  # M49 countries
+  run file glue/m49_countries/populateM49All.glue
+
   # Define features
   run file glue/wnvFeatures.glue
 

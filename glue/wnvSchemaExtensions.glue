@@ -43,7 +43,6 @@ schema-project wnv
     create field isolate VARCHAR 100
     create field isolation_source VARCHAR 200
     create field molecule_type VARCHAR
-    create field country_iso VARCHAR
     create field country VARCHAR 200
     create field place_sampled VARCHAR 100        
     create field sampled_host_sci_name VARCHAR 150
@@ -80,5 +79,12 @@ schema-project wnv
   create link variation wnv_replacement -m ONE_TO_ONE
   create link wnv_replacement wnv_replacement_sequence -m ONE_TO_MANY
   create link sequence wnv_replacement_sequence -m ONE_TO_MANY  
+
+  #~# ISO country and region codes
+
+  run file glue/m49_countries/m49SchemaExtension.glue 
+  create link sequence m49_country -m MANY_TO_ONE
+
   
   exit
+  

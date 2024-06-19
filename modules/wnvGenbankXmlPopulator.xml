@@ -87,6 +87,20 @@
 				<matchPattern>^.*:(.*)$</matchPattern>
 				<outputTemplate>${g1?trim}</outputTemplate>
 			</propertyPopulator>
+			<isoCountryPropertyPopulator property="m49_country" codeStyle="ALPHA_3">
+				<valueConverter>
+					<matchPattern>.*Yugoslavia.*</matchPattern>
+					<outputTemplate>SRB</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*Svalbard.*</matchPattern>
+					<outputTemplate>NOR</outputTemplate>
+				</valueConverter>
+				<valueConverter>
+					<matchPattern>.*Zaire.*</matchPattern>
+					<outputTemplate>COD</outputTemplate>
+				</valueConverter>
+			</isoCountryPropertyPopulator>
 		</gbQualifier>
 		
 		<gbQualifier name="collection_date">
