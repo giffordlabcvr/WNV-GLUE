@@ -33,7 +33,7 @@ project wnv
   # Link sequence table entries to isolate table
   run script glue/wnvLoadIsolateData.js 
   
-  # Populate refseq + outgroup metadata from GenBank XML
+  # Populate reference sequence metadata from GenBank XML
   module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-refseqs'"
 
   # Import unconstrained alignments

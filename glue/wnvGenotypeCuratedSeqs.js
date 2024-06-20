@@ -30,9 +30,10 @@ _.each(ncbiCurated, function(ncbiCurated) {
 		//var genoResultElements = lineageResult.split('_');
 		//var lineage = genoResultElements[1];
 		//var clade = genoResultElements[1];
-
+		var lineage = lineageResult.replace("AL_WNV_Lineage", "");
 		glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
-			glue.command(["set", "field", "lineage", lineageResult]);
+		
+			glue.command(["set", "field", "lineage", lineage]);
 		});
 	
 	}
@@ -42,8 +43,10 @@ _.each(ncbiCurated, function(ncbiCurated) {
 		//var lineage = genoResultElements[1];
 		//var clade = genoResultElements[1];
 
+		var clade = cladeResult.replace("AL_WNV_Lineage1", "");
+
 		glue.inMode("sequence/"+sourceName+"/"+sequenceID, function() {
-			glue.command(["set", "field", "clade", cladeResult]);
+			glue.command(["set", "field", "clade", clade]);
 		});
 	
 	}

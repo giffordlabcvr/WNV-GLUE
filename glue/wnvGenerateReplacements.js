@@ -3,7 +3,7 @@ var featuresList = glue.tableToObjects(
 		
 		glue.command(["list", "feature", "-w", "featureMetatags.name = 'CODES_AMINO_ACIDS' and featureMetatags.value = true", "name", "displayName", "parent.name"]));
 
-glue.log("INFO", "ID RESULT WAS ", featuresList);
+//glue.log("INFO", "ID RESULT WAS ", featuresList);
 
 var comparisonRefName = "REF_MASTER_WNV";
 
@@ -165,6 +165,34 @@ _.each(_.keys(tipAlignments), function(alignmentName) {
 		});
 
 		if(!variationExists) {
+
+			var hanada_radical_I;
+			var hanada_radical_II;
+			var hanada_radical_III;
+			var grantham_distance_double;
+			var grantham_distance_int;
+			var miyata_distance;
+			var classifyReplacement = false;
+		
+			if(replacementObj.refAa != '*' && replacementObj.refAa != 'X'
+				 && replacementObj.replacementAa != '*' && replacementObj.replacementAa != 'X') {
+				classifyReplacement = true;
+				glue.inMode("module/wnvHanada2006ReplacementClassifier", function() {
+					var classifierResults = glue.tableToObjects(glue.command(["classify", "replacement", replacementObj.refAa, replacementObj.replacementAa]));
+					hanada_radical_I = classifierResults[0].radical;
+					hanada_radical_II = classifierResults[1].radical;
+					hanada_radical_III = classifierResults[2].radical;
+				});
+				glue.inMode("module/wnvGrantham1974DistanceCalculator", function() {
+					var granthamResult = glue.command(["distance", replacementObj.refAa, replacementObj.replacementAa]).grantham1974DistanceResult;
+					grantham_distance_double = granthamResult.distanceDouble;
+					grantham_distance_int = granthamResult.distanceInt;
+				});
+				glue.inMode("module/wnvMiyata1979DistanceCalculator", function() {
+					miyataDistance = glue.command(["distance", replacementObj.refAa, replacementObj.replacementAa]).miyata1979DistanceResult.distance;
+				});
+			}
+
 			
 			glue.command(["create", "custom-table-row", "wnv_replacement", replacementObj.id]);
 			glue.inMode("custom-table-row/wnv_replacement/"+replacementObj.id, function() {
@@ -180,6 +208,15 @@ _.each(_.keys(tipAlignments), function(alignmentName) {
 				glue.command(["set", "link-target", "variation", 
 					"reference/REF_MASTER_WNV/feature-location/"+replacementObj.feature+
 					"/variation/"+variationName]);
+
+				if(classifyReplacement) {
+					glue.command(["set", "field", "radical_hanada_category_i", hanada_radical_I]);
+					glue.command(["set", "field", "radical_hanada_category_ii", hanada_radical_II]);
+					glue.command(["set", "field", "radical_hanada_category_iii", hanada_radical_III]);
+					glue.command(["set", "field", "grantham_distance_double", grantham_distance_double]);
+					glue.command(["set", "field", "grantham_distance_int", grantham_distance_int]);
+					glue.command(["set", "field", "miyata_distance", miyataDistance]);
+				}
 
 			});
 

@@ -1,6 +1,7 @@
 <maxLikelihoodGenotyper>
 
 	<maxLikelihoodPlacerModuleName>wnvMaxLikelihoodPlacer</maxLikelihoodPlacerModuleName>
+	<useSingleReference>true</useSingleReference>
 
 	<cladeCategory>
 		<name>lineage</name>	

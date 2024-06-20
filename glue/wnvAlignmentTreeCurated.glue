@@ -2,7 +2,7 @@
 
   alignment AL_WNV_ROOT
 
-    add member -w "source.name = 'ncbi-curated'"
+    add member -w "source.name = 'ncbi-curated' and lineage != null"
 
 	demote member AL_WNV_Lineage1 --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '1'"
 	demote member AL_WNV_Lineage2 --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '2'"

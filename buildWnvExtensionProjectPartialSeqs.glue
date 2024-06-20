@@ -12,10 +12,10 @@ project wnv
   module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
 
   # Run script to classify WNV sequences using GLUE's MCLA algorithm
-  run script glue/wnvGenotypeCuratedSeqs.js
+  #run script glue/wnvGenotypeCuratedSeqs.js
 
   # Import previously generated MLCA classification information
-  #run file glue/wnvImportGenotypesCurated.glue
+  run file glue/wnvImportGenotypesCurated.glue
 
   # Add curated sequences alignment tree
   run file glue/wnvAlignmentTreeCurated.glue
@@ -25,9 +25,6 @@ project wnv
 
   # Run script to calculate aa replacements
   run script glue/wnvGenerateReplacements.js
-
-  # Count the number of sequences in which variants occur
-  run script glue/wnvSetVariantNumSeqs.js
 
   # Validate
   validate
