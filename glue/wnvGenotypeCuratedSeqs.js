@@ -4,18 +4,20 @@ var whereClause = "source.name = 'ncbi-curated' and lineage = null";
 ncbiCurated = glue.tableToObjects(glue.command(["list", "sequence", "sequenceID", "-w", whereClause]));
 //glue.log("INFO", "RESULT WAS ", ncbiCurated);
 
+var processed = 0;
+
 _.each(ncbiCurated, function(ncbiCurated) {
 
 	var sequenceID = ncbiCurated.sequenceID;
 	var sourceName ='ncbi-curated';
 
 	var whereClause = "sequenceID = '" + sequenceID + "'";
-	glue.log("INFO", "ID RESULT WAS ", sequenceID);
+	//glue.log("INFO", "ID RESULT WAS ", sequenceID);
 
 	var lineageResults;
 	glue.inMode("/module/wnvMaxLikelihoodGenotyper", function() {
 		lineageResults = glue.command(["genotype", "sequence", "-w", whereClause]);
-		glue.log("INFO", "lineage 1 RESULT WAS ", lineageResults);			
+		//glue.log("INFO", "lineage 1 RESULT WAS ", lineageResults);			
 	});
 
 	var lineageRows = lineageResults.genotypeCommandResult.row;
@@ -50,4 +52,13 @@ _.each(ncbiCurated, function(ncbiCurated) {
 		});
 	
 	}
+
+	processed++;
+
+	if(processed % 10 == 0) {
+		glue.logInfo("Genotyped "+processed+" sequences. ");
+		glue.command(["commit"]);
+		glue.command(["new-context"]);
+	}
+
 });	
