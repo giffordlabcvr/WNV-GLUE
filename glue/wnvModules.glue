@@ -2,17 +2,23 @@
 	create module --fileName modules/wnvGenbankXmlPopulator.xml
 	create module --fileName modules/unconstrainedAlignmentImporter.xml
 
-	create module -f modules/wnvTabularUtility.xml
-	create module -f modules/wnvSideDataImporter.xml
-
+	# Alignment
 	create module -f modules/wnvCompoundAligner.xml
 
+	# Import
+	create module -f modules/wnvSideDataImporter.xml
+
+	# Genotyping
 	create module -f modules/wnvMaxLikelihoodGenotyper.xml
 	create module -f modules/wnvMaxLikelihoodPlacer.xml
 
-	create module -f modules/tabularUtilityCsv.xml
-	create module -f modules/tabularUtilityTab.xml
-
+    # AA replacement analysis modules
 	create module -f modules/wnvMiyata1979DistanceCalculator.xml
 	create module -f modules/wnvHanada2006ReplacementClassifier.xml
 	create module -f modules/wnvGrantham1974DistanceCalculator.xml
+
+	# Basic modules
+	create module -f modules/tabularUtilityCsv.xml
+	create module -f modules/tabularUtilityTab.xml
+
+
