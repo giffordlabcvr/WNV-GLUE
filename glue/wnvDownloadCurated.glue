@@ -1,0 +1,16 @@
+
+  # Clean-up
+  delete module wnvNcbiImporterGenBankLong
+  delete module wnvNcbiImporterGenBankShort
+
+  # Create modules
+  create module -f modules/wnvNcbiImporterGenBankShort.xml
+  create module -f modules/wnvNcbiImporterGenBankLong.xml
+
+  # Download NCBI sequences 
+  #module wnvNcbiImporterGenBankLong import
+  module wnvNcbiImporterGenBankShort import
+
+  # Export sources
+  #export source ncbi-curated
+  export source ncbi-curated-short

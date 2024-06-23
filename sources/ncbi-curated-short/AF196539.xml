@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF196539</GBSeq_locus>
+    <GBSeq_length>687</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>03-OCT-2001</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus isolate 63134ENT280 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF196539</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF196539.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF196539.1|</GBSeqid>
+      <GBSeqid>gi|15865589</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..687</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Scherret,J.H.</GBAuthor>
+          <GBAuthor>Poidinger,M.</GBAuthor>
+          <GBAuthor>Mackenzie,J.S.</GBAuthor>
+          <GBAuthor>Broom,A.K.</GBAuthor>
+          <GBAuthor>Deubel,V.</GBAuthor>
+          <GBAuthor>Lipkin,W.I.</GBAuthor>
+          <GBAuthor>Briese,T.</GBAuthor>
+          <GBAuthor>Gould,E.A.</GBAuthor>
+          <GBAuthor>Hall,R.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The relationships between West Nile and Kunjin viruses</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 7 (4), 697-705 (2001)</GBReference_journal>
+        <GBReference_pubmed>11585535</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..687</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Scherret,J.H.</GBAuthor>
+          <GBAuthor>Poidinger,M.</GBAuthor>
+          <GBAuthor>Mackenzie,J.S.</GBAuthor>
+          <GBAuthor>Broom,A.K.</GBAuthor>
+          <GBAuthor>Deubel,V.</GBAuthor>
+          <GBAuthor>Hall,R.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Definitive studies of the relationships between West Nile and Kunjin viruses</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..687</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Scherret,J.H.</GBAuthor>
+          <GBAuthor>Poidinger,M.</GBAuthor>
+          <GBAuthor>Mackenzie,J.S.</GBAuthor>
+          <GBAuthor>Broom,A.K.</GBAuthor>
+          <GBAuthor>Deubel,V.</GBAuthor>
+          <GBAuthor>Hall,R.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-OCT-1999) Department of Microbiology and Parasitology, University of Queensland, St. Lucia, Brisbane, QLD 4072, Australia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..687</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>687</GBInterval_to>
+            <GBInterval_accession>AF196539.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>63134ENT280</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..264</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>264</GBInterval_to>
+            <GBInterval_accession>AF196539.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAL09958.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DRCGFEENEWMEYKTPVERWSDVPYSGKREDIWCGSLIGTRTRATWAENIHVAINQVRSVIGEEKYVDYMSSLRRYEDTIVVEDTVL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>&lt;1..261</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>261</GBInterval_to>
+            <GBInterval_accession>AF196539.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>non-structural protein NS5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>DRCGFEENEWMEYKTPVERWSDVPYSGKREDIWCGSLIGTRTRATWAENIHVAINQVRSVIGEEKYVDYMSSLRRYEDTIVVEDTVL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>3'UTR</GBFeature_key>
+        <GBFeature_location>265..&gt;687</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>265</GBInterval_from>
+            <GBInterval_to>687</GBInterval_to>
+            <GBInterval_accession>AF196539.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gacagatgtggattcgaggagaatgagtggatggaatacaaaacaccagttgagaggtggagtgatgttccatactctggaaagagagaagacatttggtgtggcagtttgatcggcacacgaacccgcgccacttgggctgaaaatatccatgtggcaatcaatcaggtccgttcagtgattggagaagagaagtatgtggattacatgagctccttgaggaggtatgaagacaccattgtagtggaggacactgttttgtaaaaaataaagctgtattgagtagttgtatagttgtagtgttcatagcaatttgaattatgattaattatttaggcttaagatagtactatagttagtttagtgtaaataggatttattgagaatggaagtcaggccagattaatgctgccaccggaagttgagtagacggtgctgcctgcggctcaaccccaggaggactgggtgaccaaagctgcgaggtgatccacgtaagccctcagaaccgtctcggaaggaggaccccacgtgctttagcctcaaagcccagtgtcagaccacactttaatgtgccactctgcggagagtgcagtctgcgatagtgccccaggtggactgggttaacaaaggcaaaacatcgccccacgcggccataaccctggctatggtgttaaccagcgagaagga</GBSeq_sequence>
+  </GBSeq>

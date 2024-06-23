@@ -1,2 +1,5 @@
+# Build each project layer
+
 run file buildWnvBaseProject.glue
 run file buildWnvExtensionProject.glue
+

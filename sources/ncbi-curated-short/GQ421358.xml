@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>GQ421358</GBSeq_locus>
+    <GBSeq_length>3091</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>11-MAY-2010</GBSeq_update-date>
+    <GBSeq_create-date>11-MAY-2010</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus isolate 99-222 polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>GQ421358</GBSeq_primary-accession>
+    <GBSeq_accession-version>GQ421358.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|GQ421358.1|</GBSeqid>
+      <GBSeqid>gi|295821304</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3091</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bakonyi,T.</GBAuthor>
+          <GBAuthor>Hubalek,Z.</GBAuthor>
+          <GBAuthor>Rudolf,I.</GBAuthor>
+          <GBAuthor>Nowotny,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Novel flavivirus or new lineage of West Nile virus, central Europe</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 11 (2), 225-231 (2005)</GBReference_journal>
+        <GBReference_pubmed>15752439</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3091</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hubalek,Z.</GBAuthor>
+          <GBAuthor>Rudolf,I.</GBAuthor>
+          <GBAuthor>Bakonyi,T.</GBAuthor>
+          <GBAuthor>Kazdova,K.</GBAuthor>
+          <GBAuthor>Halouzka,J.</GBAuthor>
+          <GBAuthor>Sebesta,O.</GBAuthor>
+          <GBAuthor>Sikutova,S.</GBAuthor>
+          <GBAuthor>Juricova,Z.</GBAuthor>
+          <GBAuthor>Nowotny,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Mosquito (Diptera: Culicidae) surveillance for arboviruses in an area endemic for West Nile (Lineage Rabensburg) and Tahyna viruses in Central Europe</GBReference_title>
+        <GBReference_journal>J. Med. Entomol. 47 (3), 466-472 (2010)</GBReference_journal>
+        <GBReference_pubmed>20496595</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..3091</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bakonyi,T.</GBAuthor>
+          <GBAuthor>Nowotny,N.</GBAuthor>
+          <GBAuthor>Hubalek,Z.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-JUL-2009) Zoonoses and Emerging Infections Group, Clinical Virology, Department Pathobiology, University of Veterinary Medicine, Veterinaerplatz 1, Vienna 1210, Austria</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3091</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3091</GBInterval_to>
+            <GBInterval_accession>GQ421358.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>Rabensburg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>99-222</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Culex pipiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
+            <GBQualifier_value>Czech Republic</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>1999</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>75..&gt;3091</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>75</GBInterval_from>
+            <GBInterval_to>3091</GBInterval_to>
+            <GBInterval_accession>GQ421358.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADG36441.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSRKPGGPGDNRAVNMQKRGKPRGGSLMGLKRAILSLIDGRGPIRFVLALLAFFKFTAIAPTRAVLERWRGVNKQTAMKHLTSFKKELGILTNAISRRSEKKKKRGGSIGVAILIGLMTGAGAVVLSNFQGKLMMTVNATDITNVITIPIASGKNLCTVRAIDVGFLCDDTITYECPVLAAGNDPEDIDCWCTKLAMYVRYGRCTKTRQSRRSRRSLTVQTHGESTLANKKGAWMDSTKATRYLVKTESWILRNPGYALVAAVIGWMLGSNTTQRVVFMVLLLLVAPAYSFNCLGMSNRDFLEGVSGATWVDLVLEGDSCVTIMSKDKPTIDVKMMNMEATSLAGVRDYCYLAAVSDLSTKAACPTMGEAHNEKRADPAYFCKQGVVDRGWGNGCGLFGKGSIDTCAKFACASKATGWIIQKENIKYEVAIFVHGPTTVDSHGNYSTQMGATQAGRFTVSPSAPTYTMKLGEYGEVTVDCEPRSGIDTNAYYVMSVGSKSFLVHREWFMDLNMPWSSAAGTAWRNRETLMEFEEPHATKQSVVALGSQEGALHQALAGAIPVSFTSNTVKLTSGHLKCRVKMGKLKLKGTTYGVCAKAFKFSGNPADTGHGTVVLELQYTGTDGPCKVPVSSVASLNDLTPVGRLVTVNPFVAAATANSKVLIELEPPFGDSYIVVGRGEHQINHHWHKSGSSIGKAFTTTLKGAQRLAALGDTAWDFGSVGGIFTSFGKAVHQVFGGAFRSLFGGMSWITQGLMGALLVWMGINARDKSIALTFLAVGGILLFLSANVHADTGCAIDIGRQELRCGSGVFIHNDVEAWTDRYKFHPETPQGLARVIQKAHESGTCGIRSVSRLEHQMWDSVKDELNTLFRENGIDLSMVVEKQSGVYKSAPKRLAATSEKLEIGWKAWGKSIMFASELANHTFVVDGPETKECPTVSRAWNSMEVEDFGFGLMTTRMFLKVREGNTTECDSKIIGTAVKNNLAVHSDLSYWIESGLDETWKLERA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>acaaacttagtagtgtttgtgaggattatcaacaattaatacagtgtgagctgtttcttagcacgaagatttcgatgtctaggaaaccaggagggcccggagataaccgggctgtcaatatgcaaaaacgcggtaagccccgcggaggatccctgatgggattgaagagggctattttgagcttgatagatggtaggggtccaatacgattcgtattggccctattggcattcttcaagttcacagcaatcgctccgactcgagcagtgttggaaagatggagaggtgtcaacaaacaaacagcgatgaaacatctcaccagtttcaagaaagaactgggaatactcaccaacgccatcagtagaaggagcgaaaagaaaaagaaaagaggaggctcgataggagttgccatccttattggtttgatgactggtgccggagccgtcgtcttgtcgaacttccaggggaagttgatgatgacggtgaacgccacagatattaccaatgtgatcaccattccaattgcctccggaaaaaatttgtgcacagtgcgagctatagatgttggcttcctgtgtgatgatactatcacatatgaatgtccagtgcttgccgcaggaaatgacccagaggatatagattgctggtgtacaaaactggccatgtatgttcgatatggaaggtgcacaaagactcgacagtcacgtcgcagcagacgttctcttacggttcagactcatggagaaagcactcttgccaacaaaaaaggagcctggatggacagcaccaaagcgacaaggtacttggtcaaaacggaatcgtggatcttgagaaaccctgggtatgctctagtggccgcggttatcggttggatgctcggaagcaacacaactcagagggttgtgttcatggtcttactcctgcttgtagctccagcctacagcttcaattgcctgggaatgagtaacagagactttttggaaggagtgtctggagccacctgggttgatttggtgcttgaaggagatagctgcgtaaccattatgtctaaggataaacccacaattgatgttaagatgatgaacatggaagctaccagcttggcaggagtccgtgactattgctatttggctgcagtaagtgatttgtcaacaaaggcagcttgccccacgatgggtgaagcacataatgaaaagcgagcagatccagcgtacttctgcaagcaaggtgttgtggacagaggatggggaaacggttgtggtctcttcggtaaagggagcatagacacgtgtgctaaattcgcatgcgcaagcaaagcaaccgggtggatcatacagaaggaaaacatcaagtatgaggtggccatttttgtccatggacctacgacagtggattcccacggcaattactccacgcaaatgggagctacccaagctggaagattcacagtgtccccttcagcccccacgtacacaatgaagttgggggagtatggtgaagtgaccgttgattgtgagcctcgatcaggtatcgatacaaacgcatactacgtcatgtcagttggctccaagtcattcttggtccatagggaatggttcatggatttgaacatgccctggagcagcgcggctggcacggcttggaggaacagagaaacgttgatggaatttgaagaaccacatgccacgaagcaatcggtggtcgccttaggttctcaggaaggagcacttcatcaggctctggctggagcaattccagtgtcgttcacgagtaacactgtgaaattgacttcaggacacctgaaatgtagagtgaagatgggaaagttgaagctcaaaggaacgacctatggagtatgcgcaaaagccttcaagttttctgggaatccagctgacacagggcatggcaccgtggtcttagagttgcaatacaccggaaccgatggtccttgtaaggtgcctgtctcttccgtggcttcactcaacgacctaacccccgttgggagactggtgacagtgaatccctttgttgctgcagctactgctaattcaaaggttctgatagaactggaacctccattcggtgactcatacattgtggtaggtagaggagaacaccagataaatcaccattggcacaagtctggaagcagtattggaaaggcgtttacgacgaccctgaagggagcgcaaaggttggcagctcttggagacaccgcctgggactttggatccgtgggaggaattttcacgtcctttgggaaagccgtacaccaagtgtttggaggagcgttccggtcattgtttggtggaatgtcctggatcactcaggggcttatgggagccctcctcgtgtggatggggataaacgccagagacaagtccattgcacttacgttcctggcggtgggaggaatcctactattcctatcagccaacgtccatgcagacactggctgtgccattgacatcggaaggcaagaactgagatgcgggagtggggtgttcattcacaatgacgtggaggcctggacggaccgatataagttccatccagaaaccccccaggggctggccagagtgattcaaaaagctcacgaaagtggaacttgtggtatccggtcggtgtcccgcttggagcatcagatgtgggactccgtcaaagatgaactcaacactctgtttagagagaatgggattgacttaagcatggtggttgagaagcagagtggcgtatataaatcagccccgaaacgcttggccgctaccagtgaaaaactggaaatcggatggaaggcatgggggaagagtataatgttcgcctcagaactggccaatcacaccttcgtggtagacggacccgagactaaggaatgtcccaccgtgagcagagcgtggaacagcatggaagtggaggattttggatttggcctcatgaccactcgcatgttcttgaaagtaagggagggcaacaccactgaatgtgattcaaagatcataggtaccgccgtcaagaataacttggcggtgcatagcgacctgtcttattggattgaaagtggtcttgatgaaacctggaaacttgaacgcgc</GBSeq_sequence>
+  </GBSeq>

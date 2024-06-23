@@ -1,0 +1,8 @@
+
+  # Create side data importer module
+  delete module wnvSideDataImporter
+  create module -f modules/wnvSideDataImporter.xml
+  
+  # Load previously generated genotype information
+  module wnvSideDataImporter populate -f tabular/wnv-lineages-ncbi-curated.tsv
+  module wnvSideDataImporter populate -f tabular/wnv-lineages-ncbi-curated-short.tsv

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JX122763</GBSeq_locus>
+    <GBSeq_length>659</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-JAN-2013</GBSeq_update-date>
+    <GBSeq_create-date>11-SEP-2012</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus strain WNV.human/Oristano.Italy/2011 NS5 gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JX122763</GBSeq_primary-accession>
+    <GBSeq_accession-version>JX122763.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JX122763.1|</GBSeqid>
+      <GBSeqid>gi|403226974</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..659</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Magurano,F.</GBAuthor>
+          <GBAuthor>Remoli,M.E.</GBAuthor>
+          <GBAuthor>Baggieri,M.</GBAuthor>
+          <GBAuthor>Fortuna,C.</GBAuthor>
+          <GBAuthor>Marchi,A.</GBAuthor>
+          <GBAuthor>Fiorentini,C.</GBAuthor>
+          <GBAuthor>Bucci,P.</GBAuthor>
+          <GBAuthor>Benedetti,E.</GBAuthor>
+          <GBAuthor>Ciufolini,M.G.</GBAuthor>
+          <GBAuthor>Rizzo,C.</GBAuthor>
+          <GBAuthor>Piga,S.</GBAuthor>
+          <GBAuthor>Salcuni,P.</GBAuthor>
+          <GBAuthor>Rezza,G.</GBAuthor>
+          <GBAuthor>Nicoletti,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Circulation of West Nile virus lineage 1 and 2 during an outbreak in Italy</GBReference_title>
+        <GBReference_journal>Clin. Microbiol. Infect. 18 (12), E545-E547 (2012)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1111/1469-0691.12018</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23020657</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..659</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Fabio,M.</GBAuthor>
+          <GBAuthor>Melissa,B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (31-MAY-2012) Department of Infectious, Parasitic and Immune-Mediated Diseases, Istituto Superiore di Sanita, V.le Regina Elena 299, Rome, RM 00161, Italy</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..659</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>659</GBInterval_to>
+            <GBInterval_accession>JX122763.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>WNV.human/Oristano.Italy/2011</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
+            <GBQualifier_value>Italy: Sardinia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>PCR_primers</GBQualifier_name>
+            <GBQualifier_value>fwd_name: yf1, fwd_seq: ggtctcctctaacctctag, rev_name: yf3, rev_seq: gagtggatgaccacggaagacatgc</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: L1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..251</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>251</GBInterval_to>
+            <GBInterval_accession>JX122763.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NS5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFR31643.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>EENEWMEDKTPVEKWSDVPYSGKREDIWCGSLIGTRARATWAENIQVAINQVRAIIGDEKYVDYMSSLKRYEDTTLVEDTVL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tagaggagaatgaatggatggaagacaaaaccccagtagagaaatggagtgacgtcccatactcaggaaaacgggaggacatctggtgtggcagcctaattggcacaagagcccgagccacgtgggcagaaaacattcaggtggctatcaaccaagtcagagctatcattggagatgagaagtatgtggattacatgagttcactaaagagatatgaagacacaactttggttgaggacacagtactgtaaatactttatcaattgtaaatagacaacataagcatgtatataggtataggtttatagtggcatttaacgatgttagtgtaaatagttaagaaaattttaaggaggaagtcaggccggaaaatttccgccaccggaagttgagtagacggtgctgcctgcgactcaaccccaggaggactgggtgaacaaagccgcgaagtgatccatgtaagccctcagaaccgtctcggaaggaggaccccacatgttgtaacttcaaagcccaatgtcagaccacgctacggcgtgccactctgcggagagtgcagtctgcgatagagccccaggaggactgggttaacaaaggcaaaccaacgccccacgcggccctagccctggtaatggtgttaaccagggcgaaaggactag</GBSeq_sequence>
+  </GBSeq>

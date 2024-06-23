@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FJ154948</GBSeq_locus>
+    <GBSeq_length>942</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>23-SEP-2008</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus isolate 21-1-05-Uu envelope glycoprotein E gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>FJ154948</GBSeq_primary-accession>
+    <GBSeq_accession-version>FJ154948.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|FJ154948.1|</GBSeqid>
+      <GBSeqid>gi|204325057</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..942</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Platonov,A.E.</GBAuthor>
+          <GBAuthor>Shopenskaya,T.A.</GBAuthor>
+          <GBAuthor>Fedorova,M.V.</GBAuthor>
+          <GBAuthor>Karan,L.S.</GBAuthor>
+          <GBAuthor>Frolov,A.I.</GBAuthor>
+          <GBAuthor>Malenko,G.V.</GBAuthor>
+          <GBAuthor>Levina,L.S.</GBAuthor>
+          <GBAuthor>Pogodina,V.V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>West Nile-like virus in amphibian and mosquitoes in Volgograd, Russia</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..942</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Platonov,A.E.</GBAuthor>
+          <GBAuthor>Shopenskaya,T.A.</GBAuthor>
+          <GBAuthor>Fedorova,M.V.</GBAuthor>
+          <GBAuthor>Karan,L.S.</GBAuthor>
+          <GBAuthor>Frolov,A.I.</GBAuthor>
+          <GBAuthor>Malenko,G.V.</GBAuthor>
+          <GBAuthor>Levina,L.S.</GBAuthor>
+          <GBAuthor>Pogodina,V.V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-AUG-2008) Central Research Institute of Epidemiology, Novogireevskaya Str. 3A, Moscow 111123, Russia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..942</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>942</GBInterval_to>
+            <GBInterval_accession>FJ154948.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>21-1-05-Uu</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Uranotaenia unguiculata (mosquito)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
+            <GBQualifier_value>Russia: Volgograd</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2005</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>isolated from pool of 10 mosquitoes</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;942</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>942</GBInterval_to>
+            <GBInterval_accession>FJ154948.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>envelope glycoprotein E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ACI01428.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>VDRGWGNGCGLFGKGSIDTCAKFTCSNKATGLTIQRENVKYEVAAFVHGPTTVDTHSNLSAQNAAVQAGRFSVSPAAPTHTMTLGDYGEVTFDCEPRSGVDVDAFYVMTVGTKSFLVHREWFMDLNLPWSSPGNTNWRNREALVEFEEAHATKQSVVALGSQEGALHQALAGAIPVDYKNSVVKLSSGHLKCRVKMEKLKLKGTTYGVCAKAFRFSNTPADTGHGTVVMELQYTGTDGPCKIPITSVASLNDLTPVGRLVTVNPYVSVATANAKILVELEPPFGDSYIVIGKGDQQVTHHWHKSGSSIGKAFAT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gttgatagaggatggggcaatggatgtggcctttttggaaaaggaagcatagacacctgtgcgaagttcacttgctccaacaaagctactggattaaccatacagcgggagaacgtgaagtatgaagtggcagcttttgtccatgggccaacgaccgtagacacacacagtaatttgtccgcccagaacgcagccgtgcaagctggaaggttcagtgtgtctccagcagcccccacccacacgatgactttgggagattacggagaagtcacttttgattgtgaacccaggtcaggcgttgatgtggacgccttctacgtgatgacggtgggaacaaaatccttcctggtgcacagagagtggttcatggatctaaatctgccatggtccagccccggaaacacgaactggaggaacagggaggccctggttgagtttgaagaggcgcatgccacgaaacaatcggttgttgccctgggctcacaagaaggcgctctccaccaggccctggccggagcgatcccggtggactataagaacagcgtagttaagctgtcatcagggcacttgaaatgtagggttaagatggaaaaactgaagttgaaaggcacgacttacggagtgtgtgcaaaggcattcagattctcaaacactccggctgacacgggccatggaacggtggtgatggaactccaatacacaggaacggatggtccctgcaagattcccatcacttcagtcgcttcactcaatgacctgactccagttggaagacttgtaacggtgaacccatatgtgtcagtagccacagccaacgccaaaattttggtggagctggaacctccatttggcgattcatacatcgtgatcggaaaaggtgaccaacaagtcactcaccattggcacaagtccgggagtagcatagggaaagctttcgccacc</GBSeq_sequence>
+  </GBSeq>

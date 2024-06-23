@@ -1,35 +1,42 @@
 project wnv
 
   delete source ncbi-curated
+  delete source ncbi-curated-short
 
   # Import curated set (all GenBank >=5Kb minus references)
   import source sources/ncbi-curated
+  import source sources/ncbi-curated-short
 
   # Link sequence table entries to isolate table
   run script glue/wnvLoadIsolateDataCurated.js 
+  run script glue/wnvLoadIsolateDataCuratedShort.js 
 
   # Populate refseq + outgroup metadata from GenBank XML
   module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
+  module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated-short'"
 
   # Run script to classify WNV sequences using GLUE's MCLA algorithm
-  #run script glue/wnvGenotypeCuratedSeqs.js
+  #run script glue/wnvClassifyCuratedSeqs.js
+  #run script glue/wnvClassifyCuratedSeqsShort.js
 
   # Import previously generated MLCA classification information
-  run file glue/wnvImportGenotypesCurated.glue
+  run file glue/wnvImportLineagesCurated.glue
 
   # Add curated sequences alignment tree
   run file glue/wnvAlignmentTreeCurated.glue
 
   # Compute alignments for curated sequecnes
-  run file glue/wnvComputeMsasCurated.glue
+  #run file glue/wnvComputeMsasCurated.glue
 
   # Run script to calculate aa replacements
-  run script glue/wnvGenerateReplacements.js
+  #run script glue/wnvGenerateReplacements.js
 
   # Count the number of sequences in which variants occur
-  run script glue/wnvSetVariantNumSeqs.js
+  #run script glue/wnvSetVariantNumSeqs.js
 
   # Validate
   validate
 
   exit
+
+

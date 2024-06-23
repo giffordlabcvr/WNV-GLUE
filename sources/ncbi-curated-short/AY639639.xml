@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY639639</GBSeq_locus>
+    <GBSeq_length>923</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>31-MAY-2005</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus strain WNI80245Ct polyprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY639639</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY639639.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY639639.1|</GBSeqid>
+      <GBSeqid>gi|55275770</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..923</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bondre,V.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>West Nile virus strains isolated from Southern India are different from those reported from American, European and African countries</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..923</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bondre,V.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-MAY-2004) Microbial Containment Complex, National Institute of Virology, Indian Council of Medical Research, 20 - A, Dr. Ambedkar Road, Post Box No. 11, Pune, Maharashtra 411 001, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..923</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>923</GBInterval_to>
+            <GBInterval_accession>AY639639.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>WNI80245Ct</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Culex tritainiorhynchus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>isolated in 1980</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;923</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>923</GBInterval_to>
+            <GBInterval_accession>AY639639.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contains partial C, complete prM and M and partial E domains</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAV49724.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LIDGKGPIRFVLALLAFFKFTAIAPTRALLDRWRGVNKQTAMKHLLSFKKELGTLTNAMNRRSTKQKKRGGVVGVMAVLGLVACVGSVTLSNFQGKVMMTVNATDVANIITIPTASGKNLCTVRAMDVGFMCDDTITYECPALAAGNDPEDIDCWCTKAAVYVRYGRCTKTRHSRRSRRSLTVQAHGESTLANKKGAWLDSTKATRYLVKTESWILRNPGYALVAVVIGWMLGSNNMQRVVFVVLLLLVAPAYSFNCLGMSNRDFLEGVTGATWLDLVLEGDSCVTIMSKDKPTIDVKMTNMEASNL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cttgatagacggcaagggaccgatacgtttcgtgttggcactcttggcctttttcaagttcacagcaattgctccgactcgggcattgttggacagatggagaggcgtcaataaacaaacagcaatgaagcacctcctcagtttcaagaaggaactaggcaccctgaccaacgccatgaatagacggagcacaaaacagaagaaaagagggggagtcgtaggagtcatggctgtcttaggactagtagcttgcgtcggatctgtgaccctctcaaactttcagggaaaggtgatgatgaccgtcaatgctactgatgttgccaacattatcactattccaacagcgtcagggaagaacttatgcacggtgagagcaatggacgtggggttcatgtgtgatgacaccatcacatatgaatgcccggccctggctgcaggtaatgacccagaagacatcgactgctggtgcactaaagctgctgtctatgtcagatatgggaggtgtacgaaaaccagacactcccggcggagtcgccgctctcttactgtgcaagcacatggggagagcactctggcaaacaagaagggagcttggctggacagcacgaaagctactcgctacctggtgaaaactgaatcatggatcctcaggaatccaggctatgccctcgtggcggttgtgattggatggatgttgggaagtaacaacatgcagcgtgttgtgttcgtcgtgcttcttcttttggttgcaccagcatacagcttcaattgcctcggaatgagcaatagggacttcttagaaggagtgacaggggcgacctggctcgacttagtgctggaaggtgacagctgtgtgaccataatgtcgaaagacaagcccaccattgatgtgaagatgacaaacatggaagctagcaacctgg</GBSeq_sequence>
+  </GBSeq>

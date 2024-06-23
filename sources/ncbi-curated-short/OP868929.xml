@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>OP868929</GBSeq_locus>
+    <GBSeq_length>1503</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-MAY-2023</GBSeq_update-date>
+    <GBSeq_create-date>15-MAY-2023</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus strain Strix_nebulosa-12 protein E gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>OP868929</GBSeq_primary-accession>
+    <GBSeq_accession-version>OP868929.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|OP868929.1|</GBSeqid>
+      <GBSeqid>gi|2502152305</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1503</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sedenkova,K.N.</GBAuthor>
+          <GBAuthor>Uvarova,V.I.</GBAuthor>
+          <GBAuthor>Nazarova,A.A.</GBAuthor>
+          <GBAuthor>Peisikova,A.V.</GBAuthor>
+          <GBAuthor>Khvatov,E.V.</GBAuthor>
+          <GBAuthor>Sukhorukov,M.V.</GBAuthor>
+          <GBAuthor>Frolenko,V.S.</GBAuthor>
+          <GBAuthor>Goryashchenko,A.S.</GBAuthor>
+          <GBAuthor>Kholodilov,I.S.</GBAuthor>
+          <GBAuthor>Grishin,Y.K.</GBAuthor>
+          <GBAuthor>Rybakov,V.B.</GBAuthor>
+          <GBAuthor>Makenov,M.T.</GBAuthor>
+          <GBAuthor>Morozkin,E.S.</GBAuthor>
+          <GBAuthor>Karan,L.S.</GBAuthor>
+          <GBAuthor>Kozlovskaya,L.I.</GBAuthor>
+          <GBAuthor>Ishmukhametov,A.A.</GBAuthor>
+          <GBAuthor>Osolodkin,D.I.</GBAuthor>
+          <GBAuthor>Averina,E.B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Tetrahydroquinazoline N-oxide derivatives inhibit reproduction of tick-borne and mosquito-borne flaviviruses</GBReference_title>
+        <GBReference_journal>Arch Pharm (Weinheim), e2300027 (2023) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/ardp.202300027</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>37138375</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1503</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kholodilov,I.S.</GBAuthor>
+          <GBAuthor>Makenov,M.T.</GBAuthor>
+          <GBAuthor>Morozkin,E.S.</GBAuthor>
+          <GBAuthor>Khvatov,E.V.</GBAuthor>
+          <GBAuthor>Karganova,G.G.</GBAuthor>
+          <GBAuthor>Karan,L.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-NOV-2022) Laboratory of Arboviruses, Chumakov Institute of Poliomyelitis and Viral Encephalitides, Institute of Poliomyelitis, Moscow Region, Moscow 142782, Russia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1503</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1503</GBInterval_to>
+            <GBInterval_accession>OP868929.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>Strix_nebulosa-12</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>heart</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Strix nebulosa</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lab_host</GBQualifier_name>
+            <GBQualifier_value>Vero</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
+            <GBQualifier_value>Russia: Moscow</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2021</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Lineage_2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1503</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1503</GBInterval_to>
+            <GBInterval_accession>OP868929.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>protein E</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WGZ75202.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>FNCLGMSNRDFLEGVSGATWVDLVLEGDSCVTIMSKDKPTIDVKMMNMEAANLADVRSYCYLASVSDLSTKAACPTMGEAHNEKRADPAFVCKQGVVDRGWGNGCGLFGKGSIDTCAKFACTTKATGWIIQKENIKYEVAIFVHGPTTVESHGNYSTQMGATQAGRFSITPSAPSYTLKLGEYGEVTVDCEPRSGIDTGAYYVMSVGAKSFLVHREWFMDLNLPWSSAGSTTWRNRETLMEFEEPHATKQSVVALGSQEGALHQALAGAIPVEFSSNTVKLTSGHLKCRVKMEKLQLKGTTYGVCSKAFKFAGTPADTGHGTVVLELQYTGKDGPCKVPISSVASLNDLTPVGRLVTVNPFVSVATANSKVLIELEPPFGDSYIVVGRGEQQINHHWHKSGSSIGKAFTTTLRGAQRLAALGDTAWDFGSVGGVFTSVGKAIHQVFGGAFRSLFGGMSWITQGLLGALLLWMGINARDRSIAMTFLAVGGVLLFLSVNVHA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttcaactgcttaggaatgagcaacagagacttcctggagggagtgtctggagctacatgggttgatctggtactggaaggcgacagttgtgtgaccataatgtcaaaagacaagccaaccattgacgtcaaaatgatgaacatggaagcagccaatctcgcagatgtgcgcagttactgttatctggcttcggttagtgacttgtcaacaaaagccgcgtgtccaaccatgggtgaagctcacaacgagaaaagagctgaccccgccttcgtttgcaagcaaggcgttgtggacagaggatggggaaatggatgcggactgtttggaaaggggagcattgacacatgtgcgaagttcgcctgtacaaccaaagcaactggctggatcattcagaaggaaaacatcaagtatgaggttgccatatttgtacatggcccgacgaccgttgaatcccatggcaattattcaacacaaatgggggccactcaggctggaagattcagcataactccatcggcgccatcttacacgctaaagttgggtgagtatggtgaggtcacggttgattgtgagccacggtcaggaatagacactggcgcctactacgttatgtcagttggcgcgaagtccttcctggtccaccgagaatggtttatggacctgaacctgccatggagcagtgctggaagcaccacgtggaggaaccgggaaacactgatggagtttgaagaaccccatgccaccaaacaatctgttgtggctctagggtcgcaggaaggtgctttgcaccaagctctggccggagcgattcctgttgaattctcaagcaacactgtgaagttgacatcaggacatctgaagtgtagggtgaagatggagaagttgcagctgaagggaacaacatatggagtatgttcaaaagcgttcaagttcgctgggactcccgctgacactggccatggaacggtggtgttggaactgcaatataccggaaaggacggtccctgcaaagtgcccatttcttccgtagcttccctgaatgacctcacacctgttggaagactggtgacagtgaatccatttgtgtctgtggccacggccaactcgaaggttctgattgaactcgaacccccgtttggtgactcttacatcgtggtgggaagaggagaacagcagataaaccatcactggcacaaatctgggagcagcatcgggaaggcctttaccaccacactcagaggagctcaacgactcgcagctcttggagacactgcttgggattttggatcagttggaggggtttttacctcggtagggaaagccatacaccaagtctttggaggagcttttagatcactttttggagggatgtcctggatcacacaggggcttctgggagctcttctattgtggatgggaatcaatgctcgtgacaggtcaattgctatgacgttccttgcagttggaggagttttgctctttctctcggtcaacgtccatgct</GBSeq_sequence>
+  </GBSeq>

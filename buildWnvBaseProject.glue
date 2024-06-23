@@ -14,7 +14,7 @@ project wnv
 
   # M49 countries
   run file glue/m49_countries/populateM49All.glue
-
+  
   # Define features
   run file glue/wnvFeatures.glue
 
@@ -22,7 +22,7 @@ project wnv
   import source sources/ncbi-refseqs
 
   # Import data
-  run file glue/wnvImportData.glue
+  run file glue/wnvImportLineagesRefseqs.glue
 
   # Define references
   run file glue/wnvReferences.glue
@@ -58,4 +58,6 @@ project wnv
   validate
 
   exit
+
+
 

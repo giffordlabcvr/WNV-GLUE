@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB285163</GBSeq_locus>
+    <GBSeq_length>3432</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>02-MAR-2010</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus mRNA for polyprotein (C-NS1 region), strain: g2266</GBSeq_definition>
+    <GBSeq_primary-accession>AB285163</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB285163.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB285163.1|</GBSeqid>
+      <GBSeqid>gi|290349903</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3432</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lim,C.</GBAuthor>
+          <GBAuthor>Kotaki,A.</GBAuthor>
+          <GBAuthor>Takasaki,T.</GBAuthor>
+          <GBAuthor>Kurane,I.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>West Nile virus strain g2266 core, prM, E, NS1 mRNA</GBReference_title>
+        <GBReference_journal>Published Only in Database (2010)</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3432</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lim,C.</GBAuthor>
+          <GBAuthor>Kotaki,A.</GBAuthor>
+          <GBAuthor>Takasaki,T.</GBAuthor>
+          <GBAuthor>Kurane,I.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (30-NOV-2006) Contact:Chang-kweng Lim National Institute of Infectious Diseases, Depertment of Virology I; 1-23-1Toyama, Shinjuku-ku, Tokyo 162-8640, Japan URL :http://www.nih.go.jp/</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3432</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3432</GBInterval_to>
+            <GBInterval_accession>AB285163.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>g2266</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;3432</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3432</GBInterval_to>
+            <GBInterval_accession>AB285163.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>C-NS1 region</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAI78057.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MSKKPGGPGKNRAVNMLKRGMPRVMSLIGLKRAMLSLIDGKGPIRFVLALLAFFKFTAIAPTRALLDRWRGVNKQTAMKHLLSFKKELGTLTNAMNRRSTKQKKRGGVVGVMAVLGLVACVGSVTLSNFQGKVMMTVNATDVANIITIPTASGKNLCTVRAMDVGFMCDDTITYECPALAAGNDPEDIDCWCTKAAVYVRYGRCTKTRHSRRSRRSLTVQAHGESTLANKKGAWLDSTKATRYLVKTESWILRNPGYALVAVVIGWMLGSNNMQRVVFVVLLLLVAPAYSFNCLGMSNRDFLEGVTGATWLDLVLEGDSCVTIMSKDKPTIDVKMTNMEATNLAEVRSYCYAATVSDLSTKAACPTMGEAHNDKRADSAYVCKQGVVDRGWGNGCGLFGKGSIDTCARFACSTKATGRTILKENIKYEVAIFVHGPTTVESHGSYSTQQGATQAGRFSITPAAPSYTLKLGEYGEVTVDCEPRSGIDTNAYYVMTVGTKTFLVHREWFMDLNLPWSSAGGNVWRNRETLVEFEEPHATKQSVVALGSQEGALHQALAGAIPVEFSSNTVKLTSGHLKCRVKMEKLQLKGTTYGVCSKAFKFVGTPADTGHGTVVLELQYTGTDGPCKIPISSVASLNDLTPVGRLVTVNPFVSVATANAKVLIELEPPFGDSYIVVGRGDQQINHHWHKSGSSIGKAFTTTLKGAQRLAALGDSAWDFGSVGGVLTSVGKAIHQVFGGAFRSLFGGMSWITQGLLGALLLWMGISARDRSIALTFLAIGGMLLFLSINVHADTGCAIDIGRQELRCGSGVFIHNDVEAWMDRYKYYPETPQGLAKIIQKAHQEGVCGLRSVSRLEHQMWDSVKDELNTLLKENGVDLSIVVEKQEGMYKAAPKRLKATTEKLEMGWKAWGKSIIFAPEIANNTFVVDGPETEECPSQSRAWNSMEVEDFGFGLTSTRMFLKIREVNTTECDAKIIGTAVKNNLAIHSDLSYWIESGFNETWKLERAVLGEVKSCTWPETHTLWGDGVVESDLIIPVTLAGPRSNHNRRPGYKMQNQGPWDEGRVELDFDYCPGTTVTVSESCGHRGASTRTTTDSGKLITDWCCRSCTLPPLRFQTRSGCWYGMEIRPQKHDERTLVQSQVNAY</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgtctaagaaaccaggagggcccggcaagaaccgggccgtcaatatgctaaaacgcggaatgccccgcgtgatgtccttgataggactaaagagggctatgttgagcttgatagacggcaagggaccgatacgtttcgtgttggcactcttggcctttttcaagttcacagcaattgctccgactcgggcattgttggacagatggagaggtgtcaataaacaaacagcaatgaagcacctcctcagtttcaagaaggaactaggcaccctgaccaacgccatgaatagacggagtacaaaacagaagaaaagagggggagtcgtaggagtcatggctgtcttaggactagtagcttgcgtcggatctgtgaccctctcaaactttcagggaaaggtgatgatgaccgtcaatgccactgatgttgccaacattatcactattccaacagcatcagggaagaacttatgcacggtgagagcaatggacgtggggttcatgtgtgatgacaccatcacatatgaatgcccggccctggctgcaggtaatgacccagaagacatcgactgctggtgcactaaagctgctgtctatgtcagatatgggaggtgcacgaaaaccagacactcccggcggagtcgccgctctcttactgtgcaagcacatggggagagcactctggcaaacaagaagggagcttggctggacagcacgaaagctactcgctacctggtgaaaactgaatcatggatcctcaggaatccaggctatgccctcgtggcggttgtgattggatggatgttgggaagtaacaacatgcagcgtgttgtgtttgtcgtgcttcttcttttggttgcaccagcatacagcttcaattgcctcggaatgagtaatagggactttttagaaggagtgacaggggcgacctggctcgacttagtgctggagggtgacagctgtgtgaccataatgtcgaaagacaaacccaccattgatgtgaagatgacaaacatggaagctaccaacctagctgaggtgcgcagttactgctacgcagcgactgttagtgacctttccacgaaggcggcctgccccacgatgggggaagcccacaatgacaagcgggctgactcagcgtatgtgtgtaagcagggcgttgtggacagaggctggggaaatggatgtggattatttggaaaaggaagtattgacacatgtgccaggttcgcctgttcaacgaaggctacggggaggactattttgaaagaaaacatcaagtatgaggtggccatttttgttcatggaccgactacagtcgaatcgcatggcagctactcaacacagcaaggagccactcaagcaggccggttcagcataactccagccgcgccatcatacactcttaagcttggggaatatggagaagtcactgtggactgtgagccccgctcgggcatagacacaaacgcgtactatgtgatgacagttgggacgaagacgtttctagtccaccgagaatggttcatggacctcaaccttccatggagtagcgctggaggcaacgtgtggagaaacagggaaactttggtagaatttgaagaaccacatgccacaaaacaatcagtggtagcccttggctcacaagagggggctctgcaccaagctctggctggagccattccggtggaattctcaagcaacacagtcaagctgacttcaggtcacctgaagtgtagagttaagatggaaaaactgcagttgaaaggaacgacctatggtgtctgctcgaaggcttttaagtttgtcggaacgccagccgacacaggtcacggaacagtagtcttggaactgcagtatacaggaactgatggaccgtgtaaaattcccatctcctcggtggcgtctctaaatgatctcacgcctgttggtagactggtcactgttaaccccttcgtatcggtggcgacagccaacgctaaagtgttgattgaactagagccgccttttggagattcatacatcgtggtgggtagaggagatcagcagataaaccaccactggcacaagtcagggagtagcattggcaaggcatttaccacgaccctcaagggggcgcagagactggctgctctaggagattcggcttgggactttggttctgtgggaggagtactcacgtccgtggggaaggctatacatcaagtgtttggaggagcatttagatcattgttcgggggaatgtcttggatcacccaaggactcttgggggcactactcttgtggatgggcatcagtgcgcgagacagatccatagctctgaccttcctcgccataggtgggatgctcctgttcctttccatcaacgtccacgcagacaccgggtgcgccattgatattggtaggcaagagctaaggtgtggaagcggcgtcttcatccacaacgatgttgaagcctggatggaccgttacaaatactaccccgagacgccgcaaggacttgccaagatcatccagaaggcacatcaagagggagtctgtggcctccggtcagtgtctagattggagcaccaaatgtgggactcggtcaaggatgagctcaacaccttgctgaaggagaatggcgttgatctcagtattgtggttgagaagcaagaggggatgtacaaagccgctcccaagagactgaaagcaacgacagagaagctcgagatgggatggaaagcctgggggaaaagcattatcttcgcacctgagatcgcgaacaatacgttcgtggtcgacggtccagaaacagaggaatgcccctcgcagagtcgcgcctggaatagtatggaggtggaagactttgggtttggtctcaccagtactcgcatgttcctgaagatcagagaggttaacaccacagagtgcgacgccaaaatcatcggaacggcagtaaagaacaaccttgcgatccacagcgacctgtcctactggattgaaagcgggttcaacgagacatggaaacttgagagagccgttttgggggaagtcaagtcctgcacgtggccggaaacacacactctatggggtgatggagttgttgaaagtgatctgatcataccagtcaccctggcggggcctcggagcaatcacaataggcggccaggctacaagatgcagaatcaaggaccctgggatgagggacgcgtggagcttgactttgattattgccctgggaccactgtcacagtgagtgagagctgtggacaccgcggggcatccactcgtacaacaactgacagtgggaaattgatcacggattggtgttgcagaagctgcacactcccaccgttacgcttccaaaccagaagtggatgttggtatggcatggagatcaggccacagaagcatgatgaaagaactctcgttcagtcacaggtgaatgcttac</GBSeq_sequence>
+  </GBSeq>

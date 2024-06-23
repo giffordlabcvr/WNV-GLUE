@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>GU047874</GBSeq_locus>
+    <GBSeq_length>800</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>16-MAR-2010</GBSeq_create-date>
+    <GBSeq_definition>Kunjin virus isolate KUN MP502-66 NS5 gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>GU047874</GBSeq_primary-accession>
+    <GBSeq_accession-version>GU047874.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|GU047874.1|</GBSeqid>
+      <GBSeqid>gi|290889364</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Kunjin virus</GBSeq_source>
+    <GBSeq_organism>Kunjin virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..800</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Vazquez,A.</GBAuthor>
+          <GBAuthor>Sanchez-Seco,M.P.</GBAuthor>
+          <GBAuthor>Ruiz,S.</GBAuthor>
+          <GBAuthor>Molero,F.</GBAuthor>
+          <GBAuthor>Hernandez,L.</GBAuthor>
+          <GBAuthor>Moreno,J.</GBAuthor>
+          <GBAuthor>Magallanes,A.</GBAuthor>
+          <GBAuthor>Tejedor,C.G.</GBAuthor>
+          <GBAuthor>Tenorio,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Putative new lineage of west nile virus, Spain</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 16 (3), 549-552 (2010)</GBReference_journal>
+        <GBReference_pubmed>20202444</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..800</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Vazquez,A.</GBAuthor>
+          <GBAuthor>Sanchez-Seco,M.P.</GBAuthor>
+          <GBAuthor>Tenorio,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (30-SEP-2009) Diagnostic Microbiology, National Institute of Health Carlos III, Ctra Pozuelo-Majadahonda km 2, Majadahonda, Madrid 28220, Spain</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..800</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>800</GBInterval_to>
+            <GBInterval_accession>GU047874.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Kunjin virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>KUN MP502-66</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Culex pseudovishnui</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11077</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
+            <GBQualifier_value>Malaysia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>1966</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>serogroup: Japanese encephalitis virus group</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;800</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>800</GBInterval_to>
+            <GBInterval_accession>GU047874.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NS5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADD69955.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>KPGEFGKAKGSRAIWFMWLGARFLEFEALGFLNEDHWLGRKNSGGGVEGLGLQKLGYILKEVGTKPGGKIYADDTAGWDTRITKADLENEAKVLELLDGEHRRLARSIIELTYRHKVVKVMRPAADGRTVMDVISREDQRGSGQVVTYALNTFTNLAVQLVRMMEGEGIIGPGDVERLERGKGPKVRTWLFENGEERLSRMAVSGDDCVVKPLDDRFATSLHFLNAMSKVRKDIQEWKPSTGWYDWQQVPFCSNHFTELIMKDGRTL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aaacccggagagtttggtaaggccaaaggcagtcgtgcaatatggttcatgtggctgggagcccgctttctcgagtttgaagctctgggcttcttaaatgaggaccattggctgggcaggaagaactctggaggaggagtcgaaggcttgggtctgcagaaactggggtacattctgaaggaagtgggcacgaaacccggagggaaaatctatgcagatgacacagcgggctgggatacacgcattaccaaggctgacctggaaaatgaagcaaaggtccttgagttgcttgatggagagcatcgacggctggcccgttctatcattgaactcacgtaccggcacaaggtggtgaaagtgatgcggcctgcggccgacggaagaactgtcatggatgtcatctcgcgagaggaccagagaggaagtggccaggtcgtgacgtacgccctaaacactttcacgaacttggctgttcaactggtcagaatgatggaaggtgaaggaatcattggccctggagatgtggaaagattggaaagaggcaagggtcccaaggttagaacatggttgtttgagaatggggaagaaagattgagcaggatggctgtgagtggagacgactgtgttgtcaagcctctggatgaccgttttgccacttcactccactttctcaacgctatgtcaaaagtgcgcaaggacatccaagagtggaagccgtcgacaggatggtatgactggcagcaagtccctttttgctcaaatcacttcaccgagctcattatgaaggatggtagaactct</GBSeq_sequence>
+  </GBSeq>

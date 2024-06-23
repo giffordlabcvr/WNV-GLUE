@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KJ592829</GBSeq_locus>
+    <GBSeq_length>875</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>22-DEC-2015</GBSeq_update-date>
+    <GBSeq_create-date>07-JUN-2014</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus strain WNV/189Uu/2011 NS5 gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KJ592829</GBSeq_primary-accession>
+    <GBSeq_accession-version>KJ592829.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KJ592829.1|</GBSeqid>
+      <GBSeqid>gi|643193374</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..875</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kemenesi,G.</GBAuthor>
+          <GBAuthor>Dallos,B.</GBAuthor>
+          <GBAuthor>Oldal,M.</GBAuthor>
+          <GBAuthor>Kutas,A.</GBAuthor>
+          <GBAuthor>Foldes,F.</GBAuthor>
+          <GBAuthor>Nemeth,V.</GBAuthor>
+          <GBAuthor>Reiter,P.</GBAuthor>
+          <GBAuthor>Bakonyi,T.</GBAuthor>
+          <GBAuthor>Banyai,K.</GBAuthor>
+          <GBAuthor>Jakab,F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Putative novel lineage of West Nile virus in Uranotaenia unguiculata mosquito, Hungary</GBReference_title>
+        <GBReference_journal>Virusdisease 25 (4), 500-503 (2014)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s13337-014-0234-8</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25674630</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..875</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jakab,F.</GBAuthor>
+          <GBAuthor>Kemenesi,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-MAR-2014) Janos Szentagothai Research Center, University of Pecs, Ifjusag Utja 20, Pecs, Baranya H7624, Hungary</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..875</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>875</GBInterval_to>
+            <GBInterval_accession>KJ592829.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>WNV/189Uu/2011</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Uranotaenia unguiculata</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
+            <GBQualifier_value>Hungary</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2011</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;875</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>875</GBInterval_to>
+            <GBInterval_accession>KJ592829.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NS5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AIA96498.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>IRGPQEFCIKVLCPYMPKVIEKLEVLQRRYGGGLVRNPLSRNSTHEMYWVSRASGNIVNSANMTSQVLLGRMEKKTWKGAHYEEDVNLGSGTRAVGRPLLNSDTGKIRNRIERLRKEYSSTWHQDDNHPYRTWNYHGSYEVKPTGSASSLVNGVVRLLSKPWDTITNVTTMAMTDTTPFGQQRVFKEKVDTKAPEPTEGVKIVLNETTNWLWAFLAREKRPRMCTREEFISKVNSNAALGAMFEEQNQWSNARDAVEDPKFWEMVDEEREAHLRGECHTCIYNMMGKREKKP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atccgtgggccacaagagttctgcattaaagtgttatgtccatacatgcccaaagtcattgagaagctggaagtgttgcaacgacgttatggaggagggctggtgcggaatccactttcgcgcaattcaacccacgagatgtactgggtgagccgcgcctcaggaaacattgtgaactccgccaacatgactagccaagttctccttgggcgcatggaaaagaagacgtggaagggagctcattatgaggaagacgtcaacttgggcagtggaactagagcagtaggacgacctctgctcaattccgacactggaaagattcggaaccggattgaacggctaagaaaagaatacagttccacttggcatcaggatgacaaccacccgtacaggacttggaactaccatggcagctatgaggtgaagcccacaggctcggccagctcactggtaaacggcgttgtgcggctgttgtcaaagccatgggataccatcaccaatgtgaccacaatggccatgaccgacaccaccccctttgggcagcagcgcgtgttcaaagaaaaggttgacacgaaggcccctgaaccaacggaaggcgttaagatagtattaaatgaaaccaccaactggctgtgggcttttctggcgcgagaaaagcgaccacgcatgtgcacgagagaagagttcataagcaaggtcaacagcaacgcggcattgggagctatgtttgaggaacagaaccagtggtcaaacgccagagacgctgtagaagatcctaagttctgggagatggtggatgaagagcgcgaggcccatctccgaggtgaatgccacacgtgcatatataacatgatgggcaagagagaaaagaaacc</GBSeq_sequence>
+  </GBSeq>
