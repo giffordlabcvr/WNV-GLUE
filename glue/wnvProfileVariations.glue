@@ -1,0 +1,12 @@
+project dengue
+
+  # Run script to calculate aa replacements
+  run script glue/wnvGenerateReplacements.js
+
+  # Count the number of sequences in which variants occur
+  run script glue/wnvSetVariantNumSeqs.js
+
+  # Validate
+  validate
+
+  exit

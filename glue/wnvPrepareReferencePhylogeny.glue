@@ -1,15 +1,19 @@
+
   delete module wnvPhyloUtility
   delete module wnvFigTreeAnnotationExporter
 
   create module -f modules/wnvFigTreeAnnotationExporter.xml
   create module -f modules/wnvPhyloUtility.xml
 
-  module wnvFigTreeAnnotationExporter 
+  module wnvFigTreeAnnotationExporter
+  
     export figtree-annotation AL_UNC_WNV_ROOT \
     -f trees/wnvReferenceFigtreeAnnotations.tsv
+    
     exit
     
-  module wnvPhyloUtility 
+  module wnvPhyloUtility
+  
 	# midpoint rooting
 	reroot-phylogeny \
       --inputFile trees/wnvReferencePhylogeny.tree NEWICK_BOOTSTRAPS \

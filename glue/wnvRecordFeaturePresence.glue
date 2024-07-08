@@ -1,0 +1,10 @@
+  delete module wnvFeaturePresenceRecorder
+  create module -f modules/wnvFeaturePresenceRecorder.xml
+
+  module wnvFeaturePresenceRecorder 
+
+    #~# Root alignment
+    record feature-presence AL_WNV_ROOT --recursive --featureName whole_genome --descendentFeatures
+    
+    exit
+

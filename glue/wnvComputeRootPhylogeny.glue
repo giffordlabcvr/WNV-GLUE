@@ -1,13 +1,13 @@
   # Clean-up
   
   # Delete modules
-  delete module wnvNucsRaxmlPhylogenyGenerator
+  delete module wnvRaxmlPhylogenyGeneratorNucs
     
   # Create all the modules we need
-  create module -f modules/wnvNucsRaxmlPhylogenyGenerator.xml
+  create module -f modules/wnvRaxmlPhylogenyGeneratorNucs.xml
 
   # Create the phylogeny (without outgroup)
-  module wnvNucsRaxmlPhylogenyGenerator
+  module wnvRaxmlPhylogenyGeneratorNucs
     
     generate nucleotide phylogeny AL_UNC_WNV_ROOT \
       -a -o trees/wnvReferencePhylogeny.tree \

@@ -25,14 +25,11 @@ project wnv
   # Add curated sequences alignment tree
   run file glue/wnvAlignmentTreeCurated.glue
 
-  # Compute alignments for curated sequecnes
-  #run file glue/wnvComputeMsasCurated.glue
+  # Compute alignments for curated sequences
+  run file glue/wnvComputeMsasCurated.glue
 
-  # Run script to calculate aa replacements
-  #run script glue/wnvGenerateReplacements.js
-
-  # Count the number of sequences in which variants occur
-  #run script glue/wnvSetVariantNumSeqs.js
+  # Calculate feature coverage 
+  run file glue/wnvRecordFeaturePresence.glue
 
   # Validate
   validate

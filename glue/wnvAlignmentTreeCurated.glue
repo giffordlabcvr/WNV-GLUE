@@ -2,23 +2,23 @@
 
   alignment AL_WNV_ROOT
 
-    add member -w "source.name = 'ncbi-curated' and lineage != null"
+    add member -w "source.name like 'ncbi-curated%' and lineage != null"
 
-	demote member AL_WNV_Lineage1 --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '1'"
-	demote member AL_WNV_Lineage2 --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '2'"
-	demote member AL_WNV_Lineage3 --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '3'"
-	demote member AL_WNV_Lineage4 --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '4'"
-	demote member AL_WNV_Lineage5 --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '5'"
-	demote member AL_WNV_Lineage7 --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '7'"
-	demote member AL_WNV_Lineage8 --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '8'"
+	demote member AL_WNV_Lineage1 --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.lineage = '1'"
+	demote member AL_WNV_Lineage2 --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.lineage = '2'"
+	demote member AL_WNV_Lineage3 --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.lineage = '3'"
+	demote member AL_WNV_Lineage4 --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.lineage = '4'"
+	demote member AL_WNV_Lineage5 --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.lineage = '5'"
+	demote member AL_WNV_Lineage7 --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.lineage = '7'"
+	demote member AL_WNV_Lineage8 --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.lineage = '8'"
 
 	exit
 
 
   alignment AL_WNV_Lineage1
 
-	demote member AL_WNV_Lineage1A --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '1' and sequence.clade = 'A'"
-	demote member AL_WNV_Lineage1B --whereClause "sequence.source.name = 'ncbi-curated' and sequence.lineage = '1' and sequence.clade = 'B'"
+	demote member AL_WNV_Lineage1A --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.lineage = '1' and sequence.clade = 'A'"
+	demote member AL_WNV_Lineage1B --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.lineage = '1' and sequence.clade = 'B'"
 
 	exit
 
