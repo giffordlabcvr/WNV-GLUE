@@ -1,4 +1,4 @@
-project dengue
+project wnv
 
   # Run script to calculate aa replacements
   run script glue/wnvGenerateReplacements.js
