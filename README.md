@@ -1,8 +1,8 @@
 # WNV-GLUE: Phylogenomic Analysis of West Nile Virus
 
-Welcome to the GitHub repository for **WNV-GLUE**!
-
 <img src="md/wnv-glue-logo.png" align="right" alt="" width="280" />
+
+Welcome to the GitHub repository for **WNV-GLUE**!
 
 WNV-GLUE is a sequence-oriented resource for comparative genomic analysis of West Nile virus (WNV), developed using the [GLUE](https://github.com/giffordlabcvr/gluetools) software framework.
 
