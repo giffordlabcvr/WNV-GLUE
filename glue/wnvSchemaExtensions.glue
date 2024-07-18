@@ -17,6 +17,9 @@ schema-project wnv
     create field gb_create_date DATE
     create field gb_update_date DATE
     create field variation_present BOOLEAN # true if variations are present in the sequence
+    create field patent_associated BOOLEAN 
+    create field exp_infection BOOLEAN 
+    create field downsample_seq BOOLEAN 
     exit
 
 

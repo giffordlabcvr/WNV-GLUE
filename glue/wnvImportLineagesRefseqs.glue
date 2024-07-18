@@ -1,6 +1,5 @@
 
   # Import metadata for RT sequences from tabular
-  module wnvSideDataImporter 
+  module wnvSideDataImporterGenotypes 
     populate -f tabular/wnv-lineages-refseqs.tsv
     exit
-

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<textFilePopulator>
+
+    <columnDelimiterRegex>\t</columnDelimiterRegex>
+    
+    <textFileColumn>
+        <identifier>true</identifier>
+        <header>sequenceID</header>
+        <property>sequenceID</property>
+    </textFileColumn>
+
+    <textFileColumn>
+        <header>missing_country</header>
+        <property>isolate_data.country</property>
+    </textFileColumn>
+
+	<isoCountryTextFileColumn codeStyle="ALPHA_3">
+		<header>missing_country</header>
+		<property>isolate_data.m49_country</property>
+		<overwriteExistingNonNull>true</overwriteExistingNonNull>  
+	</isoCountryTextFileColumn>
+
+    <skipMissing>true</skipMissing>
+
+</textFilePopulator>
+

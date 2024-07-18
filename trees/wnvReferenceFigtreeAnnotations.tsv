@@ -8,8 +8,8 @@ alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/GU011992	GU011992	Ita09	Italy	2009
 alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/HM152773	HM152773	WNV_0043h_ISR00	Israel	2000	Homo sapiens	Israel/2000/Homo sapiens	1	A	1/A
 alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/JF719069	JF719069	Spain/2010/H-1b	Spain	2010	Equus caballus	Spain/2010/Equus caballus	1	A	1/A
 alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/JN887352	JN887352	NSW2011	Australia	2011	Equus caballus	Australia/2011/Equus caballus	1	B	1/B
-alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/JX041629	JX041629	LEIV-1628Az	Azerbaijan	1967	bird	Azerbaijan/1967/bird	1	A	1/A
-alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/JX041630	JX041630	LEIV-1640Az	Azerbaijan	1967	bird	Azerbaijan/1967/bird	1	A	1/A
+alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/JX041629	JX041629	LEIV-1628Az	Azerbaijan	1967	Aves	Azerbaijan/1967/Aves	1	A	1/A
+alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/JX041630	JX041630	LEIV-1640Az	Azerbaijan	1967	Aves	Azerbaijan/1967/Aves	1	A	1/A
 alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/JX041632	JX041632	Ig2266	India	1955	Culex vishnui (mosquito)	India/1955/Culex vishnui (mosquito)	5	-	5/-
 alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/JX123030	JX123030	V11-03	Australia	2011	Equus caballus	Australia/2011/Equus caballus	1	B	1/B
 alignment/AL_UNC_WNV_ROOT/member/ncbi-refseqs/JX442279	JX442279	XJ11129	China	2011	Culex pipiens pipiens	China/2011/Culex pipiens pipiens	1	A	1/A

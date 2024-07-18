@@ -6,8 +6,12 @@
 	# Alignment
 	create module -f modules/wnvCompoundAligner.xml
 
-	# Import
-	create module -f modules/wnvSideDataImporter.xml
+	# Import modules
+	create module -f modules/wnvSideDataImporterGenotypes.xml
+	create module -f modules/wnvSideDataImporterMissingCountry.xml
+	create module -f modules/wnvSideDataImporterPatent.xml
+	create module -f modules/wnvSideDataImporterExpInfection.xml
+	create module -f modules/wnvSideDataImporterDownsample.xml
 
 	# Genotyping
 	create module -f modules/wnvMaxLikelihoodGenotyper.xml
@@ -21,5 +25,4 @@
 	# Basic modules
 	create module -f modules/tabularUtilityCsv.xml
 	create module -f modules/tabularUtilityTab.xml
-
 
