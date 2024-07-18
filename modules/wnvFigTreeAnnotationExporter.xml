@@ -6,6 +6,31 @@
 	</figTreeAnnotation>
 
 	<figTreeAnnotation>
+		<annotationName>isolate</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.isolate_data.isolate')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>country</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.isolate_data.country')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>collection_year</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.isolate_data.collection_year')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>sampled_host_sci_name</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.isolate_data.sampled_host_sci_name')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
+		<annotationName>combined-iso-details</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.isolate_data.country')}/${renderNestedProperty('sequence.isolate_data.collection_year')}/${renderNestedProperty('sequence.isolate_data.sampled_host_sci_name')}</valueFreemarkerTemplate>
+	</figTreeAnnotation>
+
+	<figTreeAnnotation>
 		<annotationName>lineage</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.lineage')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
@@ -19,6 +44,5 @@
 		<annotationName>combined</annotationName>
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.lineage')}/${renderNestedProperty('sequence.clade')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
-
 
 </figTreeAnnotationExporter>

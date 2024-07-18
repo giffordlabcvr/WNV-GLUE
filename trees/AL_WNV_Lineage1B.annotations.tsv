@@ -1,0 +1,51 @@
+taxon	sequenceID	isolate	country	collection_year	sampled_host_sci_name	combined-iso-details	lineage	clade	combined
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/D00246	D00246	MRM61C	-	-	-	-/-/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-refseqs/GQ851602	GQ851602	MRM16	Australia	1960	Culex annulirostris	Australia/1960/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/GQ851603	GQ851603	K6453	Australia	1991	Culex annulirostris	Australia/1991/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-refseqs/JN887352	JN887352	NSW2011	Australia	2011	Equus caballus	Australia/2011/Equus caballus	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-refseqs/JX123030	JX123030	V11-03	Australia	2011	Equus caballus	Australia/2011/Equus caballus	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/JX123031	JX123031	V11-07	Australia	2011	Equus caballus	Australia/2011/Equus caballus	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/JX276662	JX276662	CH16532	-	2012	-	-/2012/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934796	KT934796	Boort	Australia	1984	Equus caballus	Australia/1984/Equus caballus	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934797	KT934797	Hu6774	Australia	1991	Homo sapiens	Australia/1991/Homo sapiens	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934798	KT934798	GU0631	Australia	2000	Culex annulirostris	Australia/2000/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934799	KT934799	GU1009	Australia	2000	Culex annulirostris	Australia/2000/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934800	KT934800	P9974	Australia	2009	Culex annulirostris	Australia/2009/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934801	KT934801	K74015	Australia	2011	Culex annulirostris	Australia/2011/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934802	KT934802	K68967	Australia	2009	Culex annulirostris	Australia/2009/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934803	KT934803	SA2011	Australia	2011	Equus caballus	Australia/2011/Equus caballus	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934804	KT934804	NSW2012	Australia	2012	Culex annulirostris	Australia/2012/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394381	KX394381	18658C	Australia	1975	-	Australia/1975/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394382	KX394382	158106NSW	Australia	2011	Culex annulirostris	Australia/2011/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394383	KX394383	CH15139C	Australia	1972	Culex annulirostris	Australia/1972/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394384	KX394384	CH16078	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394385	KX394385	CH16465R	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394386	KX394386	CH16479D	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394387	KX394387	CH16483E	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394388	KX394388	CH16483R	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394389	KX394389	CH16514C	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394390	KX394390	CH16540B	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394391	KX394391	CH16540C	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394392	KX394392	IN761	Australia	1963	-	Australia/1963/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394393	KX394393	IN835	Australia	1963	-	Australia/1963/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394394	KX394394	KUN21210	Australia	1978	Culex annulirostris	Australia/1978/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394395	KX394395	KUN112140	Australia	1999	Culex annulirostris	Australia/1999/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394396	KX394396	MRM16	Australia	1960	Culex annulirostris	Australia/1960/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394397	KX394397	MRM61	Australia	1960	-	Australia/1960/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394398	KX394398	MRM61C	Australia	1960	Culex annulirostris	Australia/1960/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394399	KX394399	MRM73	Australia	1960	-	Australia/1960/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394400	KX394400	MRM108	Australia	1960	-	Australia/1960/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394401	KX394401	MRM111	Australia	1960	-	Australia/1960/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394402	KX394402	MRM132	Australia	1960	-	Australia/1960/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394403	KX394403	MRM783	Australia	1963	Anopheles bancroftii	Australia/1963/Anopheles bancroftii	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394404	KX394404	MRM795	Australia	1963	Culex squamosus	Australia/1963/Culex squamosus	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394405	KX394405	MRM796	Australia	1963	Culex annulirostris	Australia/1963/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394406	KX394406	MRM875	Australia	1963	Culex squamosus	Australia/1963/Culex squamosus	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394407	KX394407	MRM890	Australia	1963	Anopheles farauti	Australia/1963/Anopheles farauti	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394408	KX394408	MRM900	Australia	1963	Culex pullus	Australia/1963/Culex pullus	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394409	KX394409	MRM938	Australia	1963	Culex annulirostris	Australia/1963/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394410	KX394410	MRM5373	Australia	1965	Oriolus flavocinctus	Australia/1965/Oriolus flavocinctus	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394411	KX394411	YJ	Australia	1978	-	Australia/1978/-	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/LC802098	LC802098	Kunjin virus/Mosquito/Australia/OR393/1974	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/LC802099	LC802099	Kunjin virus/Mosquito/Australia/OR393/1974	Australia	1974	Culex annulirostris	Australia/1974/Culex annulirostris	1	B	1/B
+alignment/AL_WNV_Lineage1B/member/ncbi-curated/MN954648	MN954648	D66	Australia	2016	Crocodylus porosus	Australia/2016/Crocodylus porosus	1	B	1/B

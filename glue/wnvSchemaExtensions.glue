@@ -10,33 +10,26 @@ schema-project wnv
 
   table sequence
 
-	# taxonomy
     create field lineage VARCHAR 50
     create field clade VARCHAR 50
-
     create field length INTEGER
     create field pubmed_id INTEGER
     create field gb_create_date DATE
     create field gb_update_date DATE
-
-    # true if variations are present in the sequence
-    create field variation_present BOOLEAN
-
+    create field variation_present BOOLEAN # true if variations are present in the sequence
     exit
 
 
   table alignment
   
     create field clade_category VARCHAR 20
-    create field phylogeny CLOB
-    
+    create field phylogeny CLOB  
     exit 
 
 
   table member_floc_note
   
-    create field ref_nt_coverage_pct DOUBLE
-    
+    create field ref_nt_coverage_pct DOUBLE  
     exit
 
 
@@ -79,15 +72,14 @@ schema-project wnv
 
 
   create link sequence isolate_data
-
   create link variation wnv_replacement -m ONE_TO_ONE
   create link wnv_replacement wnv_replacement_sequence -m ONE_TO_MANY
   create link sequence wnv_replacement_sequence -m ONE_TO_MANY  
 
-  #~# ISO country and region codes
+  #~# WHO regions / countries etc (M49 standard)
 
   run file glue/m49_countries/m49SchemaExtension.glue 
-  create link sequence m49_country -m MANY_TO_ONE
+  create link isolate_data m49_country -m MANY_TO_ONE
 
   
   exit

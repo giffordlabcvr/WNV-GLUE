@@ -1,0 +1,30 @@
+  
+  # Clean-up
+  delete module wnvFigTreeAnnotationExporter
+
+  # Create all the modules we need
+  create module -f modules/wnvFigTreeAnnotationExporter.xml
+
+  # Export annotations
+  module wnvFigTreeAnnotationExporter 
+
+    export figtree-annotation AL_WNV_Lineage5 -w "fLocNotes.featureLoc.feature.name = 'envelope'  \
+      and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage5_envelope.70pct.annotations.tsv
+
+    export figtree-annotation AL_WNV_Lineage4 -w "fLocNotes.featureLoc.feature.name = 'envelope'  \
+      and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage4_envelope.70pct.annotations.tsv
+
+    export figtree-annotation AL_WNV_Lineage3 -w "fLocNotes.featureLoc.feature.name = 'envelope'  \
+      and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage3_envelope.70pct.annotations.tsv
+
+    export figtree-annotation AL_WNV_Lineage2 -w "fLocNotes.featureLoc.feature.name = 'envelope'  \
+      and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage2_envelope.70pct.annotations.tsv
+
+    export figtree-annotation AL_WNV_Lineage1A -w "fLocNotes.featureLoc.feature.name = 'envelope'  \
+      and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage1A_envelope.70pct.annotations.tsv
+
+    export figtree-annotation AL_WNV_Lineage1B -w "fLocNotes.featureLoc.feature.name = 'envelope'  \
+      and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage1B_envelope.70pct.annotations.tsv
+
+  exit
+

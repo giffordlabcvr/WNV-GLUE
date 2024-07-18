@@ -1,0 +1,18 @@
+  # Clean-up
+  delete module wnvRaxmlPhylogenyGeneratorNucs
+
+  # Create all the general phylogeny modules we need
+  create module -f  modules/wnvRaxmlPhylogenyGeneratorNucs.xml
+
+  # Create the WNV lineage-level phylogenies
+  
+  module wnvRaxmlPhylogenyGeneratorNucs
+
+    generate nucleotide phylogeny AL_WNV_Lineage5  -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o trees/AL_WNV_Lineage5_envelope.70pct.tree NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_WNV_Lineage4  -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o trees/AL_WNV_Lineage4_envelope.70pct.tree NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_WNV_Lineage2  -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o trees/AL_WNV_Lineage2_envelope.70pct.tree NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_WNV_Lineage1B -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o trees/AL_WNV_Lineage1B_envelope.70pct.tree NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_WNV_Lineage1A -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70 and isolate.country != '" -o trees/AL_WNV_Lineage1A_envelope.70pct.tree NEWICK_BOOTSTRAPS
+
+    exit
+    

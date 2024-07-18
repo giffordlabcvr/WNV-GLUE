@@ -1,0 +1,37 @@
+ 
+  # Clean-up
+  delete module wnvPhyloUtility
+  
+  # Create all the modules we need
+  create module -f modules/wnvPhyloUtility.xml
+
+  # Re-root phylogenies 
+  module wnvPhyloUtility 
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage5_envelope.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subgenus/AL_WNV_Lineage5_envelope.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage4_envelope.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subgenus/AL_WNV_Lineage4_envelope.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage2_envelope.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subgenus/AL_WNV_Lineage2_envelope.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage1B_envelope.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subgenus/AL_WNV_Lineage1B_envelope.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage1A_envelope.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/subgenus/AL_WNV_Lineage1A_envelope.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+    exit
+
