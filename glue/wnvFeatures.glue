@@ -115,6 +115,9 @@
   feature NS5 set metatag OWN_CODON_NUMBERING true
   feature NS5 set metatag INCLUDE_IN_SUMMARY true
   feature NS5 set metatag CODES_AMINO_ACIDS true
+  
+  ## Non-coding definition to avoid frameshift
+  create feature NS5_gene -p non_structural_proteins "NS5-gene"
 
   ### Non-coding features 3' end
 

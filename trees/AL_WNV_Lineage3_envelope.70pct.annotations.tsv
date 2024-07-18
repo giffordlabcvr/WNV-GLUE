@@ -1,0 +1,4 @@
+taxon	sequenceID	isolate	country	collection_year	sampled_host_sci_name	combined-iso-details	lineage	clade	combined
+alignment/AL_WNV_Lineage3/member/ncbi-refseqs/AY765264	AY765264	97-103	-	-	Culex pipiens	-/-/Culex pipiens	3	-	3/-
+alignment/AL_WNV_Lineage3/member/ncbi-curated-short/GQ421358	GQ421358	99-222	Czech Republic	1999	Culex pipiens	Czech Republic/1999/Culex pipiens	3	-	3/-
+alignment/AL_WNV_Lineage3/member/ncbi-curated-short/GQ421359	GQ421359	06-222	Czech Republic	2006	Aedes rossicus	Czech Republic/2006/Aedes rossicus	3	-	3/-

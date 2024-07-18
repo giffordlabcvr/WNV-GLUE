@@ -1,7 +1,3 @@
-
-  # Create side data importer module
-  delete module wnvSideDataImporterGenotypes
-  create module -f modules/wnvSideDataImporterGenotypes.xml
   
   # Load previously generated genotype information
   module wnvSideDataImporterGenotypes
@@ -28,4 +24,8 @@
   module wnvSideDataImporterDownsample 
     populate -f tabular/NorthAmericaDownsampling.tsv
     exit
+
+  # Populate refseq + outgroup metadata from GenBank XML
+  module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
+  module wnvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated-short'"
 

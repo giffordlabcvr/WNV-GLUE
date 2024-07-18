@@ -20,8 +20,8 @@
     export figtree-annotation AL_WNV_Lineage2 -w "fLocNotes.featureLoc.feature.name = 'envelope'  \
       and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage2_envelope.70pct.annotations.tsv
 
-    export figtree-annotation AL_WNV_Lineage1A -w "fLocNotes.featureLoc.feature.name = 'envelope'  \
-      and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage1A_envelope.70pct.annotations.tsv
+    export figtree-annotation AL_WNV_Lineage1A -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country != 'USA' or fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70  and sequence.isolate_data.country = 'USA' and sequence.downsample_seq = true" \
+      -f trees/AL_WNV_Lineage1A_envelope.70pct.annotations.tsv
 
     export figtree-annotation AL_WNV_Lineage1B -w "fLocNotes.featureLoc.feature.name = 'envelope'  \
       and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage1B_envelope.70pct.annotations.tsv

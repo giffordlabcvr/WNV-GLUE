@@ -1,0 +1,467 @@
+taxon	sequenceID	isolate	country	collection_year	sampled_host_sci_name	combined-iso-details	lineage	clade	combined
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/AF394221	AF394221	B956	Uganda	-	-	Uganda/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/AF459403	AF459403	H-442	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/DQ176636	DQ176636	Madagascar-AnMg798	Madagascar	1978	-	Madagascar/1978/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/EU068667	EU068667	SPU116-89	South Africa	-	-	South Africa/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/FJ265699	FJ265699	VLG-07-26574	Russia	2007	Homo sapiens	Russia/2007/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/FJ265700	FJ265700	VLG-07-26428	Russia	2007	Homo sapiens	Russia/2007/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/FJ265701	FJ265701	VLG-07-26571	Russia	2007	Homo sapiens	Russia/2007/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/FJ265702	FJ265702	VLG-07-26298	Russia	2007	Homo sapiens	Russia/2007/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/FJ265703	FJ265703	VLG-07-26304	Russia	2007	Homo sapiens	Russia/2007/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/FJ425721	FJ425721	Reb_VLG_07_H	Russia	2007	Homo sapiens	Russia/2007/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/FJ425729	FJ425729	57_VLG_07_M	Russia	2007	Culex pipiens (mosquito)	Russia/2007/Culex pipiens (mosquito)	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/JN858070	JN858070	Italy/2011/AN-2	Italy	2011	Homo sapiens; age: 56; sex: male	Italy/2011/Homo sapiens; age: 56; sex: male	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/JX041631	JX041631	LEIV-3266Ukr	Ukraine	1980	Aves	Ukraine/1980/Aves	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/KC131126	KC131126	083m_ISR09	Israel	2009	mosquito	Israel/2009/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/KC131127	KC131127	025m_ISR10	Israel	2010	mosquito	Israel/2010/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/KC131128	KC131128	0121m_ISR09	Israel	2009	mosquito	Israel/2009/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KF179639	KF179639	Greece/2012/Kavala/39.1	Greece	2012	Homo sapiens	Greece/2012/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KF179640	KF179640	Austria/2008_gh	Austria	2008	Accipiter gentilis	Austria/2008/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KF588365	KF588365	Italy/2013/Rovigo/32.1	Italy	2013	Homo sapiens	Italy/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KF647249	KF647249	Italy/2013/Rovigo/33.2	Italy	2013	Homo sapiens	Italy/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KF647251	KF647251	Italy/2013/Padova/34.1	Italy	2013	Homo sapiens	Italy/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KF647252	KF647252	Italy/2013/Rovigo/35.1	Italy	2013	Homo sapiens	Italy/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KF823806	KF823806	Italy/2013/Mantova/40.1	Italy	2013	Homo sapiens	Italy/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/KJ131504	KJ131504	ArD172162	Senegal	2003	mosquito	Senegal/2003/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KJ577738	KJ577738	Greece/2013/C105	Greece	2013	Homo sapiens	Greece/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KJ883346	KJ883346	Greece/2013/Thessaloniki_4	Greece	2013	Homo sapiens	Greece/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KJ883349	KJ883349	Greece/2013/Xanthi_5	Greece	2013	Homo sapiens	Greece/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-refseqs/KJ883350	KJ883350	Greece/2013/Thessaloniki_3	Greece	2013	Homo sapiens	Greece/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-refseqs/KJ934710	KJ934710	Hyalomma/Romania/2013	Romania	2013	Hyalomma marginatum marginatum	Romania/2013/Hyalomma marginatum marginatum	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP109691	KP109691	blood donor/Vienna/2014	Austria	2014	Homo sapiens	Austria/2014/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP109692	KP109692	Cx. pipiens/Vienna/2014	Austria	2014	Culex pipiens	Austria/2014/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP780837	KP780837	Sepperl	Austria	2008	Nestor notabilis (kea)	Austria/2008/Nestor notabilis (kea)	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP780838	KP780838	Mismo	Austria	2009	Nestor notabilis (kea)	Austria/2009/Nestor notabilis (kea)	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP780839	KP780839	Berliner	Austria	2011	Nestor notabilis (kea)	Austria/2011/Nestor notabilis (kea)	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP780840	KP780840	Tammy	Austria	2014	Nestor notabilis (kea)	Austria/2014/Nestor notabilis (kea)	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP789953	KP789953	Italy/2014/Pavia1	Italy	2014	Homo sapiens male born in 1939	Italy/2014/Homo sapiens male born in 1939	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP789954	KP789954	Italy/2014/Cremona2	Italy	2014	Homo sapiens male born in 1959	Italy/2014/Homo sapiens male born in 1959	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP789955	KP789955	Italy/2014/Verona/35.1	Italy	2014	Homo sapiens female born in 1967	Italy/2014/Homo sapiens female born in 1967	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP789956	KP789956	Italy/2014/Verona/35.2	Italy	2014	Homo sapiens male born in 1938	Italy/2014/Homo sapiens male born in 1938	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP789957	KP789957	Italy/2014/Cremona4	Italy	2014	Homo sapiens male born in 1963	Italy/2014/Homo sapiens male born in 1963	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP789958	KP789958	Italy/2014/Pavia5	Italy	2014	Homo sapiens male born in 1945	Italy/2014/Homo sapiens male born in 1945	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP789959	KP789959	Italy/2014/Pavia4	Italy	2014	Homo sapiens female born in 1934	Italy/2014/Homo sapiens female born in 1934	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KP789960	KP789960	Italy/2013/Mantova/36.1	Italy	2013	Homo sapiens male born in 1952	Italy/2013/Homo sapiens male born in 1952	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KT207791	KT207791	792/14	Italy	2014	mosquito	Italy/2014/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KT207792	KT207792	1270/14	Italy	2014	mosquito	Italy/2014/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KT359349	KT359349	2014/hun	Hungary	2014	Homo sapiens	Hungary/2014/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KT757318	KT757318	Vojvodina_2013_01	Serbia	2013	Culex pipiens	Serbia/2013/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KT757319	KT757319	Vojvodina_2013_02	Serbia	2013	Culex pipiens	Serbia/2013/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KT757320	KT757320	Vojvodina_2013_03	Serbia	2013	Culex pipiens	Serbia/2013/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KT757321	KT757321	Vojvodina_2013_04	Serbia	2013	Culex pipiens	Serbia/2013/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KT757322	KT757322	Vojvodina_2013_05	Serbia	2013	Culex pipiens	Serbia/2013/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KT757323	KT757323	Vojvodina_2013_06	Serbia	2013	Culex pipiens	Serbia/2013/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KU206781	KU206781	Bulgaria/2015/Sofia	Bulgaria	2015	Homo sapiens	Bulgaria/2015/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KU573080	KU573080	178907_2013	Italy	2013	Culex pipiens	Italy/2013/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KU573081	KU573081	210912/2013	Italy	2013	Pica pica (magpie)	Italy/2013/Pica pica (magpie)	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KU573082	KU573082	223278/2013	Italy	2013	Corvidae sp.	Italy/2013/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KU573083	KU573083	244558/2013	Italy	2013	Culex pipiens	Italy/2013/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/KX375812	KX375812	Novi Sad 24/2013	Serbia	2013	Homo sapiens	Serbia/2013/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/LR743429	LR743429	ED-I-142_18	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/LR743447	LR743447	CCT1C7-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/LR743455	LR743455	CCT1C7-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/M12294	M12294	-	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984337	MF984337	Blood donor 1/Austria/2015 (BD1/15)	Austria	2015	Homo sapiens	Austria/2015/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984338	MF984338	Blood donor 2/Austria/2015 (BD2/15)	Austria	2015	Homo sapiens	Austria/2015/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984339	MF984339	Blood donor 3/Austria/2015 (BD3/15)	Austria	2015	Homo sapiens	Austria/2015/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984340	MF984340	Blood donor 4/Austria/2015 (BD4/15)	Austria	2015	Homo sapiens	Austria/2015/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984341	MF984341	Blood donor Blood donor 5/Austria/2015 (BD5/15)	Austria	2015	Homo sapiens	Austria/2015/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984342	MF984342	Patient 1/Austria/2015 (Pa1/15)	Austria	2015	Homo sapiens	Austria/2015/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984346	MF984346	Blood donor 1/Austria/2016 (BD1/16)	Austria	2016	Homo sapiens	Austria/2016/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984347	MF984347	Blood donor 2/Austria/2016 (BD2/16)	Austria	2016	Homo sapiens	Austria/2016/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984348	MF984348	Blood donor 3/Austria/2016 (BD3/16)	Austria	2016	Homo sapiens	Austria/2016/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984349	MF984349	Horse 1/Austria/2016 (Ho1/16)	Austria	2016	Equus caballus	Austria/2016/Equus caballus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984350	MF984350	Horse 2/Austria/2016 (Ho2/16)	Austria	2016	Equus caballus	Austria/2016/Equus caballus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984351	MF984351	Cx. pipiens 1/Austria/2016 (Cx1/16)	Austria	2016	Culex pipiens	Austria/2016/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MF984352	MF984352	Cx. pipiens 2/Austria/2016 (Cx2/16)	Austria	2016	Culex pipiens	Austria/2016/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MH549209	MH549209	-	Greece	2017	Pica pica (Eurasian magpie)	Greece/2017/Pica pica (Eurasian magpie)	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MH910045	MH910045	CHVir-205/2018	Germany	2018	Homo sapiens	Germany/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MH939153	MH939153	DD58c	Romania	2014	Anopheles hyrcanus	Romania/2014/Anopheles hyrcanus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MH939154	MH939154	DD84c	Romania	2014	Culex pipiens s.l.	Romania/2014/Culex pipiens s.l.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MK473443	MK473443	-	Greece	2017	Eurasian magpie (Pica pica)	Greece/2017/Eurasian magpie (Pica pica)	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MK947396	MK947396	Ko169-2018	Slovenia	2018	mosquito	Slovenia/2018/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN480792	MN480792	Thessaloniki_354h/2018	Greece	2018	Homo sapiens	Greece/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN480793	MN480793	Pella_435h/2018	Greece	2018	Homo sapiens	Greece/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN480794	MN480794	Thessaloniki_MC139m/2018	Greece	2018	Culex sp.	Greece/2018/Culex sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN480795	MN480795	Pella_677h/2018	Greece	2018	Homo sapiens	Greece/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN481589	MN481589	S33b_GrM_2018/Thessaloniki	Greece	2018	Gallus gallus	Greece/2018/Gallus gallus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN481590	MN481590	S14c_GrM_2018/Thessaloniki	Greece	2018	Equus caballus	Greece/2018/Equus caballus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN481591	MN481591	S38b_GrTh_2018/Rhodope	Greece	2018	dog	Greece/2018/dog	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN481592	MN481592	S33_GrM_2012/Thessaloniki_1	Greece	2012	mosquito	Greece/2012/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN481593	MN481593	S34_GrM_2012/Thessaloniki_2	Greece	2012	mosquito	Greece/2012/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN481594	MN481594	S35_GrM_2012/Pella	Greece	2012	mosquito	Greece/2012/mosquito	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN481595	MN481595	S36_GrM_2010/Thessaloniki	Greece	2010	Columba livia	Greece/2010/Columba livia	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN481596	MN481596	S37_GrM_2011/Thessaloniki	Greece	2011	Gallus gallus	Greece/2011/Gallus gallus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN481597	MN481597	S38_GrM_2012/Imathia	Greece	2012	Gallus gallus	Greece/2012/Gallus gallus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN619800	MN619800	Volgograd601/18	Russia	2018	Culex modestus	Russia/2018/Culex modestus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN652878	MN652878	Thessaloniki_MC26m/2018	Greece	2018	Culex sp.	Greece/2018/Culex sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN652879	MN652879	Pella_MC36m/2018	Greece	2018	Culex sp.	Greece/2018/Culex sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN652880	MN652880	Thessaloniki_MC82m/2018	Greece	2018	Culex sp.	Greece/2018/Culex sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN794936	MN794936	Berlin748	Germany	2019	Homo sapiens	Germany/2019/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN812757	MN812757	Volgograd627/18	Russia	2018	Culex modestus	Russia/2018/Culex modestus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN812758	MN812758	Volgograd652/18	Russia	2018	Culex modestus	Russia/2018/Culex modestus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN812760	MN812760	Volgograd594/18	Russia	2018	Homo sapiens	Russia/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN812761	MN812761	Volgograd623/18	Russia	2018	Homo sapiens	Russia/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN812762	MN812762	Volgograd625/18	Russia	2018	Homo sapiens	Russia/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MN921230	MN921230	166-57/2019/Berlin/Germany	Germany	2019	Culex pipiens biotype pipiens	Germany/2019/Culex pipiens biotype pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MN921231	MN921231	166-60/2019/Berlin/Germany	Germany	2019	Culex pipiens biotype pipiens	Germany/2019/Culex pipiens biotype pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MN921232	MN921232	167-07/2019/Berlin/Germany	Germany	2019	Culex pipiens biotype pipiens	Germany/2019/Culex pipiens biotype pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MN921233	MN921233	167-20/2019/Berlin/Germany	Germany	2019	Culex pipiens biotype pipiens x biotype molestus	Germany/2019/Culex pipiens biotype pipiens x biotype molestus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MN921234	MN921234	167-57/2019/Berlin/Germany	Germany	2019	Culex pipiens biotype pipiens x biotype molestus	Germany/2019/Culex pipiens biotype pipiens x biotype molestus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MN921235	MN921235	168-74/2019/Berlin/Germany	Germany	2019	Culex pipiens biotype pipiens	Germany/2019/Culex pipiens biotype pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MN921236	MN921236	193-02/2019/Berlin/Germany	Germany	2019	Culex pipiens biotype pipiens	Germany/2019/Culex pipiens biotype pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN939557	MN939557	Italy/2018/Rovigo/29.1	Italy	2018	Homo sapiens	Italy/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN939558	MN939558	Italy/2016/Rovigo/32.2	Italy	2016	Homo sapiens	Italy/2016/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN939559	MN939559	Italy/2016/Rovigo/34.1	Italy	2016	Homo sapiens	Italy/2016/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MN939562	MN939562	Italy/2018/Treviso/35.1	Italy	2018	Homo sapiens	Italy/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MT341470	MT341470	Larisa-3m-Greece-2019	Greece	2019	Culex sp.	Greece/2019/Culex sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MT341471	MT341471	Karditsa-13m-Greece-2019	Greece	2019	Culex sp.	Greece/2019/Culex sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MT341472	MT341472	Pleven_10m-Bulgaria-2018	Bulgaria	2018	Culex sp.	Bulgaria/2018/Culex sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MT863560	MT863560	6125/France/2018	France	2018	Buteo buteo	France/2018/Buteo buteo	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MT863561	MT863561	7025/France/2018	France	2018	Accipiter gentilis	France/2018/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW036633	MW036633	Mosquito_pool_19	Netherlands	2020	Culex	Netherlands/2020/Culex	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW036634	MW036634	Mosquito_pool_25	Netherlands	2020	Culex	Netherlands/2020/Culex	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-refseqs/MW142225	MW142225	LE4/2020/Leipzig/Germany	Germany	2020	Homo sapiens	Germany/2020/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW383507	MW383507	M6646-NA-2020	Namibia	2020	Culex univittatus	Namibia/2020/Culex univittatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW383508	MW383508	M6848-NA-2020	Namibia	2020	Culex univittatus	Namibia/2020/Culex univittatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MW436414	MW436414	M7167-NA-2020	Namibia	2020	Culex univittatus	Namibia/2020/Culex univittatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MW436415	MW436415	M7170-NA-2020	Namibia	2020	Culex univittatus	Namibia/2020/Culex univittatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MW436416	MW436416	M7238-NA-2020	Namibia	2020	Culex univittatus	Namibia/2020/Culex univittatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/MW436418	MW436418	M7367-NA-2020	Namibia	2020	Culex univittatus	Namibia/2020/Culex univittatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW561633	MW561633	769.B/2018/Kavecany/SVK	Slovakia	2018	Strix nebulosa lapponica	Slovakia/2018/Strix nebulosa lapponica	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751834	MW751834	WNV/SRB/Temerin-6530-1/2018	Serbia	2018	Culex pipiens	Serbia/2018/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751835	MW751835	WNV/SRB/Subotica-8072-1/2018	Serbia	2018	Strigiformes sp.	Serbia/2018/Strigiformes sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751836	MW751836	WNV/SRB/Mali_Idjos-6923-2/2015	Serbia	2015	Culex pipiens	Serbia/2015/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751837	MW751837	WNV/SRB/Curug-5871/2018	Serbia	2018	Falco tinnunculus	Serbia/2018/Falco tinnunculus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751838	MW751838	WNV/SRB/Belgrade-10800-6/2018	Serbia	2018	Aves	Serbia/2018/Aves	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751839	MW751839	WNV/SRB/Novi_Sad-13086-20/2020	Serbia	2020	Culex pipiens	Serbia/2020/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751840	MW751840	WNV/SRB/Novi_Sad-12308-20/2020	Serbia	2020	Culex pipiens	Serbia/2020/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751841	MW751841	WNV/SRB/Novi_Becej-6919-21/2018	Serbia	2018	Culex pipiens	Serbia/2018/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751842	MW751842	WNV/SRB/Subotica-6530-11/2018	Serbia	2018	Culex pipiens	Serbia/2018/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751843	MW751843	WNV/SRB/Karavukovo-6919-4/2018	Serbia	2018	Culex pipiens	Serbia/2018/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751844	MW751844	WNV/SRB/Sombor-6530-6/2018	Serbia	2018	Culex pipiens	Serbia/2018/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751845	MW751845	WNV/SRB/Opovo-6530-27/2018	Serbia	2018	Culex pipiens	Serbia/2018/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW751846	MW751846	WNV/SRB/Subotica-6530-10/2018	Serbia	2018	Culex pipiens	Serbia/2018/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862073	MW862073	2012.TE.20168	Italy	2012	Accipiter gentilis	Italy/2012/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862074	MW862074	2013.TE.27449	Italy	2013	Accipiter gentilis	Italy/2013/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862075	MW862075	2015.TE.21863	Italy	2015	Corvidae sp.	Italy/2015/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862076	MW862076	2015.TE.21864	Italy	2015	Corvidae sp.	Italy/2015/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862077	MW862077	2015.TE.21865	Italy	2015	Corvidae sp.	Italy/2015/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862078	MW862078	2015.TE.21926	Italy	2015	Strigiformes sp.	Italy/2015/Strigiformes sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862079	MW862079	2015.TE.22115	Italy	2015	Culex pipiens	Italy/2015/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862080	MW862080	2015.TE.26275	Italy	2015	Accipiter gentilis	Italy/2015/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862081	MW862081	2015.TE.22805_1	Italy	2015	Corvidae sp.	Italy/2015/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862082	MW862082	2015.TE.24916	Italy	2015	Corvidae sp.	Italy/2015/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862083	MW862083	2015.TE.30707	Italy	2015	Accipiter gentilis	Italy/2015/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862084	MW862084	2015.TE.22799_2	Italy	2015	Corvidae sp.	Italy/2015/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862085	MW862085	2015.TE.22799_5	Italy	2015	Corvidae sp.	Italy/2015/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862086	MW862086	2016.TE.28315	Italy	2016	sparrowhawk	Italy/2016/sparrowhawk	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862087	MW862087	2017.TE.25819	Italy	2017	Corvidae sp.	Italy/2017/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862088	MW862088	2017.TE.15851_1	Italy	2017	Corvidae sp.	Italy/2017/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862089	MW862089	2017_TE.16133_1	Italy	2017	Corvidae sp.	Italy/2017/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862090	MW862090	2018.TE.16657	Italy	2018	swift	Italy/2018/swift	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862091	MW862091	2018.TE.16663	Italy	2018	Corvidae sp.	Italy/2018/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862092	MW862092	2018.TE.17978	Italy	2018	swallow	Italy/2018/swallow	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862093	MW862093	2018.TE.19703_B	Italy	2018	Accipiter gentilis	Italy/2018/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862094	MW862094	2018.TE.17785	Italy	2018	spectacled warbler	Italy/2018/spectacled warbler	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862095	MW862095	2018.TE.21498	Italy	2018	Corvidae sp.	Italy/2018/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862096	MW862096	2018.TE.28355	Italy	2018	Accipiter gentilis	Italy/2018/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862097	MW862097	2018.TE.19930_B	Italy	2018	Accipiter gentilis	Italy/2018/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862098	MW862098	2018.TE.23630	Italy	2018	Corvidae sp.	Italy/2018/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862099	MW862099	2018.TE.22745	Italy	2018	Corvidae sp.	Italy/2018/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862100	MW862100	2018.TE.22754	Italy	2018	Corvidae sp.	Italy/2018/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862101	MW862101	2018.TE.19411_B	Italy	2018	Accipiter gentilis	Italy/2018/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862102	MW862102	2019.TE.17152	Italy	2019	Corvidae sp.	Italy/2019/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862103	MW862103	2019.TE.18367	Italy	2019	Accipiter gentilis	Italy/2019/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862104	MW862104	2019.TE.20343_B	Italy	2019	Strigiformes sp.	Italy/2019/Strigiformes sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862105	MW862105	2019.TE.20453	Italy	2019	Corvidae sp.	Italy/2019/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862106	MW862106	2019.TE.19790	Italy	2019	Culex pipiens	Italy/2019/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862107	MW862107	2019.TE.16245	Italy	2019	Corvidae sp.	Italy/2019/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MW862108	MW862108	2020.TE.125531	Italy	2020	Corvidae sp.	Italy/2020/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MZ190464	MZ190464	Kosovo_1_2018	Kosovo	2018	Homo sapiens	Kosovo/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MZ190465	MZ190465	Kosovo_2_2018	Kosovo	2018	Homo sapiens	Kosovo/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MZ190466	MZ190466	Kosovo_3_2018	Kosovo	2018	Homo sapiens	Kosovo/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MZ190467	MZ190467	Kosovo_4_2018	Kosovo	2018	Homo sapiens	Kosovo/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MZ268007	MZ268007	Mosquito_Pool_RIVM001	Netherlands	2020	Culex sp.	Netherlands/2020/Culex sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MZ964751	MZ964751	CHVir-25907/2021	Germany	2021	Homo sapiens	Germany/2021/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MZ964752	MZ964752	CHVir-25908/2021	Germany	2021	Homo sapiens	Germany/2021/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/MZ964753	MZ964753	CHVir-25910/2021	Germany	2021	Homo sapiens	Germany/2021/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/NC_001563	NC_001563	956	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK129329	OK129329	3200_HUN2016	Hungary	2016	Homo sapiens	Hungary/2016/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK129330	OK129330	3227_HUN2016	Hungary	2016	Homo sapiens	Hungary/2016/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK129331	OK129331	3554_HUN2015	Hungary	2015	Homo sapiens	Hungary/2015/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK129332	OK129332	3745_HUN2015	Hungary	2015	Homo sapiens	Hungary/2015/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK129333	OK129333	4693_HUN2017	Hungary	2017	Homo sapiens	Hungary/2017/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK129334	OK129334	4770_HUN2017	Hungary	2017	Homo sapiens	Hungary/2017/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK129335	OK129335	4824_HUN2017	Hungary	2017	Homo sapiens	Hungary/2017/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK129336	OK129336	5041_HUN2017	Hungary	2017	Homo sapiens	Hungary/2017/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239658	OK239658	3731_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239659	OK239659	3970_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239660	OK239660	4114_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239661	OK239661	4313_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239662	OK239662	4566_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239663	OK239663	4599_HUN2019	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239664	OK239664	4619_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239665	OK239665	4656_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239666	OK239666	4677_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239668	OK239668	5132_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239669	OK239669	5204_HUN2017	Hungary	2017	Homo sapiens	Hungary/2017/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239670	OK239670	4637_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239671	OK239671	5777_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OK239672	OK239672	5981_HUN2018	Hungary	2018	Homo sapiens	Hungary/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL411963	OL411963	MAR15MP18	South Africa	2015	-	South Africa/2015/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL411964	OL411964	KNP17MP718	South Africa	2017	-	South Africa/2017/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL411965	OL411965	LAP13MP394	South Africa	2013	-	South Africa/2013/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL411966	OL411966	KYA14MP134	South Africa	2014	-	South Africa/2014/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL411967	OL411967	KYA14MP133	South Africa	2014	-	South Africa/2014/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL790160	OL790160	ZRU029/20	South Africa	2020	equine	South Africa/2020/equine	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL790161	OL790161	ZRU094/20	South Africa	2020	Phoenicopterus roseus	South Africa/2020/Phoenicopterus roseus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL790162	OL790162	ZRU194/18	South Africa	2018	equine	South Africa/2018/equine	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL790163	OL790163	ZRU43/17/1	South Africa	2017	equine	South Africa/2017/equine	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL790164	OL790164	ZRU139/17/1	South Africa	2017	equine	South Africa/2017/equine	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OL790165	OL790165	ZRU066/20	South Africa	2020	equine	South Africa/2020/equine	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840871	OL840871	GR-Edessa/516h/2018	Greece	2018	Homo sapiens	Greece/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840872	OL840872	GR-Thessaloniki/563h/2018	Greece	2018	Homo sapiens	Greece/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840873	OL840873	GR-Larissa/778h/2018	Greece	2018	Homo sapiens	Greece/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840874	OL840874	GR-Pieria/198h/2019	Greece	2019	Homo sapiens	Greece/2019/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840875	OL840875	GR-Xanthi/360h/2019	Greece	2019	Homo sapiens	Greece/2019/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840876	OL840876	GR-Xanthi/424h/2019	Greece	2019	Homo sapiens	Greece/2019/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840877	OL840877	GR-Evros/557h/2019	Greece	2019	Homo sapiens	Greece/2019/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840878	OL840878	GR-Pella/572h/2019	Greece	2019	Homo sapiens	Greece/2019/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840879	OL840879	GR-Rodopi/621h/2019	Greece	2019	Homo sapiens	Greece/2019/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840880	OL840880	GR-Karditsa/201h/2020	Greece	2020	Homo sapiens	Greece/2020/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840881	OL840881	GR-Serres/BDh/2020	Greece	2020	Homo sapiens	Greece/2020/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840882	OL840882	GR-Pella/491h/2020	Greece	2020	Homo sapiens	Greece/2020/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840883	OL840883	GR-Serres/C240m/2019	Greece	2019	Culex_pipiens	Greece/2019/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840884	OL840884	GR-Kilkis/C205m/2019	Greece	2019	Culex_pipiens	Greece/2019/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840885	OL840885	GR-Thessaloniki/C222m/2019	Greece	2019	Culex_pipiens	Greece/2019/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840886	OL840886	GR-Serres/M212m/2020	Greece	2020	Culex_pipiens	Greece/2020/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840887	OL840887	GR-Serres/M185m/2020	Greece	2020	Culex_pipiens	Greece/2020/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840888	OL840888	GR-Larissa/T23m/2020	Greece	2020	Culex_pipiens	Greece/2020/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840889	OL840889	GR-Kilkis/M207m/2020	Greece	2020	Culex_pipiens	Greece/2020/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840890	OL840890	GR-Serres/M215m/2020	Greece	2020	Culex_pipiens	Greece/2020/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840891	OL840891	GR-Serres/M221m/2020	Greece	2020	Culex_pipiens	Greece/2020/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840892	OL840892	GR-Serres/M234m/2020	Greece	2020	Culex_pipiens	Greece/2020/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840893	OL840893	GR-Serres/S1m/2020	Greece	2020	Culex_pipiens	Greece/2020/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840894	OL840894	GR-Thessaloniki/E361m/2021	Greece	2021	Culex_pipiens	Greece/2021/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840895	OL840895	GR-Pella/E376m/2021	Greece	2021	Culex_pipiens	Greece/2021/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840896	OL840896	GR-Serres/E411m/2021	Greece	2021	Culex_pipiens	Greece/2021/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840897	OL840897	GR-Imathia/E413m/2021	Greece	2021	Culex_pipiens	Greece/2021/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840898	OL840898	GR-Thessaloniki/E418m/2021	Greece	2021	Culex_pipiens	Greece/2021/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OL840899	OL840899	GR-Thessaloniki/E419m/2021	Greece	2021	Culex_pipiens	Greece/2021/Culex_pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OM037670	OM037670	Spain/2017/Northern_goshawk/AC568	Spain	2017	Accipiter gentilis	Spain/2017/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OM037671	OM037671	Spain/2020/Northern_goshawk/AC913	Spain	2020	Accipiter gentilis	Spain/2020/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OM037672	OM037672	Spain/2020/Northern_goshawk/AC923	Spain	2020	Accipiter gentilis	Spain/2020/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OM037673	OM037673	Spain/2020/Northern_goshawk/AC924	Spain	2020	Accipiter gentilis	Spain/2020/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032488	ON032488	ITA2020 13779	Italy	2020	Corvus cornix	Italy/2020/Corvus cornix	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032489	ON032489	ITA2020 137795	Italy	2020	Accipiter gentilis	Italy/2020/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032490	ON032490	ITA2021 302382	Italy	2021	Accipiter gentilis	Italy/2021/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032491	ON032491	ITA2021 302053	Italy	2021	Corvus cornix	Italy/2021/Corvus cornix	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032492	ON032492	ITA2021 304510	Italy	2021	Pica pica	Italy/2021/Pica pica	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032493	ON032493	ITA2021 304515	Italy	2021	Accipiter gentilis	Italy/2021/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032494	ON032494	ITA2021 307743	Italy	2021	Accipiter gentilis	Italy/2021/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032495	ON032495	ITA2021 309902	Italy	2021	Corvus cornix	Italy/2021/Corvus cornix	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032497	ON032497	ITA2020 301498	Italy	2021	Garrulus glandarius	Italy/2021/Garrulus glandarius	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON032498	ON032498	ITA2022 15935	Italy	2022	Accipiter gentilis	Italy/2022/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON755223	ON755223	Gallusgallusdomesticus20TV3517_faeces	Netherlands	2020	Gallus gallus	Netherlands/2020/Gallus gallus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON813217	ON813217	SN2006 ArD 172169	Senegal	2006	Culex antennatus	Senegal/2006/Culex antennatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON813218	ON813218	SN2006 ArD 172145	Senegal	2006	Culex antennatus	Senegal/2006/Culex antennatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON813219	ON813219	SN2006 ArD 166355	Senegal	2006	Aedes vexans	Senegal/2006/Aedes vexans	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON813230	ON813230	ITA2021 299815	Italy	2021	Corvus cornix	Italy/2021/Corvus cornix	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON813231	ON813231	ITA2021 300240	Italy	2021	Pica pica	Italy/2021/Pica pica	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/ON813232	ON813232	307743/2021	Italy	2021	Accipiter gentilis	Italy/2021/Accipiter gentilis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OP009515	OP009515	Italy/2022/Vicenza/22RS1169	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP009516	OP009516	Italy/2021/Verona/21RS2511-5	Italy	2021	Culex pipiens	Italy/2021/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP009517	OP009517	Italy/2021/Treviso/21RS2511-6	Italy	2021	Culex pipiens	Italy/2021/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP345107	OP345107	Volgograd 810/19	Russia	2019	Homo sapiens	Russia/2019/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP345108	OP345108	Volgograd 16/19	Russia	2019	Culex pipiens	Russia/2019/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP345226	OP345226	Arbo1633/Kasese_Uganda/2018	Uganda	2018	Homo sapiens	Uganda/2018/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP561452	OP561452	Italy/2019/Padova/29.3	Italy	-	-	Italy/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP561453	OP561453	Italy/2019/Verona/29.1	Italy	-	-	Italy/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP561454	OP561454	Italy/2020/Verona/34.1	Italy	-	-	Italy/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP561455	OP561455	Italy/2019/Verona/32.1	Italy	-	-	Italy/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP561456	OP561456	Italy/2019/Treviso/33.1	Italy	-	-	Italy/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP561457	OP561457	Italy/2019/Rovigo/34.1	Italy	-	-	Italy/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP561458	OP561458	Italy/2019/Padova/29.2	Italy	-	-	Italy/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP561459	OP561459	Italy/2019/Padova/31.1	Italy	-	-	Italy/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP734238	OP734238	2022.TE.44233.2.6	Italy	2022	Pica pica	Italy/2022/Pica pica	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP734239	OP734239	2022.TE.44233.2.11	Italy	2022	Corvus cornix	Italy/2022/Corvus cornix	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP734240	OP734240	2022.TE.44233.2.24	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP734241	OP734241	2022.TE.44233.2.29	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP734242	OP734242	2022.TE.45323.2.17	Italy	2022	Athene noctua	Italy/2022/Athene noctua	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP734243	OP734243	2022.TE.45323.2.21	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP734244	OP734244	2022.TE.45323.2.33	Italy	2022	Passer domesticus	Italy/2022/Passer domesticus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP762592	OP762592	Culexsp_UGR20TL1TN2.4_28	Netherlands	2020	-	Netherlands/2020/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP762593	OP762593	Culexpipiens_UGR20TL6TN2.1_41	Netherlands	2020	Culex pipiens	Netherlands/2020/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP762594	OP762594	Culexsp_UGR20TL7TN2.2_46	Netherlands	2020	-	Netherlands/2020/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP762595	OP762595	Phylloscopuscollybita_20TV2584	Netherlands	2020	Phylloscopus collybita	Netherlands/2020/Phylloscopus collybita	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP762596	OP762596	Passerdomesticus_20TV3436	Netherlands	2020	Passer domesticus	Netherlands/2020/Passer domesticus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP762597	OP762597	Gallusgallusdomesticus_20TV3592	Netherlands	2020	Gallus gallus	Netherlands/2020/Gallus gallus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP810565	OP810565	CHVir-M2021	Germany	2021	Homo sapiens	Germany/2021/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP810566	OP810566	MP18/2021	Germany	2021	Culex pipiens	Germany/2021/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP810567	OP810567	MP35/2021	Germany	2021	Culex pipiens	Germany/2021/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP846976	OP846976	ArD54238/1989	Senegal	1989	Culex poicilipes	Senegal/1989/Culex poicilipes	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP850024	OP850024	2022.TE.44233.2.23	Italy	2022	Garrulusglandarius	Italy/2022/Garrulusglandarius	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP850025	OP850025	2022.TE.45323.2.22	Italy	2022	Anopheles maculipennis	Italy/2022/Anopheles maculipennis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP850026	OP850026	2022.TE.45323.2.29	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP850027	OP850027	2022.TE.49076.2.6	Italy	2021	Corvus cornix	Italy/2021/Corvus cornix	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP850028	OP850028	2022.TE.49076.2.7	Italy	2021	Pica pica	Italy/2021/Pica pica	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP850029	OP850029	2022.TE.49076.2.8	Italy	2021	Sylvia atricapilla	Italy/2021/Sylvia atricapilla	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OP868929	OP868929	Strix_nebulosa-12	Russia	2021	Strix nebulosa	Russia/2021/Strix nebulosa	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP870453	OP870453	ArD52432/1989	Senegal	1989	Mansonia uniformis	Senegal/1989/Mansonia uniformis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP870454	OP870454	ArD54113/1989	Senegal	1989	Culex antennatus	Senegal/1989/Culex antennatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP870455	OP870455	ArD52473/1990	Senegal	1990	Culex antennatus	Senegal/1990/Culex antennatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP870456	OP870456	ArD54222/1989	Senegal	1989	Culex neavei	Senegal/1989/Culex neavei	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP870457	OP870457	ArD55667/1990	Senegal	1990	Culex neavei	Senegal/1990/Culex neavei	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP870458	OP870458	ArD55759/1990	Senegal	1990	Culex tritaeniorhynchus	Senegal/1990/Culex tritaeniorhynchus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP870459	OP870459	ArD134613/1998	Senegal	1998	Mansonia uniformis	Senegal/1998/Mansonia uniformis	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP870460	OP870460	ArD172162/2003	Senegal	2003	Culex antennatus	Senegal/2003/Culex antennatus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OP870461	OP870461	ArD166362/2002	Senegal	2002	Aedes vexans	Senegal/2002/Aedes vexans	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053515	OQ053515	GR-CHALKIDIKI/670h/2022	Greece	2022	Homo sapiens	Greece/2022/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053516	OQ053516	GR-Larissa/792h/2022	Greece	2022	Homo sapiens	Greece/2022/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053517	OQ053517	GR-Thessaloniki/563m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053518	OQ053518	GR-Larissa/441m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053519	OQ053519	GR-Thessaloniki/312m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053520	OQ053520	GR-Pieria/670m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053521	OQ053521	GR-Thessaloniki/734m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053522	OQ053522	GR-Thessaloniki/581m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053523	OQ053523	GR-Thessaloniki/381m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053524	OQ053524	GR-Imathia/472m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053525	OQ053525	GR-Kilkis/482m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053526	OQ053526	GR-Serres/574m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053527	OQ053527	GR-Chalkidiki/591m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053528	OQ053528	GR-Pieria/668m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053529	OQ053529	GR-Pieria/646m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053530	OQ053530	GR-Imathia/554m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053531	OQ053531	GR-Pella/615m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053532	OQ053532	GR-Thessaloniki/364m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053533	OQ053533	GR-Imathia/611m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053534	OQ053534	GR-Larissa/671m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053535	OQ053535	GR-Thessaloniki/454m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053536	OQ053536	GR-Serres/503m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053537	OQ053537	GR-Imathia/459m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053538	OQ053538	GR-Imathia/535m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ053539	OQ053539	GR-Pieria/401m/2022	Greece	2022	Culex pipiens	Greece/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ204314	OQ204314	2022.TE.51622.1.2	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ204315	OQ204315	2022.TE.51622.1.4	Italy	2022	Equus caballus	Italy/2022/Equus caballus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ214888	OQ214888	Kalmikia 499/22	Russia	2022	Culex pipiens	Russia/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ214889	OQ214889	Stavropol 1451/22	Russia	2022	Culex pipiens	Russia/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ214890	OQ214890	Volgograd 1031/22	Russia	2022	Culex pipiens	Russia/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ214891	OQ214891	Volgograd 912/22	Russia	2022	Culex pipiens	Russia/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ326499	OQ326499	M4888	Germany	2021	rainbow lorikeet	Germany/2021/rainbow lorikeet	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated-short/OQ673269	OQ673269	B958	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ725907	OQ725907	M644/2022	Germany	2022	Culex pipiens	Germany/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OQ725909	OQ725909	M2652/2022	Germany	2022	Culex pipiens	Germany/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR091151	OR091151	TI-SUPSI-C28	Switzerland	2022	Culex pipiens	Switzerland/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR091152	OR091152	WNV/CHE/TI_SUPSI_C37/2022	Switzerland	2022	Culex pipiens	Switzerland/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR091153	OR091153	WNV/CHE/TI_SUPSI_C65/2022	Switzerland	2022	Culex pipiens	Switzerland/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR091154	OR091154	WNV/CHE/TI_SUPSI_C70/2022	Switzerland	2022	Culex pipiens	Switzerland/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR091155	OR091155	WNV/CHE/TI_SUPSI_M63/2022	Switzerland	2022	Culex pipiens	Switzerland/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR091156	OR091156	WNV/CHE/TI_SUPSI_M158/2022	Switzerland	2022	Culex pipiens	Switzerland/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR091157	OR091157	WNV/CHE/TI_SUPSI_M202/2022	Switzerland	2022	Culex pipiens	Switzerland/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR091158	OR091158	WNV/CHE/TI_SUPSI_M224/2022	Switzerland	2022	Culex pipiens	Switzerland/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR159869	OR159869	Kalmikia 498/22	Russia	2022	Culex pipiens	Russia/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR159870	OR159870	Kalmikia 502/22	Russia	2022	Culex pipiens	Russia/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR159871	OR159871	Karachay-Cherkessia 755/22	Russia	2022	Culex modestus	Russia/2022/Culex modestus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR159872	OR159872	Volgograd 911/22	Russia	2022	Culex modestus	Russia/2022/Culex modestus	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR159873	OR159873	Stavropol 1516/22	Russia	2022	Culex pipiens	Russia/2022/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OR757504	OR757504	Volgograd 72/23	Russia	2023	Hyalomma scupense	Russia/2023/Hyalomma scupense	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442271	OX442271	ED-I-261-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442272	OX442272	ED-I-228-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442273	OX442273	ED-I-258-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442274	OX442274	ED-I-281-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442275	OX442275	ED-I-173-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442276	OX442276	ED-I-196-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442277	OX442277	ED-I-282-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442278	OX442278	ED-I-260-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442279	OX442279	ED-I-193-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442280	OX442280	ED-I-245-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442281	OX442281	ED-I-264-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442282	OX442282	ED-I-340-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442283	OX442283	ED-I-224-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442284	OX442284	ED-I-174-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442285	OX442285	ED-I-238-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442286	OX442286	ED-I-216-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442287	OX442287	ED-I-218-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442288	OX442288	ED-I-60-21	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442289	OX442289	ED-I-241-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442290	OX442290	ED-I-284-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442291	OX442291	ED-I-283-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442292	OX442292	ED-I-242-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442293	OX442293	ED-I-339-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442294	OX442294	ED-I-208-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442295	OX442295	ED-I-268-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442296	OX442296	ED-I-211-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442297	OX442297	ED-I-115-19	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442298	OX442298	ED-I-311-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442299	OX442299	ED-I-200-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442300	OX442300	ED-I-207-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442301	OX442301	ED-I-252-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442302	OX442302	ED-I-315-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442303	OX442303	ED-I-194-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442304	OX442304	ED-I-192-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442305	OX442305	ED-I-210-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442306	OX442306	ED-I-206-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442307	OX442307	ED-I-205-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442308	OX442308	ED-I-214-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442309	OX442309	ED-I-203-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442310	OX442310	ED-I-127-18	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442311	OX442311	ED-I-244-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442312	OX442312	ED-I-199-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442313	OX442313	ED-I-286-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442347	OX442347	ED-I-167-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX442348	OX442348	ED-I-314-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/OX451204	OX451204	ED-I-219-20	-	-	-	-/-/-	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104328	PP104328	TE.13830.2.6	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104329	PP104329	TE.13830.2.8	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104330	PP104330	TE.15714.2.2	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104331	PP104331	TE.15714.2.3	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104332	PP104332	TE.19667.2.2	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104334	PP104334	TE.19667.2.4	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104335	PP104335	TE.19667.2.5	Italy	2023	Jay	Italy/2023/Jay	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104336	PP104336	TE.19667.2.6	Italy	2023	Strigiformes sp.	Italy/2023/Strigiformes sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104337	PP104337	TE.19667.2.8	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104338	PP104338	TE.20709.2.10	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104339	PP104339	TE.20709.2.12	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104340	PP104340	TE.20709.2.13	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104341	PP104341	TE.20709.2.15	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104342	PP104342	TE.20709.2.16	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104343	PP104343	TE.20709.2.2	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104344	PP104344	TE.20709.2.5	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104345	PP104345	TE.20709.2.6	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104346	PP104346	TE.20709.2.7	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104347	PP104347	TE.20709.2.8	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104348	PP104348	TE.20709.2.9	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104349	PP104349	TE.21942.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104350	PP104350	TE.21946.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104351	PP104351	TE.21952.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104352	PP104352	TE.21954.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104353	PP104353	TE.21959.1.1	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104354	PP104354	TE.21960.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104355	PP104355	TE.21969.1.1	Italy	2023	Columba livia	Italy/2023/Columba livia	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104356	PP104356	TE.21980.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104357	PP104357	TE.21981.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104358	PP104358	TE.21982.1.1	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104359	PP104359	TE.21986.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104360	PP104360	TE.21987.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104361	PP104361	TE.23004.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104362	PP104362	TE.23005.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104363	PP104363	TE.23006.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104365	PP104365	TE.23008.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104366	PP104366	TE.23009.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104367	PP104367	TE.23010.1.1	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104368	PP104368	TE.23012.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104369	PP104369	TE.23014.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104370	PP104370	TE.23015.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104371	PP104371	TE.23016.1.1	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104372	PP104372	TE.23018.1.1	Italy	2023	Corvidae sp.	Italy/2023/Corvidae sp.	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104373	PP104373	TE.25164.1.2	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104374	PP104374	TE.25165.1.2	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104375	PP104375	TE.25166.1.2	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104376	PP104376	TE.25167.1.2	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP104377	PP104377	TE.25168.1.2	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP212879	PP212879	3919_2023_WNV_HU	Hungary	2023	Homo sapiens	Hungary/2023/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP212881	PP212881	4106_2023_WNV_HU	Hungary	2023	Homo sapiens	Hungary/2023/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP212882	PP212882	5226_2023_WNV_HU	Hungary	2023	Homo sapiens	Hungary/2023/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP212883	PP212883	5903_2023_WNV_HU	Hungary	2023	Homo sapiens	Hungary/2023/Homo sapiens	2	-	2/-
+alignment/AL_WNV_Lineage2/member/ncbi-curated/PP388974	PP388974	94313	Italy	2023	Falco peregrinus	Italy/2023/Falco peregrinus	2	-	2/-

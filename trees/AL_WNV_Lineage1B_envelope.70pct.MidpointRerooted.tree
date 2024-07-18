@@ -1,0 +1,152 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=50;
+	taxlabels
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/D00246'[&clade="B",collection_year="-",combined="1/B",combined-iso-details="-/-/-",country="-",isolate="MRM61C",lineage=1,sampled_host_sci_name="-",sequenceID="D00246"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/GQ851603'[&clade="B",collection_year="1991",combined="1/B",combined-iso-details="Australia/1991/Culex annulirostris",country="Australia",isolate="K6453",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="GQ851603"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/JX123031'[&clade="B",collection_year="2011",combined="1/B",combined-iso-details="Australia/2011/Equus caballus",country="Australia",isolate="V11-07",lineage=1,sampled_host_sci_name="Equus caballus",sequenceID="JX123031"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/JX276662'[&clade="B",collection_year="2012",combined="1/B",combined-iso-details="-/2012/-",country="-",isolate="CH16532",lineage=1,sampled_host_sci_name="-",sequenceID="JX276662"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934796'[&clade="B",collection_year="1984",combined="1/B",combined-iso-details="Australia/1984/Equus caballus",country="Australia",isolate="Boort",lineage=1,sampled_host_sci_name="Equus caballus",sequenceID="KT934796"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934797'[&clade="B",collection_year="1991",combined="1/B",combined-iso-details="Australia/1991/Homo sapiens",country="Australia",isolate="Hu6774",lineage=1,sampled_host_sci_name="Homo sapiens",sequenceID="KT934797"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934798'[&clade="B",collection_year="2000",combined="1/B",combined-iso-details="Australia/2000/Culex annulirostris",country="Australia",isolate="GU0631",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KT934798"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934799'[&clade="B",collection_year="2000",combined="1/B",combined-iso-details="Australia/2000/Culex annulirostris",country="Australia",isolate="GU1009",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KT934799"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934800'[&clade="B",collection_year="2009",combined="1/B",combined-iso-details="Australia/2009/Culex annulirostris",country="Australia",isolate="P9974",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KT934800"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934801'[&clade="B",collection_year="2011",combined="1/B",combined-iso-details="Australia/2011/Culex annulirostris",country="Australia",isolate="K74015",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KT934801"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934802'[&clade="B",collection_year="2009",combined="1/B",combined-iso-details="Australia/2009/Culex annulirostris",country="Australia",isolate="K68967",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KT934802"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934803'[&clade="B",collection_year="2011",combined="1/B",combined-iso-details="Australia/2011/Equus caballus",country="Australia",isolate="SA2011",lineage=1,sampled_host_sci_name="Equus caballus",sequenceID="KT934803"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934804'[&clade="B",collection_year="2012",combined="1/B",combined-iso-details="Australia/2012/Culex annulirostris",country="Australia",isolate="NSW2012",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KT934804"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394381'[&clade="B",collection_year="1975",combined="1/B",combined-iso-details="Australia/1975/-",country="Australia",isolate="18658C",lineage=1,sampled_host_sci_name="-",sequenceID="KX394381"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394382'[&clade="B",collection_year="2011",combined="1/B",combined-iso-details="Australia/2011/Culex annulirostris",country="Australia",isolate="158106NSW",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394382"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394383'[&clade="B",collection_year="1972",combined="1/B",combined-iso-details="Australia/1972/Culex annulirostris",country="Australia",isolate="CH15139C",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394383"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394384'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="CH16078",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394384"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394385'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="CH16465R",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394385"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394386'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="CH16479D",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394386"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394387'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="CH16483E",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394387"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394388'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="CH16483R",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394388"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394389'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="CH16514C",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394389"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394390'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="CH16540B",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394390"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394391'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="CH16540C",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394391"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394392'[&clade="B",collection_year="1963",combined="1/B",combined-iso-details="Australia/1963/-",country="Australia",isolate="IN761",lineage=1,sampled_host_sci_name="-",sequenceID="KX394392"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394393'[&clade="B",collection_year="1963",combined="1/B",combined-iso-details="Australia/1963/-",country="Australia",isolate="IN835",lineage=1,sampled_host_sci_name="-",sequenceID="KX394393"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394394'[&clade="B",collection_year="1978",combined="1/B",combined-iso-details="Australia/1978/Culex annulirostris",country="Australia",isolate="KUN21210",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394394"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394395'[&clade="B",collection_year="1999",combined="1/B",combined-iso-details="Australia/1999/Culex annulirostris",country="Australia",isolate="KUN112140",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394395"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394396'[&clade="B",collection_year="1960",combined="1/B",combined-iso-details="Australia/1960/Culex annulirostris",country="Australia",isolate="MRM16",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394396"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394397'[&clade="B",collection_year="1960",combined="1/B",combined-iso-details="Australia/1960/-",country="Australia",isolate="MRM61",lineage=1,sampled_host_sci_name="-",sequenceID="KX394397"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394398'[&clade="B",collection_year="1960",combined="1/B",combined-iso-details="Australia/1960/Culex annulirostris",country="Australia",isolate="MRM61C",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394398"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394399'[&clade="B",collection_year="1960",combined="1/B",combined-iso-details="Australia/1960/-",country="Australia",isolate="MRM73",lineage=1,sampled_host_sci_name="-",sequenceID="KX394399"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394400'[&clade="B",collection_year="1960",combined="1/B",combined-iso-details="Australia/1960/-",country="Australia",isolate="MRM108",lineage=1,sampled_host_sci_name="-",sequenceID="KX394400"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394401'[&clade="B",collection_year="1960",combined="1/B",combined-iso-details="Australia/1960/-",country="Australia",isolate="MRM111",lineage=1,sampled_host_sci_name="-",sequenceID="KX394401"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394402'[&clade="B",collection_year="1960",combined="1/B",combined-iso-details="Australia/1960/-",country="Australia",isolate="MRM132",lineage=1,sampled_host_sci_name="-",sequenceID="KX394402"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394403'[&clade="B",collection_year="1963",combined="1/B",combined-iso-details="Australia/1963/Anopheles bancroftii",country="Australia",isolate="MRM783",lineage=1,sampled_host_sci_name="Anopheles bancroftii",sequenceID="KX394403"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394404'[&clade="B",collection_year="1963",combined="1/B",combined-iso-details="Australia/1963/Culex squamosus",country="Australia",isolate="MRM795",lineage=1,sampled_host_sci_name="Culex squamosus",sequenceID="KX394404"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394405'[&clade="B",collection_year="1963",combined="1/B",combined-iso-details="Australia/1963/Culex annulirostris",country="Australia",isolate="MRM796",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394405"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394406'[&clade="B",collection_year="1963",combined="1/B",combined-iso-details="Australia/1963/Culex squamosus",country="Australia",isolate="MRM875",lineage=1,sampled_host_sci_name="Culex squamosus",sequenceID="KX394406"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394407'[&clade="B",collection_year="1963",combined="1/B",combined-iso-details="Australia/1963/Anopheles farauti",country="Australia",isolate="MRM890",lineage=1,sampled_host_sci_name="Anopheles farauti",sequenceID="KX394407"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394408'[&clade="B",collection_year="1963",combined="1/B",combined-iso-details="Australia/1963/Culex pullus",country="Australia",isolate="MRM900",lineage=1,sampled_host_sci_name="Culex pullus",sequenceID="KX394408"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394409'[&clade="B",collection_year="1963",combined="1/B",combined-iso-details="Australia/1963/Culex annulirostris",country="Australia",isolate="MRM938",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="KX394409"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394410'[&clade="B",collection_year="1965",combined="1/B",combined-iso-details="Australia/1965/Oriolus flavocinctus",country="Australia",isolate="MRM5373",lineage=1,sampled_host_sci_name="Oriolus flavocinctus",sequenceID="KX394410"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394411'[&clade="B",collection_year="1978",combined="1/B",combined-iso-details="Australia/1978/-",country="Australia",isolate="YJ",lineage=1,sampled_host_sci_name="-",sequenceID="KX394411"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/LC802098'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="Kunjin virus/Mosquito/Australia/OR393/1974",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="LC802098"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/LC802099'[&clade="B",collection_year="1974",combined="1/B",combined-iso-details="Australia/1974/Culex annulirostris",country="Australia",isolate="Kunjin virus/Mosquito/Australia/OR393/1974",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="LC802099"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-curated/MN954648'[&clade="B",collection_year="2016",combined="1/B",combined-iso-details="Australia/2016/Crocodylus porosus",country="Australia",isolate="D66",lineage=1,sampled_host_sci_name="Crocodylus porosus",sequenceID="MN954648"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-refseqs/GQ851602'[&clade="B",collection_year="1960",combined="1/B",combined-iso-details="Australia/1960/Culex annulirostris",country="Australia",isolate="MRM16",lineage=1,sampled_host_sci_name="Culex annulirostris",sequenceID="GQ851602"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-refseqs/JN887352'[&clade="B",collection_year="2011",combined="1/B",combined-iso-details="Australia/2011/Equus caballus",country="Australia",isolate="NSW2011",lineage=1,sampled_host_sci_name="Equus caballus",sequenceID="JN887352"]
+	'alignment/AL_WNV_Lineage1B/member/ncbi-refseqs/JX123030'[&clade="B",collection_year="2011",combined="1/B",combined-iso-details="Australia/2011/Equus caballus",country="Australia",isolate="V11-03",lineage=1,sampled_host_sci_name="Equus caballus",sequenceID="JX123030"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((('alignment/AL_WNV_Lineage1B/member/ncbi-curated/GQ851603':9.13E-4,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934797':6.78E-4)[&label=100]:0.002753,(('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934798':0.001906,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394395':2.56E-4)[&label=100]:0.004636,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934799':0.004467,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934803':0.004684,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934800':0.001959,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934802':0.002708,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934801':0.003349,(((('alignment/AL_WNV_Lineage1B/member/ncbi-refseqs/JX123030':3.64E-4,('alignment/AL_WNV_Lineage1B/member/ncbi-refseqs/JN887352':1.0E-6,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934804':9.7E-4)[&label=99]:8.99E-4)[&label=6]:1.0E-6,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394382':2.77E-4)[&label=63]:1.0E-6,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/JX123031':2.89E-4)[&label=90]:2.57E-4,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/MN954648':0.005045)[&label=100]:0.001979)[&label=100]:0.003603)[&label=56]:0.002201)[&label=100]:0.004097)[&label=91]:0.003078)[&label=90]:0.001332)[&label=100]:0.002877)[&label=100]:0.001177,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KT934796':0.004971,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394381':0.001739,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394394':0.004611,((('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394389':9.2E-5,((('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394411':1.87E-4,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394391':1.0E-6,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394390':1.0E-6)[&label=30]:1.0E-6)[&label=82]:1.84E-4,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394384':9.3E-5)[&label=17]:1.0E-6,(('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394387':9.2E-5,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394388':9.2E-5)[&label=66]:9.2E-5,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394386':1.84E-4,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394385':1.84E-4)[&label=79]:1.84E-4)[&label=17]:1.0E-6)[&label=60]:9.2E-5)[&label=100]:0.001496,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/LC802098':1.69E-4,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/LC802099':1.96E-4)[&label=100]:0.002215)[&label=100]:1.83E-4,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/JX276662':0.002834,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394383':0.001386,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394410':0.001378,((('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394404':0.001306,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394409':7.48E-4)[&label=56]:8.8E-5,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394408':8.36E-4)[&label=10]:1.0E-6,(('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394406':9.3E-5,(('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394407':9.3E-5,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394393':1.0E-6,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394403':1.0E-6)[&label=15]:1.0E-6)[&label=25]:1.0E-6,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394405':1.0E-6,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394392':1.85E-4)[&label=64]:9.2E-5)[&label=67]:9.2E-5)[&label=99]:3.72E-4,((('alignment/AL_WNV_Lineage1B/member/ncbi-refseqs/GQ851602':2.76E-4,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394396':2.79E-4)[&label=100]:0.003261,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394399':0.001127,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394402':1.0E-6,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394400':1.0E-6,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394401':9.2E-5)[&label=100]:1.0E-6)[&label=100]:0.00226)[&label=100]:5.85E-4)[&label=91]:2.64E-4,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394398':1.0E-6,('alignment/AL_WNV_Lineage1B/member/ncbi-curated/D00246':0.001034,'alignment/AL_WNV_Lineage1B/member/ncbi-curated/KX394397':1.0E-6)[&label=85]:1.87E-4)[&label=100]:0.001765)[&label=100]:0.00274)[&label=68]:8.8E-5)[&label=100]:0.002846)[&label=100]:0.004147)[&label=90]:4.58E-4)[&label=100]:3.0E-4)[&label=100]:0.001039)[&label=64]:4.0E-5)[&label=100]:0.003711)[&label=100]:0.006215);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="sampled_host_sci_name";
+	set tipLabels.displayAttribute="combined-iso-details";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

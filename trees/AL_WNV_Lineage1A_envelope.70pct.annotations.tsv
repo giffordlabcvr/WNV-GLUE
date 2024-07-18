@@ -1,0 +1,460 @@
+taxon	sequenceID	isolate	country	collection_year	sampled_host_sci_name	combined-iso-details	lineage	clade	combined
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF146082	AF146082	KN3829	Kenya	-	Culex univittatus	Kenya/-/Culex univittatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AF317203	AF317203	VLG-4	Russia	-	Homo sapiens	Russia/-/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF380663	AF380663	Isr97-Goo1	Israel	-	Anser sp.	Israel/-/Anser sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF380664	AF380664	Isr00-GooM	Israel	-	Anser sp.	Israel/-/Anser sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF380665	AF380665	Isr00-GooN	Israel	-	Anser sp.	Israel/-/Anser sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF380666	AF380666	Isr00-GooMaV	Israel	-	Anser sp.	Israel/-/Anser sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF380667	AF380667	Isr00-GooMaS	Israel	-	Anser sp.	Israel/-/Anser sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF380668	AF380668	Isr00-Ros	Israel	-	rosella	Israel/-/rosella	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF380669	AF380669	Isr00-Eq1	Israel	-	Equus caballus	Israel/-/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF380670	AF380670	Isr00-PigT	Israel	-	Columba livia	Israel/-/Columba livia	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AF380671	AF380671	Isr00-PigC	Israel	-	Columba livia	Israel/-/Columba livia	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AH011619	AH011619	WNV-hISR2000	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AJ965626	AJ965626	PT6.16	Portugal	-	-	Portugal/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AJ965628	AJ965628	PT5.2	Portugal	-	-	Portugal/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AJ965629	AJ965629	PT6.5	Portugal	-	-	Portugal/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AJ965630	AJ965630	PT6.39	Portugal	-	-	Portugal/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AM404308	AM404308	PTRoxo	Portugal	-	-	Portugal/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY052406	AY052406	ISR00-Eq2	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY052407	AY052407	ISR00-Eq3	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY052408	AY052408	ISR98-GooTA	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY052409	AY052409	ISR98-GooKha	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY052410	AY052410	ISR98-GooAzr	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY052411	AY052411	ISR98-GooMth	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY052412	AY052412	ISR98-GooKY	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY052413	AY052413	ISR98-GooAza	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY184820	AY184820	Isr01-GooMhS	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY184821	AY184821	Isr01-GooMiz	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AY277252	AY277252	LEIV-Vlg99-27889	Russia	-	-	Russia/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AY278441	AY278441	Ast99-901	Russia	-	-	Russia/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AY278442	AY278442	LEIV-Vlg00-27924	Russia	-	-	Russia/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY371271	AY371271	TM171-03	Mexico	-	-	Mexico/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY426741	AY426741	MexNL-03	Mexico	-	Equus caballus	Mexico/-/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AY701412	AY701412	96-111	Morocco	1996	Equus caballus	Morocco/1996/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/AY701413	AY701413	04.05	Morocco	2003	Equus caballus	Morocco/2003/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY963774	AY963774	-	Mexico	-	Homo sapiens	Mexico/-/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/AY963775	AY963775	-	Mexico	-	Culex quinquefasciatus (mosquito)	Mexico/-/Culex quinquefasciatus (mosquito)	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ080060	DQ080060	WNVCc	Mexico	-	Corvus corax	Mexico/-/Corvus corax	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ080063	DQ080063	TVP9223	Mexico	-	Columba livia	Mexico/-/Columba livia	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ080065	DQ080065	TVP9221	Mexico	-	Grackel	Mexico/-/Grackel	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ080069	DQ080069	TVP9117	Mexico	-	Equus caballus	Mexico/-/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ080071	DQ080071	FL234	Mexico	-	Equus caballus	Mexico/-/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ118127	DQ118127	goose-Hungary/03	Hungary	-	Anser sp.	Hungary/-/Anser sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ374650	DQ374650	Ast02-3-717	Russia	-	Phalacrocorax carbo (L.).	Russia/-/Phalacrocorax carbo (L.).	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ374651	DQ374651	Ast02-3-570	Russia	-	Pica pica	Russia/-/Pica pica	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ374652	DQ374652	Ast04-2-824A	Russia	-	Corvus corone	Russia/-/Corvus corone	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ374653	DQ374653	Ast02-2-25	Russia	-	Corvus corone	Russia/-/Corvus corone	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ377178	DQ377178	Ast02-2-26	Russia	-	Hyalomma marginatum	Russia/-/Hyalomma marginatum	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ377179	DQ377179	Ast02-2-298	Russia	-	Corvus frugilegus	Russia/-/Corvus frugilegus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ377180	DQ377180	Ast02-3-208	Russia	-	Phalacrocorax carbo	Russia/-/Phalacrocorax carbo	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ411029	DQ411029	Ast01-66	Russia	-	Phalacrocorax carbo	Russia/-/Phalacrocorax carbo	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ411030	DQ411030	Ast01-182	Russia	-	Hyalomma Marginatum	Russia/-/Hyalomma Marginatum	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ411031	DQ411031	Ast01-187	Russia	-	Corvus corone	Russia/-/Corvus corone	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ411032	DQ411032	Ast02-3-146	Russia	-	Columba livia	Russia/-/Columba livia	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ411033	DQ411033	Ast02-3-165	Russia	-	Phalacrocorax carbo	Russia/-/Phalacrocorax carbo	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ411034	DQ411034	Ast02-2-691	Russia	-	Anopheles messeae	Russia/-/Anopheles messeae	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ411035	DQ411035	Ast02-2-692	Russia	-	Anopheles messeae	Russia/-/Anopheles messeae	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ431697	DQ431697	03-113FL	USA	2003	Homo sapiens	USA/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ786572	DQ786572	France 405/04	France	2004	house sparrow (passer domesticus) passage #1	France/2004/house sparrow (passer domesticus) passage #1	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/DQ786573	DQ786573	France 407/04	France	2004	Pica pica	France/2004/Pica pica	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ869049	DQ869049	WN-Son3438/Hu 03	Mexico	-	Homo sapiens	Mexico/-/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ869050	DQ869050	WN-Son2381/Hu 04	Mexico	-	Homo sapiens	Mexico/-/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ911999	DQ911999	03-017CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912000	DQ912000	03-005CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912001	DQ912001	03-007CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912002	DQ912002	03-008CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912003	DQ912003	03-009CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912004	DQ912004	03-010CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912005	DQ912005	03-011CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912006	DQ912006	03-013CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912007	DQ912007	03-014CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912008	DQ912008	03-015CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912009	DQ912009	03-016CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/DQ912010	DQ912010	03-003CAN	Canada	2003	Homo sapiens	Canada/2003/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/EU391638	EU391638	11.1	Israel	-	mouse	Israel/-/mouse	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/EU391639	EU391639	5.3	Israel	-	mouse	Israel/-/mouse	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/EU391640	EU391640	9	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/EU391641	EU391641	7.1.1	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/EU391642	EU391642	10.2	Israel	-	-	Israel/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/EU394703	EU394703	PR20	Puerto Rico	-	Gallus gallus	Puerto Rico/-/Gallus gallus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/FJ766331	FJ766331	GE-1b/B	Spain	2007	Aquila chrysaetos (golden eagle)	Spain/2007/Aquila chrysaetos (golden eagle)	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/FJ766332	FJ766332	GE-2o/V	Spain	2007	Aquila chrysaetos (golden eagle)	Spain/2007/Aquila chrysaetos (golden eagle)	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/FJ799714	FJ799714	PR07_Fal	Puerto Rico	2007	Falco sp.	Puerto Rico/2007/Falco sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/FJ799715	FJ799715	PR07_Hum	Puerto Rico	2007	Homo sapiens	Puerto Rico/2007/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/FJ799716	FJ799716	PR07_Cn385	Puerto Rico	2007	-	Puerto Rico/2007/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/FJ799717	FJ799717	PR07_Cn423	Puerto Rico	2007	-	Puerto Rico/2007/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/GQ379161	GQ379161	ArEq003	Argentina	2006	equine	Argentina/2006/equine	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/GQ851606	GQ851606	ArD27875	Senegal	1979	-	Senegal/1979/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/GQ851607	GQ851607	IBAN7019	Nigeria	1965	-	Nigeria/1965/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/GQ851608	GQ851608	ArB310/67	Central African Republic	1967	-	Central African Republic/1967/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/GU011992	GU011992	Ita09	Italy	2009	Homo sapiens	Italy/2009/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246634	GU246634	WNV_0691m_ISR00	Israel	2000	mosquito	Israel/2000/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246635	GU246635	WNV_0692m_ISR00	Israel	2000	mosquito	Israel/2000/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246636	GU246636	WNV_0693m_ISR00	Israel	2000	mosquito	Israel/2000/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246637	GU246637	WNV_0158m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246638	GU246638	WNV_0171m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246639	GU246639	WNV_0244m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246640	GU246640	WNV_0247m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246641	GU246641	WNV_0292m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246642	GU246642	WNV_0293m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246643	GU246643	WNV_0301m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246644	GU246644	WNV_0303m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246645	GU246645	WNV_0472m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246646	GU246646	WNV_0509m_ISR01	Israel	2001	mosquito	Israel/2001/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246647	GU246647	WNV_0074m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246648	GU246648	WNV_0472m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246649	GU246649	WNV_0515m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246650	GU246650	WNV_0520m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246651	GU246651	WNV_0521m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246652	GU246652	WNV_0552m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246653	GU246653	WNV_0553m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246654	GU246654	WNV_0789m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246655	GU246655	WNV_0802m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246656	GU246656	WNV_0812m_ISR02	Israel	2002	mosquito	Israel/2002/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246657	GU246657	WNV_0295m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246658	GU246658	WNV_0417m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246659	GU246659	WNV_0418m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246660	GU246660	WNV_0420m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246661	GU246661	WNV_0422m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246662	GU246662	WNV_0423m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246663	GU246663	WNV_0426m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246664	GU246664	WNV_0472m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246665	GU246665	WNV_0530m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246666	GU246666	WNV_0538m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246667	GU246667	WNV_0606m_ISR03	Israel	2003	mosquito	Israel/2003/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246669	GU246669	WNV_0355m_ISR04	Israel	2004	mosquito	Israel/2004/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246671	GU246671	WNV_0404m_ISR04	Israel	2004	mosquito	Israel/2004/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246673	GU246673	WNV_0178m_ISR05	Israel	2005	mosquito	Israel/2005/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246685	GU246685	WNV_0179m_ISR06	Israel	2006	mosquito	Israel/2006/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246686	GU246686	WNV_0181m_ISR06	Israel	2006	mosquito	Israel/2006/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246687	GU246687	WNV_0182m_ISR06	Israel	2006	mosquito	Israel/2006/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246689	GU246689	WNV_0185m_ISR06	Israel	2006	mosquito	Israel/2006/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246690	GU246690	WNV_0245m_ISR06	Israel	2006	mosquito	Israel/2006/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246691	GU246691	WNV_0246m_ISR06	Israel	2006	mosquito	Israel/2006/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246692	GU246692	WNV_0260m_ISR06	Israel	2006	mosquito	Israel/2006/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246695	GU246695	WNV_0150m_ISR07	Israel	2007	mosquito	Israel/2007/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246696	GU246696	WNV_0155m_ISR07	Israel	2007	mosquito	Israel/2007/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246697	GU246697	WNV_0160m_ISR07	Israel	2007	mosquito	Israel/2007/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246698	GU246698	WNV_0169m_ISR07	Israel	2007	mosquito	Israel/2007/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246699	GU246699	WNV_0198m_ISR07	Israel	2007	mosquito	Israel/2007/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246700	GU246700	WNV_0203m_ISR07	Israel	2007	mosquito	Israel/2007/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246701	GU246701	WNV_0222m_ISR07	Israel	2007	mosquito	Israel/2007/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246705	GU246705	WNV_0315m_ISR07	Israel	2007	mosquito	Israel/2007/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246706	GU246706	WNV_0110m_ISR08	Israel	2008	mosquito	Israel/2008/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246707	GU246707	WNV_0169m_ISR08	Israel	2008	mosquito	Israel/2008/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246708	GU246708	WNV_0170m_ISR08	Israel	2008	mosquito	Israel/2008/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246709	GU246709	WNV_0172m_ISR08	Israel	2008	mosquito	Israel/2008/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246710	GU246710	WNV_0336m_ISR08	Israel	2008	mosquito	Israel/2008/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246711	GU246711	WNV_0339m_ISR08	Israel	2008	mosquito	Israel/2008/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246712	GU246712	WNV_0349m_ISR08	Israel	2008	mosquito	Israel/2008/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246713	GU246713	WNV_0378m_ISR08	Israel	2008	mosquito	Israel/2008/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/GU246714	GU246714	WNV_0379m_ISR08	Israel	2008	mosquito	Israel/2008/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/HM152773	HM152773	WNV_0043h_ISR00	Israel	2000	Homo sapiens	Israel/2000/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/HM152774	HM152774	WNV_233h_ISR00	Israel	2000	Homo sapiens	Israel/2000/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HM152775	HM152775	WNV_0304h_ISR00	Israel	2000	Homo sapiens	Israel/2000/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/HM152776	HM152776	WNV_0247h_ISR00	Israel	2000	Homo sapiens	Israel/2000/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HM488125	HM488125	WNV-1/US/BID-V4186/1999	USA	1999	Corvus brachyrhynchos	USA/1999/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HM488126	HM488126	WNV-1/US/BID-V4187/1999	USA	1999	Corvus brachyrhynchos	USA/1999/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HM488130	HM488130	WNV-1/US/BID-V4192/2000	USA	2000	Culex salinarius	USA/2000/Culex salinarius	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HM488157	HM488157	WNV-1/US/BID-V4231/2006	USA	2006	Culex pipiens	USA/2006/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HM488216	HM488216	WNV-1/US/BID-V4574/2003	USA	2003	Culiseta melanura	USA/2003/Culiseta melanura	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HM488225	HM488225	WNV-1/US/BID-V4605/2003	USA	2003	Aedes cinereus	USA/2003/Aedes cinereus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HM756673	HM756673	WNV-1/US/BID-V4801/2004	USA	2004	Corvus brachyrhynchos	USA/2004/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/HM991272	HM991272	NAL-09	Italy	2009	Homo sapiens	Italy/2009/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/HM991273	HM991273	TOS-09	Italy	2009	Homo sapiens	Italy/2009/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/HM991274	HM991274	BAL-09	Italy	2009	Homo sapiens	Italy/2009/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/HM991275	HM991275	CHI-09	Italy	2009	Homo sapiens	Italy/2009/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/HM991276	HM991276	MAN-08	Italy	2008	Homo sapiens	Italy/2008/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/HM991277	HM991277	FAN-09	Italy	2009	Homo sapiens	Italy/2009/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HQ671706	HQ671706	WNV-1/US/BID-V4898/1999	USA	1999	Aedes vexans	USA/1999/Aedes vexans	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HQ671707	HQ671707	WNV-1/US/BID-V4899/1999	USA	1999	Culex pipiens	USA/1999/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/HQ671710	HQ671710	WNV-1/US/BID-V4902/2000	USA	2000	Culex pipiens	USA/2000/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JF707789	JF707789	HU6365/08	Spain	2008	Culex perexiguus	Spain/2008/Culex perexiguus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JF719065	JF719065	Italy/2008/J-242853	Italy	2008	jay	Italy/2008/jay	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JF719066	JF719066	Italy/2008/M-203204	Italy	2008	Corvidae sp.	Italy/2008/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JF719067	JF719067	Italy/2009/G-223184	Italy	2009	Laridae sp	Italy/2009/Laridae sp	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JF719068	JF719068	Italy/2009/J-225677	Italy	2009	jay	Italy/2009/jay	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/JF719069	JF719069	Spain/2010/H-1b	Spain	2010	Equus caballus	Spain/2010/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JF920742	JF920742	WNV-1/US/BID-V5213/2007	USA	2007	Culex pipiens	USA/2007/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JN051152	JN051152	TM171-03	Mexico	2003	Corvus corax	Mexico/2003/Corvus corax	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JN051153	JN051153	TM171-03	Mexico	2003	Corvus corax	Mexico/2003/Corvus corax	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JN183888	JN183888	WNV-1/US/BID-V4896/2006	USA	2006	Corvus brachyrhynchos	USA/2006/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JN716371	JN716371	COL524/08	Colombia	2008	Phoenicopterus roseus	Colombia/2008/Phoenicopterus roseus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JN716372	JN716372	COL9835/08	Colombia	2008	Phoenicopterus roseus	Colombia/2008/Phoenicopterus roseus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JN858069	JN858069	Italy/2011/AN-1	Italy	2011	Homo sapiens; age: 48; sex: male	Italy/2011/Homo sapiens; age: 48; sex: male	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JQ303102	JQ303102	KLU_181	India	2011	-	India/2011/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JQ928174	JQ928174	Italy/2011/Livenza	Italy	2011	Homo sapiens	Italy/2011/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JQ928175	JQ928175	Italy/2011/Piave	Italy	2011	Homo sapiens	Italy/2011/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JX015520	JX015520	TX_AR9-6115	Mexico	2009	Culex quinquefasciatus	Mexico/2009/Culex quinquefasciatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JX041628	JX041628	LEIV-72Az	Azerbaijan	1970	Ornithodoros capensis	Azerbaijan/1970/Ornithodoros capensis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/JX041629	JX041629	LEIV-1628Az	Azerbaijan	1967	Aves	Azerbaijan/1967/Aves	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/JX041630	JX041630	LEIV-1640Az	Azerbaijan	1967	Aves	Azerbaijan/1967/Aves	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JX041633	JX041633	Hp-94	Russia	1963	Hyalomma plumbeum plumbeum	Russia/1963/Hyalomma plumbeum plumbeum	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JX041634	JX041634	Ast-986	Russia	1999	Homo sapiens	Russia/1999/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JX070655	JX070655	T-1304	Tajikistan	-	-	Tajikistan/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/JX442278	JX442278	XJ11148	China	2011	Culex pipiens pipiens	China/2011/Culex pipiens pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/JX442279	JX442279	XJ11129	China	2011	Culex pipiens pipiens	China/2011/Culex pipiens pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/JX442280	JX442280	XJ11138	China	2011	Culex pipiens pipiens	China/2011/Culex pipiens pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/JX442281	JX442281	XJ11141	China	2011	Culex pipiens pipiens	China/2011/Culex pipiens pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/JX442282	JX442282	XJ11146	China	2011	Culex pipiens pipiens	China/2011/Culex pipiens pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/JX556213	JX556213	Italy/2012/Livenza/31.1	Italy	2012	Homo sapiens	Italy/2012/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC131117	KC131117	0164m_ISR10	Israel	2010	mosquito	Israel/2010/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC131118	KC131118	0134m_ISR09	Israel	2009	mosquito	Israel/2009/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC131119	KC131119	077m_ISR09	Israel	2009	mosquito	Israel/2009/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC131120	KC131120	052m_ISR10	Israel	2010	mosquito	Israel/2010/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC131121	KC131121	0257m_ISR11	Israel	2011	mosquito	Israel/2011/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC131122	KC131122	0271m_ISR11	Israel	2011	mosquito	Israel/2011/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC131123	KC131123	0446m_ISR11	Israel	2011	mosquito	Israel/2011/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC131124	KC131124	0473m_ISR11	Israel	2011	mosquito	Israel/2011/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC131125	KC131125	0521m_ISR11	Israel	2011	mosquito	Israel/2011/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KC243146	KC243146	ATH002316	Kenya	2010	Rhipicephalus pulchellus (tick)	Kenya/2010/Rhipicephalus pulchellus (tick)	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KC493970	KC493970	Italy/2009/FIN	Italy	-	Homo sapiens	Italy/-/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KC601756	KC601756	1048813	India	2011	Homo sapiens	India/2011/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KC954092	KC954092	Italy/2012/Livenza/37.1	Italy	2012	Homo sapiens	Italy/2012/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114258	KF114258	208659-1	Italy	2009	Equus caballus	Italy/2009/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114259	KF114259	242853	Italy	2008	Garrulus glandarius	Italy/2008/Garrulus glandarius	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114260	KF114260	229892	Italy	2008	Pica pica	Italy/2008/Pica pica	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114261	KF114261	204146-2	Italy	2009	Corvus cornix	Italy/2009/Corvus cornix	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114262	KF114262	205417-21	Italy	2009	Equus caballus	Italy/2009/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114263	KF114263	208846-2	Italy	2009	Pica pica	Italy/2009/Pica pica	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114264	KF114264	233184-4	Italy	2009	Larus ridibundus	Italy/2009/Larus ridibundus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114265	KF114265	225677	Italy	2009	Garrulus glandarius	Italy/2009/Garrulus glandarius	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114266	KF114266	203204	Italy	2008	Pica pica	Italy/2008/Pica pica	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KF114267	KF114267	204913	Italy	2009	Culex pipiens	Italy/2009/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/KF234080	KF234080	Italy/2009/FIN	Italy	2009	Homo sapiens	Italy/2009/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KF367469	KF367469	BVI2013_Heart	British Virgin Islands	2013	Phoenicopterus roseus	British Virgin Islands/2013/Phoenicopterus roseus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KF647253	KF647253	Italy/2013/Livenza/35.1	Italy	2013	Homo sapiens	Italy/2013/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KF823807	KF823807	Italy/2013/Livenza/37.1	Italy	2013	Homo sapiens	Italy/2013/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KJ131500	KJ131500	ArD76986	Senegal	1990	mosquito	Senegal/1990/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KJ501097	KJ501097	WNV-1/US/BID-V7385/2008	USA	2008	Culex tarsalis	USA/2008/Culex tarsalis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KJ501136	KJ501136	WNV-1/US/BID-V7426/2010	USA	2010	Culex quinquefasciatus	USA/2010/Culex quinquefasciatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KJ501203	KJ501203	WNV-1/US/BID-V7513/2003	USA	2003	Culex tarsalis	USA/2003/Culex tarsalis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KJ501246	KJ501246	WNV-1/US/BID-V6190/2001	USA	2001	Corvus brachyrhynchos	USA/2001/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KJ501453	KJ501453	WNV-1/US/BID-V6407/2001	USA	2001	Corvus brachyrhynchos	USA/2001/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KJ501459	KJ501459	WNV-1/US/BID-V6437/2003	USA	2003	Corvus brachyrhynchos	USA/2003/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KJ501465	KJ501465	WNV-1/US/BID-V6450/2001	USA	2001	Corvus brachyrhynchos	USA/2001/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KJ501484	KJ501484	WNV-1/US/BID-V6493/2002	USA	2002	Corvus brachyrhynchos	USA/2002/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KJ501501	KJ501501	WNV-1/US/BID-V6538/2002	USA	2002	Corvus brachyrhynchos	USA/2002/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KM212943	KM212943	CDCCA4-12	Colombia	2012	Culex erraticus	Colombia/2012/Culex erraticus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/KM212944	KM212944	CDCCZ2-21	Colombia	2012	Culex erraticus	Colombia/2012/Culex erraticus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KR107956	KR107956	Is98	Belgium	2014	-	Belgium/2014/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KU573077	KU573077	229892/2008	Italy	2008	Pica pica (magpie)	Italy/2008/Pica pica (magpie)	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KU573078	KU573078	204913/2009	Italy	2009	Culex pipiens	Italy/2009/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KU573079	KU573079	208846/2009	Italy	2009	Pica pica (magpie)	Italy/2009/Pica pica (magpie)	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KU588135	KU588135	camel	United Arab Emirates	2015	Camelus dromedarius	United Arab Emirates/2015/Camelus dromedarius	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/KU978766	KU978766	COL 739-08	Colombia	2008	Phoenicopterus ruber	Colombia/2008/Phoenicopterus ruber	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KU978768	KU978768	MOS 94	Russia	1963	Hyalomma	Russia/1963/Hyalomma	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/KU978769	KU978769	TM 171-03	Mexico	2003	Corvus sp.	Mexico/2003/Corvus sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547168	KX547168	WNV-1/Carpodacus mexicanus/USA/12VER00006/2012	USA	2012	Carpodacus mexicanus	USA/2012/Carpodacus mexicanus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547183	KX547183	WNV-1/Culex/USA/08590259/2008	USA	2008	Culex sp.	USA/2008/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547195	KX547195	WNV-1/Corvus brachyrhynchos/USA/07VER01348/2007	USA	2007	Corvus brachyrhynchos	USA/2007/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547214	KX547214	WNV-1/Corvus brachyrhynchos/USA/09VER0477/2009	USA	2009	Corvus brachyrhynchos	USA/2009/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547250	KX547250	WNV-1/Corvus brachyrhynchos/USA/06VER01163/2006	USA	2006	Corvus brachyrhynchos	USA/2006/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547278	KX547278	WNV-1/Corvus brachyrhynchos/USA/12VER00004/2012	USA	2012	Corvus brachyrhynchos	USA/2012/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547344	KX547344	WNV-1/Culiseta sp./USA/13370388/2013	USA	2013	Culiseta sp.	USA/2013/Culiseta sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547360	KX547360	WNV-1/Corvus brachyrhynchos/USA/04002235/2005	USA	2005	Corvus brachyrhynchos	USA/2005/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547361	KX547361	WNV-1/Culex/USA/10511206/2010	USA	2010	Culex sp.	USA/2010/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547379	KX547379	WNV-1/Culex/USA/41040075/2004	USA	2004	Culex sp.	USA/2004/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547416	KX547416	WNV-1/Coquillettidia sp./USA/11330480/2011	USA	2011	Coquillettidia sp.	USA/2011/Coquillettidia sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547429	KX547429	WNV-1/Anopheles sp./USA/36020403/2002	USA	2002	Anopheles sp.	USA/2002/Anopheles sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547430	KX547430	WNV-1/Culiseta sp./USA/09330544/2009	USA	2009	Culiseta sp.	USA/2009/Culiseta sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547460	KX547460	WNV-1/Aedes sp./USA/13260150/2013	USA	2013	Aedes sp.	USA/2013/Aedes sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547519	KX547519	WNV-1/Culex/USA/36000356/2000	USA	2000	Culex sp.	USA/2000/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547525	KX547525	WNV-1/Corvus brachyrhynchos/USA/02003663/2002	USA	2002	Corvus brachyrhynchos	USA/2002/Corvus brachyrhynchos	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KX547596	KX547596	WNV-1/Quiscalus quiscula/USA/05001917/2005	USA	2005	Quiscalus quiscula	USA/2005/Quiscalus quiscula	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/KY703854	KY703854	ArD76986/1990/SN	Senegal	1990	Culex poicilipes	Senegal/1990/Culex poicilipes	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/KY782112	KY782112	M5-16	USA	2005	Culex sp.	USA/2005/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/LC489409	LC489409	Croc1102019ZM	Zambia	2019	Crocodylus niloticus	Zambia/2019/Crocodylus niloticus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/LC518897	LC518897	selim2020	Egypt	2019	Culex sp.	Egypt/2019/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MF175815	MF175815	AVA1206686	USA	2012	Culex quinquefasciatus	USA/2012/Culex quinquefasciatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MF175829	MF175829	AVA1304771	USA	2013	Culex quinquefasciatus	USA/2013/Culex quinquefasciatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MF797870	MF797870	WNV_Cy2016	Cyprus	2016	Homo sapiens	Cyprus/2016/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MG004533	MG004533	RT406	USA	2014	Culex quinquefasciatus	USA/2014/Culex quinquefasciatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507611	MH507611	WNV/bird/La_Jolla_CA_USA/2009-05-13/W004	USA	2009	Corvidae sp.	USA/2009/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507629	MH507629	WNV/bird/Solana_Beach_CA_USA/2008-06-11/W029	USA	2008	Corvidae sp.	USA/2008/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507655	MH507655	WNV/bird/San_Diego_CA_USA/2013-11-07/W060	USA	2013	Accipitriformes sp	USA/2013/Accipitriformes sp	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507679	MH507679	WNV/mosquito/San_Diego_CA_USA/2015-08-28/W086	USA	2015	mosquito	USA/2015/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507729	MH507729	WNV/bird/Northridge_CA_USA/2012-07-17/W147	USA	2012	Corvidae sp.	USA/2012/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507753	MH507753	WNV/bird/Simi_Valley_CA_USA/2017-08-28/W173	USA	2017	Corvidae sp.	USA/2017/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507768	MH507768	WNV/mosquito/Parlier_CA_USA/2010-08-12/W188	USA	2010	Culex tarsalis	USA/2010/Culex tarsalis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507843	MH507843	WNV/bird/Bakersfield_CA_USA/2007-06-25/W289	USA	2007	California Scrub-Jay	USA/2007/California Scrub-Jay	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507857	MH507857	WNV/bird/Bakersfield_CA_USA/2009-06-14/W304	USA	2009	House Finch	USA/2009/House Finch	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507877	MH507877	WNV/bird/Bakersfield_CA_USA/2011-08-08/W324	USA	2011	California Scrub-Jay	USA/2011/California Scrub-Jay	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507897	MH507897	WNV/mosquito/Arvin_CA_USA/2004-08-11/W350	USA	2004	Culex tarsalis	USA/2004/Culex tarsalis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507930	MH507930	WNV/mosquito/Bakersfield_CA_USA/2006-08-04/W383	USA	2006	Culex quinquefasciatus	USA/2006/Culex quinquefasciatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507967	MH507967	WNV/bird/San_Diego_CA_USA/2015-04-16/W549	USA	2015	Corvidae sp.	USA/2015/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507973	MH507973	WNV/bird/San_Diego_CA_USA/2015-07-28/W557	USA	2015	Western Scrub Jay	USA/2015/Western Scrub Jay	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH507975	MH507975	WNV/bird/Mira_Mesa_CA_USA/2015-08-21/W561	USA	2015	Corvidae sp.	USA/2015/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH508003	MH508003	WNV/mosquito/Bakersfield_CA_USA/2010-07-01/W416	USA	2010	Culex tarsalis	USA/2010/Culex tarsalis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH508025	MH508025	WNV/mosquito/Arvin_CA_USA/2011-08-04/W438	USA	2011	Culex tarsalis	USA/2011/Culex tarsalis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH508032	MH508032	WNV/mosquito/Bakersfield_CA_USA/2014-07-18/W470	USA	2014	Culex quinquefasciatus	USA/2014/Culex quinquefasciatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/MH643887	MH643887	BeAn854747	Brazil	2018	equine	Brazil/2018/equine	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819446	MH819446	VN6490CPR1/Canada/2015	Canada	2015	Culex sp.	Canada/2015/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819447	MH819447	VN1429CPR1/Canada/2013	Canada	2013	Culex sp.	Canada/2013/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819448	MH819448	13923CPR1/Canada/2005	Canada	2005	Culex sp.	Canada/2005/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819449	MH819449	VN5229CPR1/Canada/2014	Canada	2014	Culex sp.	Canada/2014/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819450	MH819450	VN6862CPR1/Canada/2016	Canada	2016	Culex sp.	Canada/2016/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819451	MH819451	13217CPR4/Canada/2005	Canada	2005	Culex sp.	Canada/2005/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819452	MH819452	VN6364CPR1/Canada/2015	Canada	2015	Culex sp.	Canada/2015/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819453	MH819453	VN6806CPR1/Canada/2016	Canada	2016	Culex sp.	Canada/2016/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819454	MH819454	21285CPR1/Canada/2006	Canada	2006	Culex sp.	Canada/2006/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819455	MH819455	30712CPR1/Canada/2006	Canada	2006	Culex sp.	Canada/2006/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819456	MH819456	VN1533CPR1/Canada/2013	Canada	2013	Culex sp.	Canada/2013/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819457	MH819457	13452CPR3/Canada/2005	Canada	2005	Culex sp.	Canada/2005/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819458	MH819458	13494CPR1/Canada/2005	Canada	2005	Culex sp.	Canada/2005/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819459	MH819459	VN4794CPR1/Canada/2014	Canada	2014	Culex sp.	Canada/2014/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819460	MH819460	VN1316CPR1/Canada/2013	Canada	2013	Culex sp.	Canada/2013/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819461	MH819461	10072CPR1/Canada/2004	Canada	2004	Culex sp.	Canada/2004/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819462	MH819462	VN6319CPR1/Canada/2015	Canada	2015	Culex sp.	Canada/2015/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819463	MH819463	VN4365CPR1/Canada/2014	Canada	2014	Culex sp.	Canada/2014/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819464	MH819464	10704CPR1/Canada/2004	Canada	2004	Culex sp.	Canada/2004/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819465	MH819465	VN6325CPR1/Canada/2015	Canada	2015	Culex sp.	Canada/2015/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819466	MH819466	VN6864CPR2/Canada/2016	Canada	2016	Culex sp.	Canada/2016/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819467	MH819467	VN1329CPR1/Canada/2013	Canada	2013	Culex sp.	Canada/2013/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819468	MH819468	9120CPR2/Canada/2004	Canada	2004	Culex sp.	Canada/2004/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819469	MH819469	21303VEX2/Canada/2006	Canada	2006	Aedes vexans	Canada/2006/Aedes vexans	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819470	MH819470	VN5038CPR1/Canada/2014	Canada	2014	Culex sp.	Canada/2014/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MH819471	MH819471	10208CPR3/Canada/2004	Canada	2004	Culex sp.	Canada/2004/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MN149538	MN149538	Tomsk/bird/2006/A4	Russia	2006	Acrocephalus dumetorum	Russia/2006/Acrocephalus dumetorum	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MN849176	MN849176	2019-DC-66	USA	2019	Aedes albopictus	USA/2019/Aedes albopictus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-refseqs/MT863559	MT863559	Akela/France/2015	France	2015	Equus caballus	France/2015/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MT905060	MT905060	JNESEq804	Brazil	2019	Equus caballus	Brazil/2019/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MT967993	MT967993	S32	USA	2017	mosquito	USA/2017/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MT968024	MT968024	S34	USA	2017	mosquito	USA/2017/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MT968030	MT968030	S52	USA	2018	mosquito	USA/2018/mosquito	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW420987	MW420987	E66CaprichoPI	Brazil	2020	Equus caballus	Brazil/2020/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW420988	MW420988	RangerSP	Brazil	2019	Equus caballus	Brazil/2019/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW420989	MW420989	SafiraMG	Brazil	2018	Equus caballus	Brazil/2018/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW627239	MW627239	WNV 362447/20 Lin1	Italy	2020	Accipiter gentilis	Italy/2020/Accipiter gentilis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835351	MW835351	TE.15076	Italy	2008	Corvidae sp.	Italy/2008/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835352	MW835352	TE.15242	Italy	2008	donkey	Italy/2008/donkey	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835353	MW835353	TE.15250	Italy	2008	Equus caballus	Italy/2008/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835354	MW835354	TE.15325	Italy	2008	Equus caballus	Italy/2008/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835355	MW835355	TE.12010	Italy	2009	Corvidae sp.	Italy/2009/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835356	MW835356	TE.14444	Italy	2011	Corvidae sp.	Italy/2011/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835357	MW835357	TE.17196	Italy	2011	Strigiformes sp.	Italy/2011/Strigiformes sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835358	MW835358	TE.17208	Italy	2011	Corvidae sp.	Italy/2011/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835359	MW835359	TE.20224_1	Italy	2011	Gallus gallus	Italy/2011/Gallus gallus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835360	MW835360	TE.20875	Italy	2011	eurasian jay	Italy/2011/eurasian jay	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835361	MW835361	TE.21370	Italy	2011	Equus caballus	Italy/2011/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835362	MW835362	TE.21412	Italy	2011	Strigiformes sp.	Italy/2011/Strigiformes sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835363	MW835363	TE.23237_1	Italy	2011	Gallus gallus	Italy/2011/Gallus gallus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW835364	MW835364	TE.20652	Italy	2012	Corvidae sp.	Italy/2012/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/MW915462	MW915462	Spain/2017/NG-b	Spain	2017	Accipiter gentilis	Spain/2017/Accipiter gentilis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OM202921	OM202921	FDAARGOS_1628	USA	-	-	USA/-/-	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON782107	ON782107	BC24-LIB3	Brazil	2019	Equus caballus	Brazil/2019/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON782108	ON782108	LACENBA15	Brazil	2018	Equus caballus	Brazil/2018/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON782109	ON782109	LACENBA17	Brazil	2019	Equus caballus	Brazil/2019/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON813210	ON813210	SN2013 260164	Senegal	2013	Culex neavei	Senegal/2013/Culex neavei	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON813211	ON813211	SN2016 286301	Senegal	2016	Culex poicilipes	Senegal/2016/Culex poicilipes	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON813212	ON813212	SN2016 288154	Senegal	2016	Culex neavei	Senegal/2016/Culex neavei	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON813213	ON813213	SN2016 286281	Senegal	2016	Culex bitaeniorhynchus	Senegal/2016/Culex bitaeniorhynchus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON813214	ON813214	SN2012 251053	Senegal	2012	Culex neavei	Senegal/2012/Culex neavei	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON813215	ON813215	SN2012 241164	Senegal	2012	Culex perfuscus	Senegal/2012/Culex perfuscus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON813216	ON813216	SN2012 240964	Senegal	2012	Culex quinquefasciatus	Senegal/2012/Culex quinquefasciatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON994909	ON994909	21_3782	USA	2019	alpaca	USA/2019/alpaca	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/ON994910	ON994910	21_3957	USA	2021	Corvidae sp.	USA/2021/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP009518	OP009518	Italy/2021/Padova/21VIR8746-heart	Italy	2021	Columba livia	Italy/2021/Columba livia	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP009519	OP009519	Italy/2021/Padova/21VIR8746-snc	Italy	2021	Columba livia	Italy/2021/Columba livia	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP009520	OP009520	Italy/2021/Padova/21VIR8435-2	Italy	2021	collared dove	Italy/2021/collared dove	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP009521	OP009521	Italy/2021/Padova/21RS2511-4	Italy	2021	Culex pipiens	Italy/2021/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP009522	OP009522	Italy/2021/Padova/21RS2511-3	Italy	2021	Culex pipiens	Italy/2021/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP009523	OP009523	Italy/2021/Padova/21RS2511-2	Italy	2021	Culex pipiens	Italy/2021/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP009524	OP009524	Italy/2021/Padova/21RS2511-1	Italy	2021	Culex pipiens	Italy/2021/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP009525	OP009525	Italy/2022/Venezia/22RS1198	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609790	OP609790	Italy/2022/Padova/22RS1342-1	Italy	2022	Homo sapiens	Italy/2022/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609791	OP609791	Italy/2022/Padova/22RS1738-1	Italy	2022	Homo sapiens	Italy/2022/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609792	OP609792	Italy/2022/Padova/22RS1738-2	Italy	2022	Homo sapiens	Italy/2022/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609793	OP609793	Italy/2022/Verona/22RS1738-4	Italy	2022	Homo sapiens	Italy/2022/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609794	OP609794	Italy/2022/Vicenza/22RS1738-6	Italy	2022	Homo sapiens	Italy/2022/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609795	OP609795	Italy/2022/Padova/22RS1738-7	Italy	2022	Homo sapiens	Italy/2022/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609796	OP609796	Italy/2022/Rovigo/22RS1738-8	Italy	2022	Homo sapiens	Italy/2022/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609797	OP609797	Italy/2022/Rovigo/22RS1738-11	Italy	2022	Homo sapiens	Italy/2022/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609798	OP609798	Italy/2022/Padova/22RS1738-23	Italy	2022	Homo sapiens	Italy/2022/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609799	OP609799	Italy/2022/Rovigo/22VIR7355	Italy	2022	Larus michahellis	Italy/2022/Larus michahellis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609800	OP609800	Italy/2022/Rovigo/22VIR7340	Italy	2022	Passer domesticus	Italy/2022/Passer domesticus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609801	OP609801	Italy/2022/Padova/22VIR7373	Italy	2022	Turdus merula	Italy/2022/Turdus merula	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609802	OP609802	Italy/2022/Rovigo/22VIR7419	Italy	2022	Athene noctua	Italy/2022/Athene noctua	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609803	OP609803	Italy/2022/Padova/22VIR7398	Italy	2022	Pica pica	Italy/2022/Pica pica	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609804	OP609804	Italy/2022/Rovigo/22VIR7399	Italy	2022	Garrulus glandarius	Italy/2022/Garrulus glandarius	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609805	OP609805	Italy/2022/Padova/22VIR7600	Italy	2022	Columba palumbus	Italy/2022/Columba palumbus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609806	OP609806	Italy/2022/Padova/22VIR7609	Italy	2022	Egretta garzetta	Italy/2022/Egretta garzetta	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609807	OP609807	Italy/2022/Vicenza/22VIR7688	Italy	2022	Pica pica	Italy/2022/Pica pica	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609808	OP609808	Italy/2022/Rovigo/22VIR6574	Italy	2022	Pica pica	Italy/2022/Pica pica	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609809	OP609809	Italy/2022/Padova/22VIR7607	Italy	2022	Corvus corone	Italy/2022/Corvus corone	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609810	OP609810	Italy/2022/Rovigo/22RS1560	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609811	OP609811	Italy/2022/Padova/22VIR7505-9	Italy	2022	Equus caballus	Italy/2022/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609812	OP609812	Italy/2022/Vicenza/22VIR7679	Italy	2022	Corvus corone	Italy/2022/Corvus corone	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609813	OP609813	Italy/2022/Padova/22RS1599	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609814	OP609814	Italy/2022/Rovigo/22RS1702	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP609815	OP609815	Italy/2022/Padova/22VIR8273-3	Italy	2022	Corvus corone	Italy/2022/Corvus corone	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP617270	OP617270	WNV/Turkey/HSGM136s/2018	Turkey	2018	Homo sapiens	Turkey/2018/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP643863	OP643863	20c124	Spain	2020	Culex perexiguus	Spain/2020/Culex perexiguus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP643864	OP643864	21c560	Spain	2021	Culex perexiguus	Spain/2021/Culex perexiguus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734262	OP734262	2022.TE.40159.2.3	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734263	OP734263	2022.TE.41224.2.8	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734265	OP734265	2022.TE.41400.2.5	Italy	2022	Phalacrocorax carbo	Italy/2022/Phalacrocorax carbo	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734266	OP734266	2022.TE.41400.1.3	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734267	OP734267	2022.TE.41400.2.4	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734268	OP734268	2022.TE.41224.2.10	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734269	OP734269	2022.TE.42275.2.20	Italy	2022	Corvuscornix	Italy/2022/Corvuscornix	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734270	OP734270	2022.TE.42275.2.11	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734271	OP734271	2022.TE.42275.2.10	Italy	2022	Corvus cornix	Italy/2022/Corvus cornix	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734272	OP734272	2022.TE.42275.2.18	Italy	2022	Passer domesticus	Italy/2022/Passer domesticus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734273	OP734273	2022.TE.42275.2.13	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP734274	OP734274	2022.TE.42275.2.6	Italy	2022	Culex pipiens	Italy/2022/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846971	OP846971	ArD52398/1989	Senegal	1989	Culex poicilipes	Senegal/1989/Culex poicilipes	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846973	OP846973	ArD93548/1993	Senegal	1993	Culex neavei	Senegal/1993/Culex neavei	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846974	OP846974	ArD120040/1996	Senegal	1996	Culex neavei	Senegal/1996/Culex neavei	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846975	OP846975	ArD121684/1996	Senegal	1996	Aedes dalzieli	Senegal/1996/Aedes dalzieli	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846977	OP846977	ArD62891/1990	Senegal	1990	Culex antennatus	Senegal/1990/Culex antennatus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846978	OP846978	ArD251080/2012	Senegal	2012	Culex neavei	Senegal/2012/Culex neavei	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846979	OP846979	ArD253054/2013	Senegal	2013	Culex neavei	Senegal/2013/Culex neavei	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846980	OP846980	ArD300516/2017	Senegal	2017	Culex neavei	Senegal/2017/Culex neavei	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846981	OP846981	HS309811/2018	Senegal	2018	Homo sapiens	Senegal/2018/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP846982	OP846982	ArD285495/2016	Senegal	2016	Culex perfuscus	Senegal/2016/Culex perfuscus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP850021	OP850021	2022.TE.49076.2.10	Italy	2022	Corvus cornix	Italy/2022/Corvus cornix	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP850022	OP850022	2022.TE.48124.2.3	Italy	2022	Pica pica	Italy/2022/Pica pica	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OP850023	OP850023	2022.TE.48124.2.1	Italy	2022	Equus caballus	Italy/2022/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ357819	OQ357819	22C2392	Spain	2022	Culex perexiguus	Spain/2022/Culex perexiguus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ357820	OQ357820	22C2285	Spain	-	Culex perexiguus	Spain/-/Culex perexiguus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ357821	OQ357821	JA22_423	Spain	2022	Culex perexiguus	Spain/2022/Culex perexiguus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ357822	OQ357822	JA22_544	Spain	2022	Culex perexiguus	Spain/2022/Culex perexiguus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ552605	OQ552605	WND 95511/22 Lin1	Italy	2022	Equus caballus	Italy/2022/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ689697	OQ689697	NRG1424	Italy	2022	Equus caballus	Italy/2022/Equus caballus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721152	OQ721152	WNV/mosquito/BlackHawk-IA-USA/2017-07-31/W1994	USA	2017	Culex restuans	USA/2017/Culex restuans	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721154	OQ721154	WNV/mosquito/Larimer-CO-USA/2013-08-26/W1782	USA	2013	Culex pipiens	USA/2013/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721229	OQ721229	WNV/mosquito/Polk-IA-USA/2020-10-05/W1894	USA	2020	Culex pipiens	USA/2020/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721247	OQ721247	WNV/mosquito/Sacramento-CA-USA/2012-06-14/W0685	USA	2012	Culex tarsalis	USA/2012/Culex tarsalis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721257	OQ721257	WNV/bird/Anoka-MN-USA/2004-07-15/W1466	USA	2004	nan	USA/2004/nan	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721261	OQ721261	WNV/bird/Montgomery-OH-USA/2018-07-27/W0902	USA	2018	nan	USA/2018/nan	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721359	OQ721359	WNV/bird/Franklin-OH-USA/2018-07-17/W0845	USA	2018	nan	USA/2018/nan	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721402	OQ721402	WNV/bird/Sacramento-CA-USA/2008-03-05/W0810	USA	2008	Corvidae sp.	USA/2008/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721417	OQ721417	WNV/mosquito/BlackHawk-IA-USA/2020-08-24/W1886	USA	2020	Culex pipiens	USA/2020/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721427	OQ721427	WNV/mosquito/Polk-IA-USA/2016-08-13/W1917	USA	2016	Culex salinarius	USA/2016/Culex salinarius	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721519	OQ721519	WNV/bird/Sacramento-CA-USA/2014-07-10/W0756	USA	2014	Corvidae sp.	USA/2014/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721531	OQ721531	WNV/bird/San_Diego-CA-USA/2008-05-14/W0027	USA	2008	Western Scrub Jay	USA/2008/Western Scrub Jay	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721550	OQ721550	WNV/mosquito/Madera-CA-USA/2016-06-30/W0237	USA	2016	Culex tarsalis	USA/2016/Culex tarsalis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721571	OQ721571	WNV/bird/San_Diego-CA-USA/2015-09-22/W0570	USA	2015	Corvidae sp.	USA/2015/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721575	OQ721575	WNV/bird/Sacramento-CA-USA/2006-06-21/W0799	USA	2006	Corvidae sp.	USA/2006/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721584	OQ721584	WNV/bird/Hennepin-MN-USA/2004-06-28/W1450	USA	2004	nan	USA/2004/nan	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721628	OQ721628	WNV/bird/San_Diego-CA-USA/2016-04-28/W0588	USA	2016	Corvidae sp.	USA/2016/Corvidae sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721644	OQ721644	WNV/mosquito/Cook-IL-USA/2018-08-23/W1685	USA	2018	Culex sp.	USA/2018/Culex sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721702	OQ721702	WNV/mosquito/Sacramento-CA-USA/2016-08-09/W0718	USA	2016	Culex tarsalis	USA/2016/Culex tarsalis	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721706	OQ721706	WNV/mosquito/BlackHawk-IA-USA/2020-09-02/W1898	USA	2020	Culex pipiens	USA/2020/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721757	OQ721757	WNV/mosquito/Polk-IA-USA/2020-09-03/W1883	USA	2020	Culex pipiens	USA/2020/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721810	OQ721810	WNV/mosquito/Larimer-CO-USA/2018-08-06/W1841	USA	2018	Culex pipiens	USA/2018/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721812	OQ721812	WNV/bird/Stearns-MN-USA/2005-07-27/W1478	USA	2005	nan	USA/2005/nan	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721817	OQ721817	WNV/mosquito/Story-IA-USA/2016-08-25/W1924	USA	2016	Culex pipiens	USA/2016/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721820	OQ721820	WNV/bird/Kern-CA-USA/2005-09-01/W0271	USA	2005	Western Scrub/Jay	USA/2005/Western Scrub/Jay	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OQ721841	OQ721841	WNV/bird/San_Diego-CA-USA/2007-10-25/W0021	USA	2007	Accipitriformes sp	USA/2007/Accipitriformes sp	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OR472391	OR472391	8/1	Spain	2021	Anopheles atroparvus	Spain/2021/Anopheles atroparvus	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/OR728658	OR728658	WNV/PAK-01/2023	Pakistan	2023	Homo sapiens	Pakistan/2023/Homo sapiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/PP104378	PP104378	TE.19712.2.2	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/PP104379	PP104379	TE.19712.2.3	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/PP104380	PP104380	TE.19712.2.5	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/PP104381	PP104381	TE.25156.1.2	Italy	2023	Culex pipiens	Italy/2023/Culex pipiens	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated/PP104382	PP104382	TE.25159.1.2	Italy	2023	Jay	Italy/2023/Jay	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/PP430511	PP430511	SWD99	Iraq	2023	Anser sp.	Iraq/2023/Anser sp.	1	A	1/A
+alignment/AL_WNV_Lineage1A/member/ncbi-curated-short/PP430512	PP430512	SWD74	Iraq	2023	Anser sp.	Iraq/2023/Anser sp.	1	A	1/A
