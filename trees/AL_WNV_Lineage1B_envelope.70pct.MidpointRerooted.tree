@@ -138,7 +138,7 @@ begin figtree;
 	set tipLabels.colorAttribute="sampled_host_sci_name";
 	set tipLabels.displayAttribute="combined-iso-details";
 	set tipLabels.fontName="sansserif";
-	set tipLabels.fontSize=10;
+	set tipLabels.fontSize=8;
 	set tipLabels.fontStyle=0;
 	set tipLabels.isShown=true;
 	set tipLabels.significantDigits=4;

@@ -35,3 +35,33 @@
 
     exit
 
+  # Re-root phylogenies 
+  module wnvPhyloUtility 
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage5_NS5.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/AL_WNV_Lineage5_NS5.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage4_NS5.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/AL_WNV_Lineage4_NS5.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage2_NS5.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/AL_WNV_Lineage2_NS5.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage1B_NS5.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/AL_WNV_Lineage1B_NS5.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage1A_NS5.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/AL_WNV_Lineage1A_NS5.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+    exit
+

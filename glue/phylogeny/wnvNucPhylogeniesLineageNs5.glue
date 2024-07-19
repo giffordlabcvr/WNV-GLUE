@@ -1,0 +1,18 @@
+  # Clean-up
+  delete module wnvRaxmlPhylogenyGeneratorNucs
+
+  # Create all the general phylogeny modules we need
+  create module -f  modules/wnvRaxmlPhylogenyGeneratorNucs.xml
+
+  # Create the WNV lineage-level phylogenies
+  
+  module wnvRaxmlPhylogenyGeneratorNucs
+
+    generate nucleotide phylogeny AL_WNV_Lineage5  -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o trees/AL_WNV_Lineage5_NS5.70pct.tree NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_WNV_Lineage4  -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o trees/AL_WNV_Lineage4_NS5.70pct.tree NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_WNV_Lineage2  -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o trees/AL_WNV_Lineage2_NS5.70pct.tree NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_WNV_Lineage1B -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o trees/AL_WNV_Lineage1B_NS5.70pct.tree NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_WNV_Lineage1A -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country != 'USA' or fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country = 'USA' and sequence.downsample_seq = true" -o trees/AL_WNV_Lineage1A_NS5.70pct.tree NEWICK_BOOTSTRAPS
+
+    exit
+    
