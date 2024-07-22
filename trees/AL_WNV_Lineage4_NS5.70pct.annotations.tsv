@@ -1,0 +1,5 @@
+taxon	sequenceID	isolate	country	collection_year	sampled_host_sci_name	combined-iso-details	lineage	clade	combined
+alignment/AL_WNV_Lineage4/member/ncbi-curated/AY277251	AY277251	LEIV-Krnd88-190	Russia	-	Dermacentor marginatus	Russia/-/Dermacentor marginatus	4	-	4/-
+alignment/AL_WNV_Lineage4/member/ncbi-refseqs/FJ159129	FJ159129	101_5-06-Uu	Russia	2006	Uranotaenia unguiculata (mosquito)	Russia/2006/Uranotaenia unguiculata (mosquito)	4	-	4/-
+alignment/AL_WNV_Lineage4/member/ncbi-curated/FJ159130	FJ159130	5_50-05-Uu	Russia	2005	Uranotaenia unguiculata (mosquito)	Russia/2005/Uranotaenia unguiculata (mosquito)	4	-	4/-
+alignment/AL_WNV_Lineage4/member/ncbi-curated/FJ159131	FJ159131	8_1-05-Uu	Russia	2005	Uranotaenia unguiculata (mosquito)	Russia/2005/Uranotaenia unguiculata (mosquito)	4	-	4/-
