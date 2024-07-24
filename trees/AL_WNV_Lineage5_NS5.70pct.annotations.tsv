@@ -1,0 +1,5 @@
+taxon	sequenceID	isolate	country	collection_year	sampled_host_sci_name	combined-iso-details	lineage	clade	combined
+alignment/AL_WNV_Lineage5/member/ncbi-curated/GQ851604	GQ851604	G15578	India	1957	-	India/1957/-	5	-	5/-
+alignment/AL_WNV_Lineage5/member/ncbi-curated/GQ851605	GQ851605	G16146	India	1957	mosquito	India/1957/mosquito	5	-	5/-
+alignment/AL_WNV_Lineage5/member/ncbi-refseqs/JX041632	JX041632	Ig2266	India	1955	Culex vishnui (mosquito)	India/1955/Culex vishnui (mosquito)	5	-	5/-
+alignment/AL_WNV_Lineage5/member/ncbi-refseqs/KU978770	KU978770	I 804994	India	1988	Homo sapiens	India/1988/Homo sapiens	5	-	5/-
