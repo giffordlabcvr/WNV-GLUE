@@ -65,3 +65,18 @@
 
     exit
 
+  # Re-root phylogenies 
+  module wnvPhyloUtility 
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage2_genome.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/AL_WNV_Lineage2_genome.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/AL_WNV_Lineage1A_genome.70pct.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/AL_WNV_Lineage1A_genome.70pct.MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+    exit
+

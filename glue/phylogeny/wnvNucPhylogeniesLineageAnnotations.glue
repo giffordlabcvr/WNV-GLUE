@@ -52,3 +52,15 @@
 
   exit
 
+
+  # Export annotations
+  module wnvFigTreeAnnotationExporter 
+
+
+    export figtree-annotation AL_WNV_Lineage2 -w "fLocNotes.featureLoc.feature.name = 'whole_genome'  \
+      and fLocNotes.ref_nt_coverage_pct >= 70" -f trees/AL_WNV_Lineage2_genome.70pct.annotations.tsv
+
+    export figtree-annotation AL_WNV_Lineage1A -w "fLocNotes.featureLoc.feature.name = 'whole_genome' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country != 'USA' or fLocNotes.featureLoc.feature.name = 'whole_genome' and fLocNotes.ref_nt_coverage_pct >= 70  and sequence.isolate_data.country = 'USA' and sequence.downsample_seq = true" \
+      -f trees/AL_WNV_Lineage1A_genome.70pct.annotations.tsv
+
+  exit
