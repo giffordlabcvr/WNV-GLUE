@@ -1,0 +1,15 @@
+  # Clean-up
+  delete module wnvRaxmlPhylogenyGeneratorNucs
+
+  # Create all the general phylogeny modules we need
+  create module -f  modules/wnvRaxmlPhylogenyGeneratorNucs.xml
+
+  # Create the WNV lineage-level phylogenies
+  
+  module wnvRaxmlPhylogenyGeneratorNucs
+
+    generate nucleotide phylogeny AL_WNV_Lineage2  -w "fLocNotes.featureLoc.feature.name = 'whole_genome' and fLocNotes.ref_nt_coverage_pct >= 70" -o trees/AL_WNV_Lineage2_genome.70pct.tree NEWICK_BOOTSTRAPS
+    generate nucleotide phylogeny AL_WNV_Lineage1A -w "fLocNotes.featureLoc.feature.name = 'whole_genome' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country != 'USA' or fLocNotes.featureLoc.feature.name = 'whole_genome' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country = 'USA' and sequence.downsample_seq = true" -o trees/AL_WNV_Lineage1A_genome.70pct.tree NEWICK_BOOTSTRAPS
+
+    exit
+    
