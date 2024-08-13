@@ -1,13 +1,13 @@
   # Clean-up
   delete module wnvfastaAlignmentExporter
 
-  # Create all the general phylogeny modules we need
+  # Create the alignment export module
   create module -f  modules/wnvfastaAlignmentExporter.xml
 
   # Export the WNV lineage-level multiple sequence alignments (MSAs) 
   module wnvfastaAlignmentExporter
   
-    export AL_WNV_Lineage1A -r REF_MASTER_WNV -f NS5 -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage1A.NS5.fas
+    export AL_WNV_Lineage1A -r REF_MASTER_WNV -f NS5 -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country != 'USA' or fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country = 'USA' and sequence.downsample_seq = true" -o alignments/AL_WNV_Lineage1A.NS5.fas
     export AL_WNV_Lineage1B -r REF_MASTER_WNV -f NS5 -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage1B.NS5.fas
     export AL_WNV_Lineage2 -r REF_MASTER_WNV -f NS5 -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage2.NS5.fas
     export AL_WNV_Lineage3 -r REF_MASTER_WNV -f NS5 -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage3.NS5.fas
@@ -16,7 +16,7 @@
     export AL_WNV_Lineage7 -r REF_MASTER_WNV -f NS5 -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage7.NS5.fas
     export AL_WNV_Lineage8 -r REF_MASTER_WNV -f NS5 -w "fLocNotes.featureLoc.feature.name = 'NS5' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage8.NS5.fas
  
-    export AL_WNV_Lineage1A -r REF_MASTER_WNV -f envelope -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage1A.envelope.fas
+    export AL_WNV_Lineage1A -r REF_MASTER_WNV -f envelope -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country != 'USA' or fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country = 'USA' and sequence.downsample_seq = true" -o alignments/AL_WNV_Lineage1A.envelope.fas
     export AL_WNV_Lineage1B -r REF_MASTER_WNV -f envelope -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage1B.envelope.fas
     export AL_WNV_Lineage2 -r REF_MASTER_WNV -f envelope -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage2.envelope.fas
     export AL_WNV_Lineage3 -r REF_MASTER_WNV -f envelope -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage3.envelope.fas
@@ -25,6 +25,8 @@
     export AL_WNV_Lineage7 -r REF_MASTER_WNV -f envelope -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage7.envelope.fas
     export AL_WNV_Lineage8 -r REF_MASTER_WNV -f envelope -w "fLocNotes.featureLoc.feature.name = 'envelope' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage8.envelope.fas
 
+    export AL_WNV_Lineage1A -r REF_MASTER_WNV -f whole_genome -w "fLocNotes.featureLoc.feature.name = 'whole_genome' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country != 'USA' or fLocNotes.featureLoc.feature.name = 'whole_genome' and fLocNotes.ref_nt_coverage_pct >= 70 and sequence.isolate_data.country = 'USA' and sequence.downsample_seq = true" -o alignments/AL_WNV_Lineage1A.whole_genome.fas
+    export AL_WNV_Lineage2 -r REF_MASTER_WNV -f whole_genome -w "fLocNotes.featureLoc.feature.name = 'whole_genome' and fLocNotes.ref_nt_coverage_pct >= 70" -o alignments/AL_WNV_Lineage2.whole_genome.fas
  
     exit
     
