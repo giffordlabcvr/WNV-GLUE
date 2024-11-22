@@ -15,15 +15,27 @@ Projects are loaded into the GLUE "engine," forming a relational database that r
 
 ## Key Features
 
-- **GLUE Framework Integration**: Built on the GLUE software framework, WNV-GLUE offers an extensible platform for efficient, standardized, and reproducible computational genomic analysis of West Nile virus.
+-   **Comprehensive Database**\
+    WNV-GLUE integrates genome feature definitions, reference genome sequences, multiple sequence alignments, and standardized metadata for all WNV sequences.
 
-- **Phylogenetic Structure**: Sequence data in WNV-GLUE is organized in a phylogenetically-structured manner, allowing users to explore evolutionary relationships easily.
+-   **GLUE Framework Integration**\
+    Built on the GLUE software framework, WNV-GLUE offers an extensible platform for efficient, standardized, and reproducible computational genomic analysis of WNV.
 
-- **Rich Annotations**: Annotated reference sequences enable rigorous comparative genomic analysis related to conservation, adaptation, structural context, and genotype-to-phenotype associations.
+-   **Phylogenetic Structure**\
+    Sequence data in WNV-GLUE is organized in a phylogenetically structured manner, allowing users to explore evolutionary relationships with ease.
 
-- **Automated Genotyping**: WNV-GLUE can perform automated genotyping of WNV sequences (including subgenomic sequences) via GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9).
+-   **Rich Annotations**\
+    Annotated reference sequences enable rigorous comparative genomic analysis related to conservation, adaptation, structural context, and genotype-to-phenotype associations.
 
-- **Exploratory and operational**: The GLUE framework allows sequence-based resources to be used for exploratory work in a research setting, as well as operational work in a public or animal health setting.
+-   **Automated Genotyping**\
+    WNV-GLUE uses the maximum likelihood clade assignment (MLCA) algorithm to perform automated genotyping of WNV sequences, including subgenomic fragments.
+
+-   **Variant Calling**\
+    Offers variant calling capabilities for amino acid substitutions, facilitating detailed genetic analysis.
+
+-   **M49 Schema Extension**\
+    Includes a schema extension for standardized country and region annotations, enhancing data consistency.
+
 
 * * * * *
 
