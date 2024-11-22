@@ -10,18 +10,8 @@ GLUE is an open, integrated software toolkit designed for storing and interpreti
 
 Projects are loaded into the GLUE "engine," forming a relational database that represents the semantic relationships between data items. This foundation supports systematic comparative analyses and the development of sequence-based resources.
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Genotyping](#genotyping)
-- [Mutation frequencies](#mutation-frequencies)
-- [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+* * * * *
 
 ## Key Features
 
@@ -35,33 +25,31 @@ Projects are loaded into the GLUE "engine," forming a relational database that r
 
 - **Exploratory and operational**: The GLUE framework allows sequence-based resources to be used for exploratory work in a research setting, as well as operational work in a public or animal health setting.
 
+* * * * *
 
-## Installation
 
-If you have not done so already, install the GLUE software framework by following the [installation instructions](http://glue-tools.cvr.gla.ac.uk/#/installation) on the GLUE web site: 
+Installation
+------------
 
-Download the WNV-GLUE repository, navigate into the top-level directory, and start the GLUE command line interpreter.
+To install WNV-GLUE, follow the instructions provided in the **[User Guide](https://github.com/giffordlabcvr/WNV-GLUE/wiki)**.
 
-At the GLUE command prompt, run the 'buildWnvBaseProject.glue' file as follows:
+You can choose between:
 
-```
-GLUE Version 1.1.107
-Copyright (C) 2015-2020 The University of Glasgow
-This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you
-are welcome to redistribute it under certain conditions. For details see
-GNU Affero General Public License v3: http://www.gnu.org/licenses/
+-   **[Docker-based installation](https://github.com/giffordlabcvr/WNV-GLUE/wiki/Docker-Installation)** for ease of deployment.
+-   **[Native installation](https://github.com/giffordlabcvr/WNV-GLUE/wiki/Native-Installation)** for traditional setup.
 
-Mode path: /
-GLUE> run file buildWnvBaseProject.glue
-```
+WNV-GLUE can be installed as a prebuilt database for quick setup or constructed from scratch for more customization.
 
-This will build (i) the base project, which contains a minimal set of feature definitions, clade categories, reference sequences, and alignments, and (ii) the extension project, which contains all WNV sequences in GenBank.
+* * * * *
+
 
 ## Usage
 
 GLUE contains an interactive command line environment focused on the development and use of GLUE projects by bioinformaticians. This provides a range of productivity-oriented features such as automatic command completion, command history and interactive paging through tabular data. 
 
 For detailed instructions on how to use WNV-GLUE for your comparative genomic analysis, refer to the GLUE's [reference documentation](http://glue-tools.cvr.gla.ac.uk/).
+
+* * * * *
 
 ## Genotyping
 
@@ -82,12 +70,15 @@ Mode path: /
 GLUE> project wnv module wnvMaxLikelihoodGenotyper genotype file -f path/to/sequences/WNV.fasta 
 ```
 
+* * * * *
+
 ## Data Sources
 
 WNV-GLUE relies on the following data sources:
 
 - [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore)
 
+* * * * *
 
 ## Contributing
 
@@ -95,12 +86,16 @@ We welcome contributions from the community! If you're interested in contributin
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./md/code_of_conduct.md)
 
+* * * * *
 
 ## License
 
 The project is licensed under the [GNU Affero General Public License v. 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
+* * * * *
+
 ## Contact
 
 For questions, issues, or feedback, please open an issue on the [GitHub repository](https://github.com/giffordlabcvr/WNV-GLUE/issues).
 
+* * * * *
