@@ -30,8 +30,8 @@ Projects are loaded into the GLUE "engine," forming a relational database that r
 -   **Automated Genotyping**\
     WNV-GLUE uses the maximum likelihood clade assignment (MLCA) algorithm to perform automated genotyping of WNV sequences, including subgenomic fragments.
 
--   **Variant Calling**\
-    Offers variant calling capabilities for amino acid substitutions, facilitating detailed genetic analysis.
+-   **Variant Mapping**\
+    Incorporates a map of amino acid substitutions, facilitating detailed genetic analysis.
 
 -   **M49 Schema Extension**\
     Includes a schema extension for standardized country and region annotations, enhancing data consistency.
