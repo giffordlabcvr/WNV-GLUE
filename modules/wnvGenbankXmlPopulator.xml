@@ -1772,42 +1772,40 @@
 				</valueConverter>
 
 
-
-
-
-
-
-
-
-
-
 			</propertyPopulator>
 		</gbQualifier>
 
 
-		<gbQualifier name="country">
+		<gbQualifier name="geo_loc_name">
+		
 			<propertyPopulator property="isolate_data.country">
 				<matchPattern>([^:]+)</matchPattern>
 				<outputTemplate>${g1}</outputTemplate>
 			</propertyPopulator>
+			
 			<propertyPopulator property="isolate_data.place_sampled">
 				<matchPattern>^.*:(.*)$</matchPattern>
 				<outputTemplate>${g1?trim}</outputTemplate>
 			</propertyPopulator>
 			<isoCountryPropertyPopulator property="isolate_data.m49_country" codeStyle="ALPHA_3">
 			</isoCountryPropertyPopulator>
+			
 		</gbQualifier>
 
 		<gbQualifier name="geo_loc_name">
+		
 			<propertyPopulator property="isolate_data.country">
 				<matchPattern>([^:]+)</matchPattern>
 				<outputTemplate>${g1}</outputTemplate>
 			</propertyPopulator>
+			
 			<propertyPopulator property="isolate_data.place_sampled">
 				<matchPattern>^.*:(.*)$</matchPattern>
 				<outputTemplate>${g1?trim}</outputTemplate>
 			</propertyPopulator>
+			
 			<isoCountryPropertyPopulator property="isolate_data.m49_country" codeStyle="ALPHA_3">
+			
 			</isoCountryPropertyPopulator>
 		</gbQualifier>
 		
