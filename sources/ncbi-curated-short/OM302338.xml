@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>OM302338</GBSeq_locus>
+    <GBSeq_length>621</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>05-FEB-2025</GBSeq_update-date>
+    <GBSeq_create-date>05-FEB-2025</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus isolate 2496_Spain/2015/RLP-cs_Seville M-E protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>OM302338</GBSeq_primary-accession>
+    <GBSeq_accession-version>OM302338.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|OM302338.1|</GBSeqid>
+      <GBSeqid>gi|2594567820</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..621</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Aguilera-Sepulveda,P.</GBAuthor>
+          <GBAuthor>Cano-Gomez,C.</GBAuthor>
+          <GBAuthor>Villalba,R.</GBAuthor>
+          <GBAuthor>Borges,V.</GBAuthor>
+          <GBAuthor>Aguero,M.</GBAuthor>
+          <GBAuthor>Bravo-Barriga,D.</GBAuthor>
+          <GBAuthor>Frontera,E.</GBAuthor>
+          <GBAuthor>Jimenez-Clavero,M.A.</GBAuthor>
+          <GBAuthor>Fernandez-Pinero,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The key role of Spain in the traffic of West Nile virus lineage 1 strains between Europe and Africa</GBReference_title>
+        <GBReference_journal>Infect Dis (Lond) 56 (9), 743-758 (2024)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1080/23744235.2024.2348633</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>38836293</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..621</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Aguilera-Sepulveda,P.</GBAuthor>
+          <GBAuthor>Cano-Gomez,C.</GBAuthor>
+          <GBAuthor>Jimenez-Clavero,M.A.</GBAuthor>
+          <GBAuthor>Fernandez-Pinero,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-JAN-2022) Centro de Investigacion en Sanidad Animal (CISA), Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria (INIA-CSIC), Carretera Algete-El Casar de Talamanca, s/n, Valdeolmos, Madrid 28130, Spain</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..621</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>621</GBInterval_to>
+            <GBInterval_accession>OM302338.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>2496_Spain/2015/RLP-cs_Seville</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>cloacal swab</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>red-legged partridge</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
+            <GBQualifier_value>Spain: Seville, Andalusia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2015</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: Lineage 1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;621</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>621</GBInterval_to>
+            <GBInterval_accession>OM302338.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>M-E protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WOF76022.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>TKSAVYVRYGRCTKTRHSRRSRRSLTVQTHGESTLANKKGAWMDSTKATRYLVKTESWILRNPGYALVAAVIGWMLGSNTMQRVVFVVLLLLVAPAYSFNCLGMSNRDFLEGVSGATWVDLVLEGDSCVTIMSKDKPTIDVKMMNMEAANLAEVRSYCYLATVSDLSTKAACPTMGEAHNDKRADPAFVCRQGVVDRGWGNGCGLFG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cacaaagtcagcagtctacgtcaggtatggaagatgcaccaagacacgccactcaagacgcagtcggaggtcactgacagtgcagacacacggagaaagcactctagcgaacaaaaagggggcttggatggacagcaccaaggccacaaggtatctggtaaaaacagagtcatggatcctgaggaatcctggatatgctctggtggcagctgtcattggttggatgcttggaagcaacaccatgcagcgagttgtgtttgtcgtgttattgctcttggtggctccagcctacagcttcaactgccttggaatgagcaacagagactttttggagggagtatccggagcaacatgggtggatttggttctcgaaggtgacagctgcgtgactatcatgtccaaggacaagcccaccattgatgtgaagatgatgaatatggaggctgccaacttggcagaggtccgcagttattgctatttggctaccgtcagcgatctctccaccaaagctgcatgcccgaccatgggagaagctcacaacgacaaacgtgctgatccagcttttgtgtgcagacaaggagtggtggacaggggctggggcaacggctgcggactatttgg</GBSeq_sequence>
+  </GBSeq>

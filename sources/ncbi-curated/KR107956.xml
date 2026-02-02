@@ -87,7 +87,7 @@
             <GBQualifier_value>Vero cells</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
-            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
             <GBQualifier_value>Belgium</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>

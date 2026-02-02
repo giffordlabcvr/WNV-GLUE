@@ -101,7 +101,7 @@
             <GBQualifier_value>Vero E6 cells</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
-            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
             <GBQualifier_value>Slovakia</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>

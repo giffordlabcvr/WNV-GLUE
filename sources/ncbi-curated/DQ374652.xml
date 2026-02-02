@@ -69,7 +69,7 @@
             <GBQualifier_value>taxon:11082</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
-            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
             <GBQualifier_value>Russia</GBQualifier_value>
           </GBQualifier>
         </GBFeature_quals>

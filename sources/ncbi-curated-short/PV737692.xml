@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>PV737692</GBSeq_locus>
+    <GBSeq_length>924</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>23-JUN-2025</GBSeq_update-date>
+    <GBSeq_create-date>23-JUN-2025</GBSeq_create-date>
+    <GBSeq_definition>West Nile virus isolate WNV/HR/human/10041/2018 NS5 protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>PV737692</GBSeq_primary-accession>
+    <GBSeq_accession-version>PV737692.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|PV737692.1|</GBSeqid>
+      <GBSeqid>gi|3002359592</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>West Nile virus (WNV)</GBSeq_source>
+    <GBSeq_organism>West Nile virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus nilense</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..924</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Vilibic-Cavlek,T.</GBAuthor>
+          <GBAuthor>Barbic,L.</GBAuthor>
+          <GBAuthor>Klobucar,A.</GBAuthor>
+          <GBAuthor>Vucelja,M.</GBAuthor>
+          <GBAuthor>Bogdanic,M.</GBAuthor>
+          <GBAuthor>Sabadi,D.</GBAuthor>
+          <GBAuthor>Kutlesa,M.</GBAuthor>
+          <GBAuthor>Gjurasin,B.</GBAuthor>
+          <GBAuthor>Stevanovic,V.</GBAuthor>
+          <GBAuthor>Curman Posavec,M.</GBAuthor>
+          <GBAuthor>Bjedov,L.</GBAuthor>
+          <GBAuthor>Boljfetic,M.</GBAuthor>
+          <GBAuthor>Jozic-Novinc,T.</GBAuthor>
+          <GBAuthor>Skara,R.</GBAuthor>
+          <GBAuthor>Tomljenovic,M.</GBAuthor>
+          <GBAuthor>Hruskar,Z.</GBAuthor>
+          <GBAuthor>Al-Mufleh,M.</GBAuthor>
+          <GBAuthor>Potocnik-Hunjadi,T.</GBAuthor>
+          <GBAuthor>Roncevic,I.</GBAuthor>
+          <GBAuthor>Savic,V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Re-Emergence of Usutu Virus and Spreading of West Nile Virus Neuroinvasive Infections During the 2024 Transmission Season in Croatia</GBReference_title>
+        <GBReference_journal>Viruses 17 (6), 846 (2025)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.3390/v17060846</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..924</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Vilibic-Cavlek,T.</GBAuthor>
+          <GBAuthor>Barbic,L.</GBAuthor>
+          <GBAuthor>Klobucar,A.</GBAuthor>
+          <GBAuthor>Vucelja,M.</GBAuthor>
+          <GBAuthor>Bogdanic,M.</GBAuthor>
+          <GBAuthor>Sabadi,D.</GBAuthor>
+          <GBAuthor>Kutlesa,M.</GBAuthor>
+          <GBAuthor>Gjurasin,B.</GBAuthor>
+          <GBAuthor>Stevanovic,V.</GBAuthor>
+          <GBAuthor>Curman Posavec,M.</GBAuthor>
+          <GBAuthor>Bjedov,L.</GBAuthor>
+          <GBAuthor>Boljfetic,M.</GBAuthor>
+          <GBAuthor>Jozic-Novinc,T.</GBAuthor>
+          <GBAuthor>Skara,R.</GBAuthor>
+          <GBAuthor>Tomljenovic,M.</GBAuthor>
+          <GBAuthor>Hruskar,Z.</GBAuthor>
+          <GBAuthor>Al-Mufleh,M.</GBAuthor>
+          <GBAuthor>Potocnik-Hunjadi,T.</GBAuthor>
+          <GBAuthor>Roncevic,I.</GBAuthor>
+          <GBAuthor>Savic,V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (31-MAY-2025) Poultry Center, Croatian Veterinary Institute, Heinzelova 55, Zagreb 10000, Croatia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..924</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>924</GBInterval_to>
+            <GBInterval_accession>PV737692.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>West Nile virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>WNV/HR/human/10041/2018</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>urine</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11082</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
+            <GBQualifier_value>Croatia: Cakovec</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>03-Sep-2018</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>lineage 2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;924</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>924</GBInterval_to>
+            <GBInterval_accession>PV737692.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NS5 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>XWJ58631.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>FGKAKGSRAIWFMWLGARFLEFEALGFLNEDHWLGRKNSGGGVEGLGLQKLGYILKEVGTKPGGKIYADDTAGWDTRITKADLENEAKVLELLDGEHRRLARSIIELTYRHKVVKVMRPAADGKTVMDVISREDQRGSGQVVTYALNTFTNLAVQLVRMMEGEGVIGPDDVEKLGKGKGPKVRAWLFENGEERLSRMAVSGDDCVVKPLDDRFATSLHFLNAMSKVRKDIXEWKPSTGWYDWQQVPFCSNHFTELIMKDGRTLVVPCRGQDELIGRARISPGAGWNVRDTACLAKSYAQMWLLLYFHR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttcggcaaagctaaaggcagcagagccatttggttcatgtggctaggggcccgcttcctggagtttgaagctctcggattcctcaatgaagaccactggctgggtaggaagaactcaggaggaggagttgagggcttaggactgcagaagcttgggtacatcttgaaggaagtcggaacaaagcctggaggaaagatctacgccgatgataccgcaggctgggacacacgcatcaccaaagctgacctcgagaacgaagcgaaggttcttgaactgctggacggagaacaccgacgcctagcgcggtccatcattgagctcacataccgacacaaagtcgtgaaagtgatgaggccagcggccgacgggaaaactgtgatggatgtcatctccagagaggatcagagaggaagcgggcaggtagtgacttacgccctgaacaccttcactaatctggcagttcagctggtcagaatgatggagggggagggggtcattggacctgacgatgttgaaaaactgggaaaaggaaaaggccctaaggtcagagcctggctgtttgagaatggcgaggagcgtctcagtcgtatggccgtcagcggtgatgactgcgtggtgaaacctttggacgaccgcttcgccacatcwctacacttcctaaatgccatgtcaaaggtccgcaaagacatccwggaatggaaaccctcgacagggtggtatgactggcagcaggtcccattctgttcaaaccatttcacggaactgatcatgaaggacggcaggacgttggtggtcccgtgtcgtggacaagacgagttgattggacgggccagaatctctccaggggctggatggaatgtgcgcgacaccgcctgcctggcgaagtcatacgcgcagatgtggctgttgctttattttcaccgt</GBSeq_sequence>
+  </GBSeq>

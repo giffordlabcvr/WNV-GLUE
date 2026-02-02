@@ -8,9 +8,9 @@
   create module -f modules/wnvNcbiImporterGenBankLong.xml
 
   # Download NCBI sequences 
-  #module wnvNcbiImporterGenBankLong import
+  module wnvNcbiImporterGenBankLong import
   module wnvNcbiImporterGenBankShort import
 
   # Export sources
-  #export source ncbi-curated
+  export source ncbi-curated
   export source ncbi-curated-short

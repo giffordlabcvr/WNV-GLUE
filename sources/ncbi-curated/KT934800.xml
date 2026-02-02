@@ -104,7 +104,7 @@
             <GBQualifier_value>taxon:11077</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
-            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
             <GBQualifier_value>Australia: Pilbara Region, Western Australia</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>

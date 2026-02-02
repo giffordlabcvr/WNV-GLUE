@@ -122,7 +122,7 @@
             <GBQualifier_value>pp1</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
-            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_name>geo_loc_name</GBQualifier_name>
             <GBQualifier_value>Mexico</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
