@@ -5,22 +5,22 @@
     populate -f tabular/wnv-lineages-ncbi-curated-short.tsv
     exit
 
-  # Import metadata for RT sequences from tabular
+  # Import metadata from tabular
   module wnvSideDataImporterMissingCountry 
     populate -f tabular/wnv.missing-country-added.tsv
     exit
 
-  # Import metadata for RT sequences from tabular
+  # Import metadata from tabular
   module wnvSideDataImporterPatent 
     populate -f tabular/wnv-patent-associated.tsv
     exit
 
-  # Import metadata for RT sequences from tabular
+  # Import metadata from tabular
   module wnvSideDataImporterExpInfection 
     populate -f tabular/wnv-exp-infection.tsv
     exit
 
-  # Import metadata for RT sequences from tabular
+  # Import metadata from tabular
   module wnvSideDataImporterDownsample 
     populate -f tabular/NorthAmericaDownsampling.tsv
     exit
